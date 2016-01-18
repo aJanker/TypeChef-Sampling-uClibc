@@ -28,7 +28,7 @@ copyBase=$(echo $outBase | sed s/local/scratch/g)
 
 
 # single conf
-    extraFlagsSC="--singleconf --rootfolder /local/janker/openssl"
+    extraFlagsSC="--singleconf --rootfolder /scratch/janker/uclibc/study"
     ./jcpp_sampling.sh $inp "$@" $extraFlagsSC
     gzip -c ${outBase}.err > ${copyBase}_singleconf.err.gz
     gzip -c ${outBase}.dbg > ${copyBase}_singleconf.dbg.gz
@@ -37,7 +37,7 @@ copyBase=$(echo $outBase | sed s/local/scratch/g)
     mv ${outBase}.errreport ${outBase}_singleconf.errreport	
 
  # pairwise
-    extraFlagsPW="--pairwise --rootfolder /local/janker/openssl"
+    extraFlagsPW="--pairwise --rootfolder /scratch/janker/uclibc/study"
     ./jcpp_sampling.sh $inp "$@" $extraFlagsPW
     gzip -c ${outBase}.err > ${copyBase}_pairwise.err.gz
     gzip -c ${outBase}.dbg > ${copyBase}_pairwise.dbg.gz
@@ -46,7 +46,7 @@ copyBase=$(echo $outBase | sed s/local/scratch/g)
     mv ${outBase}.errreport ${outBase}_pairwise.errreport 
 
  # code coverage nh
-    extraFlagsCC="--rootfolder /local/janker/openssl --codecoveragenh"
+    extraFlagsCC="--rootfolder /scratch/janker/uclibc/study --codecoveragenh"
     ./jcpp_sampling.sh $inp "$@" $extraFlagsCC
     gzip -c ${outBase}.err > ${copyBase}_codecoveragenh.err.gz
     gzip -c ${outBase}.dbg > ${copyBase}_codecoveragenh.dbg.gz

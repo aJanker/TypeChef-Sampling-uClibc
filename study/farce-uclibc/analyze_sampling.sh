@@ -13,7 +13,7 @@ srcPath=$(echo $srcPath | sed s/scratch/local/g)
 target=x86_64
 
 #--openFeat $srcPath/openFeaturesList.txt
-export partialPreprocFlags="--bdd --serializeAST --no-warnings --openFeat $srcPath/openFeaturesList.txt --featureModelDimacs $srcPath/uclibc.dimacs --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include -A doublefree -A xfree -A uninitializedmemory -A casetermination -A danglingswitchcode -A checkstdlibfuncreturn -A deadstore -A interactiondegree  --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
+export partialPreprocFlags="--bdd --reuseAST --no-warnings --openFeat $srcPath/openFeaturesList.txt --featureModelDimacs $srcPath/uclibc.dimacs --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include   --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
 
 flags() {
   	name="$1"
@@ -120,6 +120,7 @@ flags() {
 ## Reset output
 filesToProcess|while read i; do
   extraFlags="$(flags "$i")"
-    sbatch -p chimaira  -A spl -n 1 -c 2 --time=06:00:00  --mem_bind=local --output=/dev/null --error=/dev/null  /home/janker/clusterScripts/uclibc_vaa.sh  $srcPath/$i.c $partialPreprocFlags $extraFlags
+    #touch $srcPath/$i.dbg
+    sbatch -p chimaira  -A spl -n 1 -c 2 --time=06:00:00  --mem_bind=local --output=/dev/null --error=/dev/null  /home/janker/clusterScripts/uclibc_sampling.sh  $srcPath/$i.c $partialPreprocFlags $extraFlags
 done
 
