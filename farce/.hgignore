@@ -1,0 +1,9 @@
+syntax: glob
+project/target/*
+target/*
+.idea
+.idea_modules
+busybox-1.20.2
+KBuildMiner
+AnalysisScripts/BusyBox/systems
+run.sh

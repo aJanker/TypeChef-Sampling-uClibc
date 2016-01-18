@@ -1,0 +1,18 @@
+fm True
+features (0)
+	
+imports (12)
+	__xpg_strerror_r: (signed int, char*, unsigned long) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:4220:18
+	chmod: (const char*, unsigned int) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8183:18
+	fstat64: (signed int, struct stat64*) => signed int 		if def(__UCLIBC_HAS_LFS__)		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8133:18, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8133:18
+	fstat: (signed int, struct stat*) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8117:18
+	lstat64: (const char*, struct stat64*) => signed int 		if def(__UCLIBC_HAS_LFS__)		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8176:18, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8176:18
+	lstat: (const char*, struct stat*) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8163:18
+	mkdir: (const char*, unsigned int) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8215:18
+	mknod: (const char*, unsigned int, unsigned long) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8230:18
+	mknodat: (signed int, const char*, unsigned int, unsigned long) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8238:18
+	stat64: (const char*, struct stat64*) => signed int 		if def(__UCLIBC_HAS_LFS__)		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8719:6, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8719:6, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8132:18, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8132:18
+	stat: (const char*, struct stat*) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8716:16, /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8112:18
+	utimensat: (signed int, const char*, const struct timespec*, signed int) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/ftok.pi:8260:18
+exports (1)
+	ftok: (const char*, signed int) => signed int 		if True		at :-1:-1

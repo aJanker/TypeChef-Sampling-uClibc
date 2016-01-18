@@ -1,0 +1,8 @@
+fm True
+features (0)
+	
+imports (2)
+	__errno_location: () => signed int* 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/__syscall_ipc.pi:5850:18
+	__xpg_strerror_r: (signed int, char*, unsigned long) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/sysvipc/__syscall_ipc.pi:4212:18
+exports (0)
+

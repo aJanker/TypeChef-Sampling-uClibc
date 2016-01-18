@@ -1,0 +1,1 @@
+definedEx(__UCLIBC_HAS_SHA256_CRYPT_IMPL__)

@@ -1,0 +1,22 @@
+syntax: glob
+*.c
+*.orig
+*.os
+*.os.dep
+nohup.out
+kernelheaders~
+kernelheaders
+jcpp.sh~
+header.h~
+*~
+findInCode.sh
+fileNotFound.txt
+featuresNoprefix.txt
+defUseWithFIle.txt
+crossTree.constraints
+conflicts.txt
+allFiles
+*.oS.dep
+*.S
+*.o.dep
+venn

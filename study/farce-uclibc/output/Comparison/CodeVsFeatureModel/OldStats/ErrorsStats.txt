@@ -1,0 +1,3 @@
+Num. of unique implications extracted: 135
+Num. of unique implications found in Feature Model formula: 135
+Num. of unique implications not found in Feature Model formula: 0

@@ -1,0 +1,10 @@
+LINE: 1
+TrueITS A TAUTOLOGY!!
+NOT FOUND: (!definedEx(__UCLIBC_HAS_FTW__) || !definedEx(__UCLIBC_HAS_NFTW__))
+NOT FOUND: (!definedEx(__UCLIBC_HAS_STRING_GENERIC_OPT__) || !definedEx(__UCLIBC_HAS_STRING_ARCH_OPT__))
+NOT FOUND: (!definedEx(__UCLIBC_HAS_FORTIFY__) || !definedEx(__UCLIBC_HAS_SSP__))
+NOT FOUND: (!definedEx(__UCLIBC_HAS_IPV4__) || !definedEx(__UCLIBC_HAS_IPV6__))
+NOT FOUND: (!definedEx(__UCLIBC_HAS_STRING_ARCH_OPT__) || definedEx(__UCLIBC_HAS_STRING_GENERIC_OPT__))
+Num. of unique implications extracted: 24
+Num. of unique implications found in Feature Model formula: 19
+Num. of unique implications not found in Feature Model formula: 5

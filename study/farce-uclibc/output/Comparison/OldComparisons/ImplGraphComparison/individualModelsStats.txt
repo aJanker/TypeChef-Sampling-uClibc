@@ -1,0 +1,13 @@
+Num. of implications in feature model impl. graph: 1074
+Num. of implications in feature model: 1074
+Num. of implications in Type Errors Model: 703
+Num. of implications in Def/Use Model: 449
+Num. of implications in Errors Model: 3
+Num. of implications in NestedIfDefModel Errors Model: 95
+Num. of implications in Parsing Errors Model: 0
+Num. of feature model implications found in Type Errors Model impl. graph: 21
+Num. of feature model implications found in Def/Use Model impl. graph: 11
+Num. of feature model implications found in Errors Model impl. graph: 3
+Num. of feature model implications found in NestedIfDefModel Errors Model impl. graph: 13
+Num. of feature model implications found in Parsing Errors Model impl. graph: 0
+TOTAL FOUND: 39

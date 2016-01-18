@@ -1,0 +1,2 @@
+- Double check file list. Compare to file pc list. Are all x86 files in there?
+- The conflict was because of a wrong file pc (check commit https://bitbucket.org/snadi/farce-uclibc/commits/7cacfff774002655ab6d7c0d4b427c052cb82f76)

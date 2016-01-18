@@ -1,0 +1,23 @@
+preprocessor_totalConstraints,158,100
+preprocessor_found,158,100.0
+preprocessor_notFound,0,0.0
+parser_totalConstraints,59,100
+parser_found,59,100.0
+parser_notFound,0,0.0
+type_totalConstraints,947,100
+type_found,917,97.0
+type_notFound,30,3.0
+linker_totalConstraints,312,100
+linker_found,196,63.0
+linker_notFound,116,37.0
+totalAccuracySpecone,1330,90.0
+specOne, 1476,100
+featureEffect_totalConstraints,57,100
+featureEffect_found,42,74.0
+featureEffect_notFound,15,26.0
+featureEffect_Build_totalConstraints,26,100
+featureEffect_Build_found,21,81.0
+featureEffect_Build_notFound,5,19.0
+totalAccuracySpectwo,63,76.0
+specTwo, 83,100
+totalAccuracy,1393,89.0

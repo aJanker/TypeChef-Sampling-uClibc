@@ -1,0 +1,11 @@
+--- uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/libc-tsd.h.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/libc-tsd.h	2013-07-03 04:21:18.301773203 -0400
+@@ -26,7 +26,7 @@
+ #if USE_TLS && HAVE___THREAD
+ 
+ /* When __thread works, the generic definition is what we want.  */
+-# include <sysdeps/generic/bits/libc-tsd.h>
++//# include <sysdeps/generic/bits/libc-tsd.h>
+ 
+ #else
+ 

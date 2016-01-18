@@ -1,0 +1,7 @@
+fm True
+features (0)
+	
+imports (0)
+
+exports (1)
+	__libc_dl_error_tsd: () => void** 		if def(__UCLIBC_HAS_TLS__)		at :-1:-1

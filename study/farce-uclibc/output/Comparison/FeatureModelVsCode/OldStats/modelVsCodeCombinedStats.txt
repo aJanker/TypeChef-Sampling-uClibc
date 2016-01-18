@@ -1,0 +1,19 @@
+INFO: Read defuse
+INFO: Read filePc
+INFO: read parser
+INFO: read errors
+INFO: read type
+INFO: read nested
+Exception in thread "main" java.lang.AssertionError: assertion failed: defuse and parser
+	at scala.Predef$.assert(Predef.scala:103)
+	at gsd.farce.comparisons.FeatureModelComparer$delayedInit$body.apply(FeatureModelComparer.scala:166)
+	at scala.Function0$class.apply$mcV$sp(Function0.scala:34)
+	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)
+	at scala.App$$anonfun$main$1.apply(App.scala:60)
+	at scala.App$$anonfun$main$1.apply(App.scala:60)
+	at scala.collection.LinearSeqOptimized$class.foreach(LinearSeqOptimized.scala:59)
+	at scala.collection.immutable.List.foreach(List.scala:45)
+	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:30)
+	at scala.App$class.main(App.scala:60)
+	at gsd.farce.comparisons.FeatureModelComparer$.main(FeatureModelComparer.scala:32)
+	at gsd.farce.comparisons.FeatureModelComparer.main(FeatureModelComparer.scala)

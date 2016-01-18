@@ -1,0 +1,1 @@
+(definedEx(__UCLIBC_HAS_GLOB__) && !definedEx(__UCLIBC_HAS_GNU_GLOB__) && definedEx(__UCLIBC_HAS_LFS__))

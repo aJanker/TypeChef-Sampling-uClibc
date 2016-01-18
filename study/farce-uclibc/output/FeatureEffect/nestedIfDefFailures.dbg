@@ -1,0 +1,1923 @@
+model has 297 distinct features
+ignoring singletong: false
+File: libc/inet/accept
+File: libc/inet/accept4
+File: libc/inet/addr
+File: libc/inet/bind
+File: libc/inet/closenameservers
+File: libc/inet/connect
+File: libc/inet/decodea
+File: libc/inet/decoded
+File: libc/inet/decodeh
+File: libc/inet/decodep
+File: libc/inet/decodeq
+File: libc/inet/dnslookup
+File: libc/inet/encodea
+File: libc/inet/encoded
+File: libc/inet/encodeh
+File: libc/inet/encodep
+File: libc/inet/encodeq
+File: libc/inet/ether_addr
+File: libc/inet/ethers
+File: libc/inet/formquery
+File: libc/inet/gai_strerror
+File: libc/inet/getaddrinfo
+File: libc/inet/gethostbyaddr
+File: libc/inet/gethostbyaddr_r
+File: libc/inet/gethostbyname
+File: libc/inet/gethostbyname2
+File: libc/inet/gethostbyname2_r
+File: libc/inet/gethostbyname_r
+File: libc/inet/gethostent
+File: libc/inet/gethostent_r
+File: libc/inet/get_hosts_byaddr_r
+File: libc/inet/get_hosts_byname_r
+File: libc/inet/getnameinfo
+File: libc/inet/getnet
+File: libc/inet/getpeername
+File: libc/inet/getproto
+File: libc/inet/getservice
+File: libc/inet/getsockname
+File: libc/inet/getsockopt
+File: libc/inet/herror
+File: libc/inet/hostid
+File: libc/inet/ifaddrs
+File: libc/inet/if_index
+File: libc/inet/in6_addr
+File: libc/inet/inet_addr
+File: libc/inet/inet_aton
+File: libc/inet/inet_lnaof
+File: libc/inet/inet_makeaddr
+File: libc/inet/inet_net
+File: libc/inet/inet_netof
+File: libc/inet/inet_ntoa
+File: libc/inet/lengthd
+File: libc/inet/lengthq
+File: libc/inet/listen
+File: libc/inet/ns_name
+File: libc/inet/ns_netint
+File: libc/inet/ns_parse
+File: libc/inet/ntohl
+File: libc/inet/ntop
+File: libc/inet/opennameservers
+File: libc/inet/opensock
+File: libc/inet/read_etc_hosts_r
+File: libc/inet/recv
+File: libc/inet/recvfrom
+File: libc/inet/recvmsg
+File: libc/inet/res_comp
+File: libc/inet/res_data
+File: libc/inet/res_init
+File: libc/inet/resolv
+File: libc/inet/res_query
+File: libc/inet/_res_state
+File: libc/inet/rpc/auth_none
+File: libc/inet/rpc/auth_unix
+File: libc/inet/rpc/authunix_prot
+File: libc/inet/rpc/bindresvport
+File: libc/inet/rpc/clnt_generic
+File: libc/inet/rpc/clnt_perror
+File: libc/inet/rpc/clnt_raw
+File: libc/inet/rpc/clnt_simple
+File: libc/inet/rpc/clnt_tcp
+File: libc/inet/rpc/clnt_udp
+File: libc/inet/rpc/clnt_unix
+File: libc/inet/rpc/create_xid
+File: libc/inet/rpc/get_myaddress
+File: libc/inet/rpc/getrpcent
+File: libc/inet/rpc/getrpcport
+File: libc/inet/rpc/pmap_clnt
+File: libc/inet/rpc/pmap_prot
+File: libc/inet/rpc/pmap_prot2
+File: libc/inet/rpc/pmap_rmt
+File: libc/inet/rpc/pm_getmaps
+File: libc/inet/rpc/pm_getport
+File: libc/inet/rpc/rcmd
+File: libc/inet/rpc/rexec
+File: libc/inet/rpc/rpc_cmsg
+File: libc/inet/rpc/rpc_commondata
+File: libc/inet/rpc/rpc_dtablesize
+File: libc/inet/rpc/rpc_prot
+File: libc/inet/rpc/rpc_thread
+File: libc/inet/rpc/rtime
+File: libc/inet/rpc/ruserpass
+File: libc/inet/rpc/sa_len
+File: libc/inet/rpc/svc
+File: libc/inet/rpc/svc_auth
+File: libc/inet/rpc/svc_authux
+File: libc/inet/rpc/svc_raw
+File: libc/inet/rpc/svc_run
+File: libc/inet/rpc/svc_simple
+File: libc/inet/rpc/svc_tcp
+File: libc/inet/rpc/svc_udp
+File: libc/inet/rpc/svc_unix
+File: libc/inet/rpc/xdr
+File: libc/inet/rpc/xdr_array
+File: libc/inet/rpc/xdr_float
+File: libc/inet/rpc/xdr_intXX_t
+File: libc/inet/rpc/xdr_mem
+File: libc/inet/rpc/xdr_rec
+File: libc/inet/rpc/xdr_reference
+File: libc/inet/rpc/xdr_stdio
+File: libc/inet/send
+File: libc/inet/sendmsg
+File: libc/inet/sendto
+File: libc/inet/setsockopt
+File: libc/inet/shutdown
+File: libc/inet/socket
+File: libc/inet/socketpair
+File: libc/misc/assert/__assert
+File: libc/misc/ctype/__C_ctype_b
+File: libc/misc/ctype/__C_ctype_tolower
+File: libc/misc/ctype/__C_ctype_toupper
+File: libc/misc/ctype/ctype
+File: libc/misc/ctype/__ctype_assert
+File: libc/misc/ctype/__ctype_b_loc
+File: libc/misc/ctype/__ctype_tolower_loc
+File: libc/misc/ctype/__ctype_toupper_loc
+File: libc/misc/ctype/isalnum
+File: libc/misc/ctype/isalnum_l
+File: libc/misc/ctype/isalpha
+File: libc/misc/ctype/isalpha_l
+File: libc/misc/ctype/isascii
+File: libc/misc/ctype/isascii_l
+File: libc/misc/ctype/isblank
+File: libc/misc/ctype/isblank_l
+File: libc/misc/ctype/iscntrl
+File: libc/misc/ctype/iscntrl_l
+File: libc/misc/ctype/isctype
+File: libc/misc/ctype/isdigit
+File: libc/misc/ctype/isdigit_l
+File: libc/misc/ctype/isgraph
+File: libc/misc/ctype/isgraph_l
+File: libc/misc/ctype/islower
+File: libc/misc/ctype/islower_l
+File: libc/misc/ctype/isprint
+File: libc/misc/ctype/isprint_l
+File: libc/misc/ctype/ispunct
+File: libc/misc/ctype/ispunct_l
+File: libc/misc/ctype/isspace
+File: libc/misc/ctype/isspace_l
+File: libc/misc/ctype/isupper
+File: libc/misc/ctype/isupper_l
+File: libc/misc/ctype/isxdigit
+File: libc/misc/ctype/isxdigit_l
+File: libc/misc/ctype/toascii
+File: libc/misc/ctype/toascii_l
+File: libc/misc/ctype/tolower
+File: libc/misc/ctype/tolower_l
+File: libc/misc/ctype/toupper
+File: libc/misc/ctype/toupper_l
+File: libc/misc/dirent/alphasort
+File: libc/misc/dirent/alphasort64
+File: libc/misc/dirent/closedir
+File: libc/misc/dirent/dirfd
+File: libc/misc/dirent/opendir
+File: libc/misc/dirent/readdir
+File: libc/misc/dirent/readdir64
+File: libc/misc/dirent/readdir64_r
+File: libc/misc/dirent/readdir_r
+File: libc/misc/dirent/rewinddir
+File: libc/misc/dirent/scandir
+File: libc/misc/dirent/scandir64
+File: libc/misc/dirent/seekdir
+File: libc/misc/dirent/telldir
+File: libc/misc/dirent/versionsort
+File: libc/misc/dirent/versionsort64
+File: libc/misc/elf/dl-core
+File: libc/misc/elf/dl-iterate-phdr
+File: libc/misc/elf/dl-support
+File: libc/misc/error/err
+File: libc/misc/error/error
+File: libc/misc/file/lockf
+File: libc/misc/file/lockf64
+File: libc/misc/fnmatch/fnmatch
+File: libc/misc/fnmatch/fnmatch_old
+File: libc/misc/fts/fts
+File: libc/misc/ftw/ftw
+File: libc/misc/ftw/ftw64
+File: libc/misc/glob/glob
+File: libc/misc/glob/glob64
+File: libc/misc/glob/glob64-susv3
+File: libc/misc/glob/glob-susv3
+File: libc/misc/gnu/obstack
+File: libc/misc/internals/errno
+File: libc/misc/internals/__errno_location
+File: libc/misc/internals/__h_errno_location
+File: libc/misc/internals/parse_config
+File: libc/misc/internals/shared_flat_add_library
+File: libc/misc/internals/shared_flat_initfini
+File: libc/misc/internals/tempname
+File: libc/misc/internals/__uClibc_main
+File: libc/misc/locale/__curlocale
+File: libc/misc/locale/duplocale
+File: libc/misc/locale/freelocale
+File: libc/misc/locale/locale
+File: libc/misc/locale/localeconv
+File: libc/misc/locale/_locale_init
+File: libc/misc/locale/__locale_mbrtowc_l
+File: libc/misc/locale/newlocale
+File: libc/misc/locale/nl_langinfo
+File: libc/misc/locale/nl_langinfo_l
+File: libc/misc/locale/setlocale
+File: libc/misc/locale/uselocale
+File: libc/misc/mntent/mntent
+File: libc/misc/regex/regex
+File: libc/misc/regex/regex_old
+File: libc/misc/search/hcreate_r
+File: libc/misc/search/hdestroy_r
+File: libc/misc/search/hsearch
+File: libc/misc/search/_hsearch_r
+File: libc/misc/search/hsearch_r
+File: libc/misc/search/insque
+File: libc/misc/search/insremque
+File: libc/misc/search/lfind
+File: libc/misc/search/lsearch
+File: libc/misc/search/_lsearch
+File: libc/misc/search/remque
+File: libc/misc/search/tdelete
+File: libc/misc/search/tdestroy
+File: libc/misc/search/tfind
+File: libc/misc/search/tsearch
+File: libc/misc/search/_tsearch
+File: libc/misc/search/twalk
+File: libc/misc/statfs/fstatfs64
+File: libc/misc/statfs/fstatvfs
+File: libc/misc/statfs/fstatvfs64
+File: libc/misc/statfs/statfs64
+File: libc/misc/statfs/statvfs
+File: libc/misc/statfs/statvfs64
+File: libc/misc/syslog/syslog
+File: libc/misc/sysvipc/ftok
+File: libc/misc/sysvipc/msgctl
+File: libc/misc/sysvipc/msgget
+File: libc/misc/sysvipc/msgq
+File: libc/misc/sysvipc/msgrcv
+File: libc/misc/sysvipc/msgsnd
+File: libc/misc/sysvipc/sem
+File: libc/misc/sysvipc/semctl
+File: libc/misc/sysvipc/semget
+File: libc/misc/sysvipc/semop
+File: libc/misc/sysvipc/semtimedop
+File: libc/misc/sysvipc/shm
+File: libc/misc/sysvipc/shmat
+File: libc/misc/sysvipc/shmctl
+File: libc/misc/sysvipc/shmdt
+File: libc/misc/sysvipc/shmget
+File: libc/misc/sysvipc/__syscall_ipc
+File: libc/misc/time/adjtime
+File: libc/misc/time/asctime
+File: libc/misc/time/asctime_r
+File: libc/misc/time/clock
+File: libc/misc/time/ctime
+File: libc/misc/time/ctime_r
+File: libc/misc/time/difftime
+File: libc/misc/time/dysize
+File: libc/misc/time/ftime
+File: libc/misc/time/gmtime
+File: libc/misc/time/gmtime_r
+File: libc/misc/time/localtime
+File: libc/misc/time/localtime_r
+File: libc/misc/time/mktime
+File: libc/misc/time/strftime
+File: libc/misc/time/strftime_l
+File: libc/misc/time/strptime
+File: libc/misc/time/strptime_l
+File: libc/misc/time/time
+File: libc/misc/time/timegm
+File: libc/misc/time/_time_localtime_tzi
+File: libc/misc/time/_time_mktime
+File: libc/misc/time/_time_mktime_tzi
+File: libc/misc/time/_time_t2tm
+File: libc/misc/time/__time_tm
+File: libc/misc/time/tzset
+File: libc/misc/time/wcsftime
+File: libc/misc/time/wcsftime_l
+File: libc/misc/ttyent/getttyent
+File: libc/misc/utmp/utent
+File: libc/misc/utmp/utxent
+File: libc/misc/utmp/wtent
+File: libc/misc/wchar/btowc
+File: libc/misc/wchar/iconv
+File: libc/misc/wchar/mbrlen
+File: libc/misc/wchar/mbrtowc
+File: libc/misc/wchar/mbsinit
+File: libc/misc/wchar/mbsnrtowcs
+File: libc/misc/wchar/mbsrtowcs
+File: libc/misc/wchar/_wchar_utf8sntowcs
+File: libc/misc/wchar/_wchar_wcsntoutf8s
+File: libc/misc/wchar/wcrtomb
+File: libc/misc/wchar/wcsnrtombs
+File: libc/misc/wchar/wcsrtombs
+File: libc/misc/wchar/wcswidth
+File: libc/misc/wchar/wctob
+File: libc/misc/wchar/wcwidth
+File: libc/misc/wctype/iswalnum
+File: libc/misc/wctype/iswalnum_l
+File: libc/misc/wctype/iswalpha
+File: libc/misc/wctype/iswalpha_l
+File: libc/misc/wctype/iswblank
+File: libc/misc/wctype/iswblank_l
+File: libc/misc/wctype/iswcntrl
+File: libc/misc/wctype/iswcntrl_l
+File: libc/misc/wctype/iswctype
+File: libc/misc/wctype/iswctype_l
+File: libc/misc/wctype/iswdigit
+File: libc/misc/wctype/iswdigit_l
+File: libc/misc/wctype/iswgraph
+File: libc/misc/wctype/iswgraph_l
+File: libc/misc/wctype/iswlower
+File: libc/misc/wctype/iswlower_l
+File: libc/misc/wctype/iswprint
+File: libc/misc/wctype/iswprint_l
+File: libc/misc/wctype/iswpunct
+File: libc/misc/wctype/iswpunct_l
+File: libc/misc/wctype/iswspace
+File: libc/misc/wctype/iswspace_l
+File: libc/misc/wctype/iswupper
+File: libc/misc/wctype/iswupper_l
+File: libc/misc/wctype/iswxdigit
+File: libc/misc/wctype/iswxdigit_l
+File: libc/misc/wctype/towctrans
+File: libc/misc/wctype/towctrans_l
+File: libc/misc/wctype/towlower
+File: libc/misc/wctype/towlower_l
+File: libc/misc/wctype/towupper
+File: libc/misc/wctype/towupper_l
+File: libc/misc/wctype/wctrans
+File: libc/misc/wctype/wctrans_l
+File: libc/misc/wctype/wctype
+File: libc/misc/wctype/wctype_l
+File: libc/misc/wordexp/wordexp
+File: libc/pwd_grp/fgetgrent
+File: libc/pwd_grp/fgetgrent_r
+File: libc/pwd_grp/fgetpwent
+File: libc/pwd_grp/fgetpwent_r
+File: libc/pwd_grp/fgetspent
+File: libc/pwd_grp/fgetspent_r
+File: libc/pwd_grp/getgrent
+File: libc/pwd_grp/getgrent_r
+File: libc/pwd_grp/getgrgid
+File: libc/pwd_grp/getgrgid_r
+File: libc/pwd_grp/getgrnam
+File: libc/pwd_grp/getgrnam_r
+File: libc/pwd_grp/getgrouplist
+File: libc/pwd_grp/__getgrouplist_internal
+File: libc/pwd_grp/getpw
+File: libc/pwd_grp/getpwent
+File: libc/pwd_grp/getpwent_r
+File: libc/pwd_grp/getpwnam
+File: libc/pwd_grp/getpwnam_r
+File: libc/pwd_grp/getpwuid
+File: libc/pwd_grp/getpwuid_r
+File: libc/pwd_grp/getspent
+File: libc/pwd_grp/getspent_r
+File: libc/pwd_grp/getspnam
+File: libc/pwd_grp/getspnam_r
+File: libc/pwd_grp/initgroups
+File: libc/pwd_grp/lckpwdf
+File: libc/pwd_grp/__parsegrent
+File: libc/pwd_grp/__parsepwent
+File: libc/pwd_grp/__parsespent
+File: libc/pwd_grp/__pgsreader
+File: libc/pwd_grp/putgrent
+File: libc/pwd_grp/putpwent
+File: libc/pwd_grp/putspent
+File: libc/pwd_grp/pwd_grp
+File: libc/pwd_grp/sgetspent
+File: libc/pwd_grp/sgetspent_r
+File: libcrypt/crypt
+File: libcrypt/crypt_stub
+File: libcrypt/des
+File: libcrypt/md5
+File: libcrypt/sha256
+File: libcrypt/sha256-crypt
+File: libcrypt/sha512
+File: libcrypt/sha512-crypt
+File: libc/signal/allocrtsig
+File: libc/signal/killpg
+File: libc/signal/raise
+File: libc/signal/sigaction
+File: libc/signal/sigaddset
+File: libc/signal/sigandset
+File: libc/signal/sigblock
+File: libc/signal/sigdelset
+File: libc/signal/sigempty
+File: libc/signal/sigfillset
+File: libc/signal/siggetmask
+File: libc/signal/sighold
+File: libc/signal/sigignore
+File: libc/signal/sigintr
+File: libc/signal/sigisempty
+File: libc/signal/sigismem
+File: libc/signal/sigjmp
+File: libc/signal/signal
+File: libc/signal/sigorset
+File: libc/signal/sigpause
+File: libc/signal/sigrelse
+File: libc/signal/sigset
+File: libc/signal/sigsetmask
+File: libc/signal/sigsetops
+File: libc/signal/sigwait
+File: libc/signal/sysv_signal
+File: libc/stdio/_adjust_pos
+File: libc/stdio/asprintf
+File: libc/stdio/clearerr
+File: libc/stdio/clearerr_unlocked
+File: libc/stdio/_cs_funcs
+File: libc/stdio/ctermid
+File: libc/stdio/dprintf
+File: libc/stdio/__fbufsize
+File: libc/stdio/fclose
+File: libc/stdio/fcloseall
+File: libc/stdio/fdopen
+File: libc/stdio/feof
+File: libc/stdio/feof_unlocked
+File: libc/stdio/ferror
+File: libc/stdio/ferror_unlocked
+File: libc/stdio/fflush
+File: libc/stdio/fflush_unlocked
+File: libc/stdio/fgetc
+File: libc/stdio/fgetc_unlocked
+File: libc/stdio/fgetpos
+File: libc/stdio/fgetpos64
+File: libc/stdio/fgets
+File: libc/stdio/fgets_unlocked
+File: libc/stdio/fgetwc
+File: libc/stdio/fgetwc_unlocked
+File: libc/stdio/fgetws
+File: libc/stdio/fgetws_unlocked
+File: libc/stdio/fileno
+File: libc/stdio/fileno_unlocked
+File: libc/stdio/__flbf
+File: libc/stdio/flockfile
+File: libc/stdio/_flushlbf
+File: libc/stdio/fmemopen
+File: libc/stdio/fopen
+File: libc/stdio/_fopen
+File: libc/stdio/fopen64
+File: libc/stdio/fopencookie
+File: libc/stdio/__fpending
+File: libc/stdio/_fpmaxtostr
+File: libc/stdio/fprintf
+File: libc/stdio/__fpurge
+File: libc/stdio/fputc
+File: libc/stdio/fputc_unlocked
+File: libc/stdio/fputs
+File: libc/stdio/fputs_unlocked
+File: libc/stdio/fputwc
+File: libc/stdio/fputwc_unlocked
+File: libc/stdio/fputws
+File: libc/stdio/fputws_unlocked
+File: libc/stdio/fread
+File: libc/stdio/__freadable
+File: libc/stdio/__freading
+File: libc/stdio/fread_unlocked
+File: libc/stdio/freopen
+File: libc/stdio/freopen64
+File: libc/stdio/fscanf
+File: libc/stdio/fseeko
+File: libc/stdio/fseeko64
+File: libc/stdio/__fsetlocking
+File: libc/stdio/fsetpos
+File: libc/stdio/fsetpos64
+File: libc/stdio/ftello
+File: libc/stdio/ftello64
+File: libc/stdio/ftrylockfile
+File: libc/stdio/funlockfile
+File: libc/stdio/fwide
+File: libc/stdio/fwprintf
+File: libc/stdio/__fwritable
+File: libc/stdio/fwrite
+File: libc/stdio/_fwrite
+File: libc/stdio/fwrite_unlocked
+File: libc/stdio/__fwriting
+File: libc/stdio/fwscanf
+File: libc/stdio/getchar
+File: libc/stdio/getchar_unlocked
+File: libc/stdio/getdelim
+File: libc/stdio/getline
+File: libc/stdio/gets
+File: libc/stdio/getw
+File: libc/stdio/getwchar
+File: libc/stdio/getwchar_unlocked
+File: libc/stdio/_load_inttype
+File: libc/stdio/old_vfprintf
+File: libc/stdio/open_memstream
+File: libc/stdio/parse_printf_format
+File: libc/stdio/perror
+File: libc/stdio/popen
+File: libc/stdio/_ppfs_init
+File: libc/stdio/_ppfs_parsespec
+File: libc/stdio/_ppfs_prepargs
+File: libc/stdio/_ppfs_setargs
+File: libc/stdio/printf
+File: libc/stdio/__psfs_do_numeric
+File: libc/stdio/__psfs_parse_spec
+File: libc/stdio/putchar
+File: libc/stdio/putchar_unlocked
+File: libc/stdio/puts
+File: libc/stdio/putw
+File: libc/stdio/putwchar
+File: libc/stdio/putwchar_unlocked
+File: libc/stdio/_READ
+File: libc/stdio/register_printf_function
+File: libc/stdio/remove
+File: libc/stdio/rewind
+File: libc/stdio/_rfill
+File: libc/stdio/__scan_cookie
+File: libc/stdio/scanf
+File: libc/stdio/_scanf
+File: libc/stdio/setbuf
+File: libc/stdio/setbuffer
+File: libc/stdio/setlinebuf
+File: libc/stdio/setvbuf
+File: libc/stdio/snprintf
+File: libc/stdio/sprintf
+File: libc/stdio/sscanf
+File: libc/stdio/_stdio
+File: libc/stdio/_store_inttype
+File: libc/stdio/swprintf
+File: libc/stdio/swscanf
+File: libc/stdio/tempnam
+File: libc/stdio/tmpfile
+File: libc/stdio/tmpnam
+File: libc/stdio/tmpnam_r
+File: libc/stdio/_trans2r
+File: libc/stdio/_trans2w
+File: libc/stdio/_uintmaxtostr
+File: libc/stdio/ungetc
+File: libc/stdio/ungetwc
+File: libc/stdio/vasprintf
+File: libc/stdio/vdprintf
+File: libc/stdio/vfprintf
+File: libc/stdio/_vfprintf
+File: libc/stdio/_vfprintf_internal
+File: libc/stdio/vfscanf
+File: libc/stdio/vfwprintf
+File: libc/stdio/_vfwprintf_internal
+File: libc/stdio/vfwscanf
+File: libc/stdio/vprintf
+File: libc/stdio/vscanf
+File: libc/stdio/vsnprintf
+File: libc/stdio/vsprintf
+File: libc/stdio/vsscanf
+File: libc/stdio/vswprintf
+File: libc/stdio/vswscanf
+File: libc/stdio/vwprintf
+File: libc/stdio/vwscanf
+File: libc/stdio/_wcommit
+File: libc/stdio/_wfwrite
+File: libc/stdio/wprintf
+File: libc/stdio/_WRITE
+File: libc/stdio/wscanf
+File: libc/stdlib/a64l
+File: libc/stdlib/abort
+File: libc/stdlib/abs
+File: libc/stdlib/arc4random
+File: libc/stdlib/atexit
+File: libc/stdlib/_atexit
+File: libc/stdlib/atof
+File: libc/stdlib/atoi
+File: libc/stdlib/atol
+File: libc/stdlib/atoll
+File: libc/stdlib/bsd_getpt
+File: libc/stdlib/bsearch
+File: libc/stdlib/canonicalize
+File: libc/stdlib/__cxa_atexit
+File: libc/stdlib/__cxa_finalize
+File: libc/stdlib/div
+File: libc/stdlib/drand48
+File: libc/stdlib/drand48-iter
+File: libc/stdlib/drand48_r
+File: libc/stdlib/erand48
+File: libc/stdlib/erand48_r
+File: libc/stdlib/exit
+File: libc/stdlib/__exit_handler
+File: libc/stdlib/__fp_range_check
+File: libc/stdlib/gcvt
+File: libc/stdlib/getenv
+File: libc/stdlib/getpt
+File: libc/stdlib/grantpt
+File: libc/stdlib/jrand48
+File: libc/stdlib/jrand48_r
+File: libc/stdlib/l64a
+File: libc/stdlib/labs
+File: libc/stdlib/ldiv
+File: libc/stdlib/llabs
+File: libc/stdlib/lldiv
+File: libc/stdlib/lrand48
+File: libc/stdlib/lrand48_r
+File: libc/stdlib/malloc/calloc
+File: libc/stdlib/malloc/free
+File: libc/stdlib/malloc/heap_alloc
+File: libc/stdlib/malloc/heap_alloc_at
+File: libc/stdlib/malloc/heap_debug
+File: libc/stdlib/malloc/heap_free
+File: libc/stdlib/malloc/malloc
+File: libc/stdlib/malloc/malloc_debug
+File: libc/stdlib/malloc/memalign
+File: libc/stdlib/malloc/realloc
+File: libc/stdlib/malloc-simple/alloc
+File: libc/stdlib/malloc-simple/calloc
+File: libc/stdlib/malloc-simple/free
+File: libc/stdlib/malloc-simple/malloc
+File: libc/stdlib/malloc-simple/memalign
+File: libc/stdlib/malloc-simple/realloc
+File: libc/stdlib/malloc-standard/calloc
+File: libc/stdlib/malloc-standard/free
+File: libc/stdlib/malloc-standard/mallinfo
+File: libc/stdlib/malloc-standard/malloc
+File: libc/stdlib/malloc-standard/mallopt
+File: libc/stdlib/malloc-standard/memalign
+File: libc/stdlib/malloc-standard/realloc
+File: libc/stdlib/mblen
+File: libc/stdlib/mbstowcs
+File: libc/stdlib/mbtowc
+File: libc/stdlib/mkdtemp
+File: libc/stdlib/mkstemp
+File: libc/stdlib/mkstemp64
+File: libc/stdlib/mktemp
+File: libc/stdlib/mrand48
+File: libc/stdlib/mrand48_r
+File: libc/stdlib/nrand48
+File: libc/stdlib/nrand48_r
+File: libc/stdlib/old_atexit
+File: libc/stdlib/on_exit
+File: libc/stdlib/posix_memalign
+File: libc/stdlib/ptsname
+File: libc/stdlib/qsort
+File: libc/stdlib/qsort_r
+File: libc/stdlib/rand
+File: libc/stdlib/random
+File: libc/stdlib/random_r
+File: libc/stdlib/rand_r
+File: libc/stdlib/realpath
+File: libc/stdlib/seed48
+File: libc/stdlib/seed48_r
+File: libc/stdlib/setenv
+File: libc/stdlib/srand48
+File: libc/stdlib/srand48_r
+File: libc/stdlib/stdlib
+File: libc/stdlib/_stdlib_mb_cur_max
+File: libc/stdlib/_stdlib_strto_l
+File: libc/stdlib/_stdlib_strto_ll
+File: libc/stdlib/_stdlib_strto_l_l
+File: libc/stdlib/_stdlib_strto_ll_l
+File: libc/stdlib/_stdlib_wcsto_l
+File: libc/stdlib/_stdlib_wcsto_ll
+File: libc/stdlib/_stdlib_wcsto_l_l
+File: libc/stdlib/_stdlib_wcsto_ll_l
+File: libc/stdlib/strtod
+File: libc/stdlib/strtod_l
+File: libc/stdlib/strtof
+File: libc/stdlib/strtof_l
+File: libc/stdlib/__strtofpmax
+File: libc/stdlib/__strtofpmax_l
+File: libc/stdlib/strtol
+File: libc/stdlib/strtold
+File: libc/stdlib/strtold_l
+File: libc/stdlib/strtoll
+File: libc/stdlib/strtol_l
+File: libc/stdlib/strtoll_l
+File: libc/stdlib/strtoul
+File: libc/stdlib/strtoull
+File: libc/stdlib/strtoul_l
+File: libc/stdlib/strtoull_l
+File: libc/stdlib/system
+File: libc/stdlib/__uc_malloc
+File: libc/stdlib/unlockpt
+File: libc/stdlib/valloc
+File: libc/stdlib/wcstod
+File: libc/stdlib/wcstod_l
+File: libc/stdlib/wcstof
+File: libc/stdlib/wcstof_l
+File: libc/stdlib/__wcstofpmax
+File: libc/stdlib/__wcstofpmax_l
+File: libc/stdlib/wcstol
+File: libc/stdlib/wcstold
+File: libc/stdlib/wcstold_l
+File: libc/stdlib/wcstoll
+File: libc/stdlib/wcstol_l
+File: libc/stdlib/wcstoll_l
+File: libc/stdlib/wcstombs
+File: libc/stdlib/wcstoul
+File: libc/stdlib/wcstoull
+File: libc/stdlib/wcstoul_l
+File: libc/stdlib/wcstoull_l
+File: libc/stdlib/wctomb
+File: libc/string/basename
+File: libc/string/bcopy
+File: libc/string/bzero
+File: libc/string/_collate
+File: libc/string/dirname
+File: libc/string/ffs
+File: libc/string/ffsll
+File: libc/string/generic/memchr
+File: libc/string/generic/memcmp
+File: libc/string/generic/memcpy
+File: libc/string/generic/memmem
+File: libc/string/generic/memmove
+File: libc/string/generic/mempcpy
+File: libc/string/generic/memrchr
+File: libc/string/generic/memset
+File: libc/string/generic/rawmemchr
+File: libc/string/generic/strcat
+File: libc/string/generic/strchr
+File: libc/string/generic/strchrnul
+File: libc/string/generic/strcmp
+File: libc/string/generic/strcpy
+File: libc/string/generic/strcspn
+File: libc/string/generic/strlen
+File: libc/string/generic/strncat
+File: libc/string/generic/strncmp
+File: libc/string/generic/strncpy
+File: libc/string/generic/strnlen
+File: libc/string/generic/strrchr
+File: libc/string/generic/strsep
+File: libc/string/generic/strspn
+File: libc/string/generic/strstr
+File: libc/string/generic/strtok_r
+File: libc/string/__glibc_strerror_r
+File: libc/string/memccpy
+File: libc/string/memchr
+File: libc/string/memcmp
+File: libc/string/memcpy
+File: libc/string/memmem
+File: libc/string/memmove
+File: libc/string/mempcpy
+File: libc/string/memrchr
+File: libc/string/memset
+File: libc/string/psignal
+File: libc/string/rawmemchr
+File: libc/string/stpcpy
+File: libc/string/stpncpy
+File: libc/string/strcasecmp
+File: libc/string/strcasecmp_l
+File: libc/string/strcasestr
+File: libc/string/strcat
+File: libc/string/strchr
+File: libc/string/strchrnul
+File: libc/string/strcmp
+File: libc/string/strcpy
+File: libc/string/strcspn
+File: libc/string/strdup
+File: libc/string/strerror
+File: libc/string/_string_syserrmsgs
+File: libc/string/_string_syssigmsgs
+File: libc/string/strlcat
+File: libc/string/strlcpy
+File: libc/string/strlen
+File: libc/string/strncasecmp
+File: libc/string/strncasecmp_l
+File: libc/string/strncat
+File: libc/string/strncmp
+File: libc/string/strncpy
+File: libc/string/strndup
+File: libc/string/strnlen
+File: libc/string/strpbrk
+File: libc/string/strrchr
+File: libc/string/strsep
+File: libc/string/strsignal
+File: libc/string/strspn
+File: libc/string/strstr
+File: libc/string/strtok
+File: libc/string/strtok_r
+File: libc/string/strverscmp
+File: libc/string/strxfrm
+File: libc/string/strxfrm_l
+File: libc/string/sys_errlist
+File: libc/string/sys_siglist
+File: libc/string/wcpcpy
+File: libc/string/wcpncpy
+File: libc/string/wcscasecmp
+File: libc/string/wcscasecmp_l
+File: libc/string/wcscat
+File: libc/string/wcschr
+File: libc/string/wcschrnul
+File: libc/string/wcscmp
+File: libc/string/wcscpy
+File: libc/string/wcscspn
+File: libc/string/wcsdup
+File: libc/string/wcslcpy
+File: libc/string/wcslen
+File: libc/string/wcsncasecmp
+File: libc/string/wcsncasecmp_l
+File: libc/string/wcsncat
+File: libc/string/wcsncmp
+File: libc/string/wcsncpy
+File: libc/string/wcsnlen
+File: libc/string/wcspbrk
+File: libc/string/wcsrchr
+File: libc/string/wcsspn
+File: libc/string/wcsstr
+File: libc/string/wcstok
+File: libc/string/wcsxfrm
+File: libc/string/wcsxfrm_l
+File: libc/string/wmemchr
+File: libc/string/wmemcmp
+File: libc/string/wmemcpy
+File: libc/string/wmemmove
+File: libc/string/wmempcpy
+File: libc/string/wmemset
+File: libc/string/__xpg_basename
+File: libc/string/__xpg_strerror_r
+File: libc/sysdeps/linux/common/access
+File: libc/sysdeps/linux/common/acct
+File: libc/sysdeps/linux/common/adjtimex
+File: libc/sysdeps/linux/common/alarm
+File: libc/sysdeps/linux/common/arch_prctl
+File: libc/sysdeps/linux/common/bdflush
+File: libc/sysdeps/linux/common/brk
+File: libc/sysdeps/linux/common/capget
+File: libc/sysdeps/linux/common/capset
+File: libc/sysdeps/linux/common/chdir
+File: libc/sysdeps/linux/common/chmod
+File: libc/sysdeps/linux/common/chown
+File: libc/sysdeps/linux/common/chroot
+File: libc/sysdeps/linux/common/clock_getres
+File: libc/sysdeps/linux/common/clock_gettime
+File: libc/sysdeps/linux/common/clock_settime
+File: libc/sysdeps/linux/common/close
+File: libc/sysdeps/linux/common/cmsg_nxthdr
+File: libc/sysdeps/linux/common/creat
+File: libc/sysdeps/linux/common/creat64
+File: libc/sysdeps/linux/common/create_module
+File: libc/sysdeps/linux/common/delete_module
+File: libc/sysdeps/linux/common/dup
+File: libc/sysdeps/linux/common/dup2
+File: libc/sysdeps/linux/common/epoll
+File: libc/sysdeps/linux/common/eventfd
+File: libc/sysdeps/linux/common/execve
+File: libc/sysdeps/linux/common/_exit
+File: libc/sysdeps/linux/common/faccessat
+File: libc/sysdeps/linux/common/fchdir
+File: libc/sysdeps/linux/common/fchmod
+File: libc/sysdeps/linux/common/fchmodat
+File: libc/sysdeps/linux/common/fchown
+File: libc/sysdeps/linux/common/fchownat
+File: libc/sysdeps/linux/common/fdatasync
+File: libc/sysdeps/linux/common/flock
+File: libc/sysdeps/linux/common/fork
+File: libc/sysdeps/linux/common/fstat
+File: libc/sysdeps/linux/common/fstat64
+File: libc/sysdeps/linux/common/fstatat
+File: libc/sysdeps/linux/common/fstatat64
+File: libc/sysdeps/linux/common/fstatfs
+File: libc/sysdeps/linux/common/fsync
+File: libc/sysdeps/linux/common/ftruncate
+File: libc/sysdeps/linux/common/ftruncate64
+File: libc/sysdeps/linux/common/futimens
+File: libc/sysdeps/linux/common/futimesat
+File: libc/sysdeps/linux/common/getcwd
+File: libc/sysdeps/linux/common/getdents
+File: libc/sysdeps/linux/common/getdents64
+File: libc/sysdeps/linux/common/getdirname
+File: libc/sysdeps/linux/common/getdomainname
+File: libc/sysdeps/linux/common/getdtablesize
+File: libc/sysdeps/linux/common/getegid
+File: libc/sysdeps/linux/common/geteuid
+File: libc/sysdeps/linux/common/getgid
+File: libc/sysdeps/linux/common/getgroups
+File: libc/sysdeps/linux/common/gethostname
+File: libc/sysdeps/linux/common/getitimer
+File: libc/sysdeps/linux/common/get_kernel_syms
+File: libc/sysdeps/linux/common/getpagesize
+File: libc/sysdeps/linux/common/getpgid
+File: libc/sysdeps/linux/common/getpgrp
+File: libc/sysdeps/linux/common/getpid
+File: libc/sysdeps/linux/common/getppid
+File: libc/sysdeps/linux/common/getpriority
+File: libc/sysdeps/linux/common/getresgid
+File: libc/sysdeps/linux/common/getresuid
+File: libc/sysdeps/linux/common/getrlimit
+File: libc/sysdeps/linux/common/getrlimit64
+File: libc/sysdeps/linux/common/getrusage
+File: libc/sysdeps/linux/common/getsid
+File: libc/sysdeps/linux/common/gettimeofday
+File: libc/sysdeps/linux/common/getuid
+File: libc/sysdeps/linux/common/init_module
+File: libc/sysdeps/linux/common/inotify
+File: libc/sysdeps/linux/common/ioctl
+File: libc/sysdeps/linux/common/ioperm
+File: libc/sysdeps/linux/common/iopl
+File: libc/sysdeps/linux/common/kill
+File: libc/sysdeps/linux/common/klogctl
+File: libc/sysdeps/linux/common/lchown
+File: libc/sysdeps/linux/common/link
+File: libc/sysdeps/linux/common/linkat
+File: libc/sysdeps/linux/common/llseek
+File: libc/sysdeps/linux/common/longjmp
+File: libc/sysdeps/linux/common/lseek
+File: libc/sysdeps/linux/common/lstat
+File: libc/sysdeps/linux/common/lstat64
+File: libc/sysdeps/linux/common/lutimes
+File: libc/sysdeps/linux/common/madvise
+File: libc/sysdeps/linux/common/mincore
+File: libc/sysdeps/linux/common/mkdir
+File: libc/sysdeps/linux/common/mkdirat
+File: libc/sysdeps/linux/common/mkfifo
+File: libc/sysdeps/linux/common/mkfifoat
+File: libc/sysdeps/linux/common/mknod
+File: libc/sysdeps/linux/common/mknodat
+File: libc/sysdeps/linux/common/mlock
+File: libc/sysdeps/linux/common/mlockall
+File: libc/sysdeps/linux/common/mmap
+File: libc/sysdeps/linux/common/mmap64
+File: libc/sysdeps/linux/common/modify_ldt
+File: libc/sysdeps/linux/common/mount
+File: libc/sysdeps/linux/common/mprotect
+File: libc/sysdeps/linux/common/mremap
+File: libc/sysdeps/linux/common/msync
+File: libc/sysdeps/linux/common/munlock
+File: libc/sysdeps/linux/common/munlockall
+File: libc/sysdeps/linux/common/munmap
+File: libc/sysdeps/linux/common/nanosleep
+File: libc/sysdeps/linux/common/nice
+File: libc/sysdeps/linux/common/noophooks
+File: libc/sysdeps/linux/common/ntp_gettime
+File: libc/sysdeps/linux/common/open
+File: libc/sysdeps/linux/common/open64
+File: libc/sysdeps/linux/common/openat
+File: libc/sysdeps/linux/common/openat64
+File: libc/sysdeps/linux/common/pause
+File: libc/sysdeps/linux/common/personality
+File: libc/sysdeps/linux/common/pipe
+File: libc/sysdeps/linux/common/pipe2
+File: libc/sysdeps/linux/common/pivot_root
+File: libc/sysdeps/linux/common/poll
+File: libc/sysdeps/linux/common/posix_fadvise
+File: libc/sysdeps/linux/common/posix_fadvise64
+File: libc/sysdeps/linux/common/ppoll
+File: libc/sysdeps/linux/common/prctl
+File: libc/sysdeps/linux/common/pread_write
+File: libc/sysdeps/linux/common/pselect
+File: libc/sysdeps/linux/common/ptrace
+File: libc/sysdeps/linux/common/query_module
+File: libc/sysdeps/linux/common/quotactl
+File: libc/sysdeps/linux/common/read
+File: libc/sysdeps/linux/common/readahead
+File: libc/sysdeps/linux/common/readlink
+File: libc/sysdeps/linux/common/readlinkat
+File: libc/sysdeps/linux/common/readv
+File: libc/sysdeps/linux/common/reboot
+File: libc/sysdeps/linux/common/remap_file_pages
+File: libc/sysdeps/linux/common/rename
+File: libc/sysdeps/linux/common/renameat
+File: libc/sysdeps/linux/common/rmdir
+File: libc/sysdeps/linux/common/__rt_sigtimedwait
+File: libc/sysdeps/linux/common/__rt_sigwaitinfo
+File: libc/sysdeps/linux/common/sbrk
+File: libc/sysdeps/linux/common/sched_cpucount
+File: libc/sysdeps/linux/common/sched_getaffinity
+File: libc/sysdeps/linux/common/sched_getcpu
+File: libc/sysdeps/linux/common/sched_getparam
+File: libc/sysdeps/linux/common/sched_get_priority_max
+File: libc/sysdeps/linux/common/sched_get_priority_min
+File: libc/sysdeps/linux/common/sched_getscheduler
+File: libc/sysdeps/linux/common/sched_rr_get_interval
+File: libc/sysdeps/linux/common/sched_setaffinity
+File: libc/sysdeps/linux/common/sched_setparam
+File: libc/sysdeps/linux/common/sched_setscheduler
+File: libc/sysdeps/linux/common/sched_yield
+File: libc/sysdeps/linux/common/select
+File: libc/sysdeps/linux/common/sendfile
+File: libc/sysdeps/linux/common/sendfile64
+File: libc/sysdeps/linux/common/setdomainname
+File: libc/sysdeps/linux/common/setegid
+File: libc/sysdeps/linux/common/seteuid
+File: libc/sysdeps/linux/common/setfsgid
+File: libc/sysdeps/linux/common/setfsuid
+File: libc/sysdeps/linux/common/setgid
+File: libc/sysdeps/linux/common/setgroups
+File: libc/sysdeps/linux/common/sethostname
+File: libc/sysdeps/linux/common/setitimer
+File: libc/sysdeps/linux/common/setpgid
+File: libc/sysdeps/linux/common/setpgrp
+File: libc/sysdeps/linux/common/setpriority
+File: libc/sysdeps/linux/common/setregid
+File: libc/sysdeps/linux/common/setresgid
+File: libc/sysdeps/linux/common/setresuid
+File: libc/sysdeps/linux/common/setreuid
+File: libc/sysdeps/linux/common/setrlimit
+File: libc/sysdeps/linux/common/setrlimit64
+File: libc/sysdeps/linux/common/setsid
+File: libc/sysdeps/linux/common/settimeofday
+File: libc/sysdeps/linux/common/setuid
+File: libc/sysdeps/linux/common/sigaltstack
+File: libc/sysdeps/linux/common/signalfd
+File: libc/sysdeps/linux/common/sigpending
+File: libc/sysdeps/linux/common/sigprocmask
+File: libc/sysdeps/linux/common/sigqueue
+File: libc/sysdeps/linux/common/sigsuspend
+File: libc/sysdeps/linux/common/__socketcall
+File: libc/sysdeps/linux/common/splice
+File: libc/sysdeps/linux/common/ssp
+File: libc/sysdeps/linux/common/ssp-local
+File: libc/sysdeps/linux/common/stat
+File: libc/sysdeps/linux/common/stat64
+File: libc/sysdeps/linux/common/statfs
+File: libc/sysdeps/linux/common/stime
+File: libc/sysdeps/linux/common/stubs
+File: libc/sysdeps/linux/common/swapoff
+File: libc/sysdeps/linux/common/swapon
+File: libc/sysdeps/linux/common/symlink
+File: libc/sysdeps/linux/common/symlinkat
+File: libc/sysdeps/linux/common/sync
+File: libc/sysdeps/linux/common/sync_file_range
+File: libc/sysdeps/linux/common/syscall
+File: libc/sysdeps/linux/common/__syscall_fcntl
+File: libc/sysdeps/linux/common/__syscall_fcntl64
+File: libc/sysdeps/linux/common/__syscall_rt_sigaction
+File: libc/sysdeps/linux/common/__syscall_sigaction
+File: libc/sysdeps/linux/common/sysctl
+File: libc/sysdeps/linux/common/sysinfo
+File: libc/sysdeps/linux/common/tee
+File: libc/sysdeps/linux/common/time
+File: libc/sysdeps/linux/common/timerfd
+File: libc/sysdeps/linux/common/times
+File: libc/sysdeps/linux/common/truncate
+File: libc/sysdeps/linux/common/truncate64
+File: libc/sysdeps/linux/common/ulimit
+File: libc/sysdeps/linux/common/umask
+File: libc/sysdeps/linux/common/umount
+File: libc/sysdeps/linux/common/umount2
+File: libc/sysdeps/linux/common/uname
+File: libc/sysdeps/linux/common/unlink
+File: libc/sysdeps/linux/common/unlinkat
+File: libc/sysdeps/linux/common/unshare
+File: libc/sysdeps/linux/common/ustat
+File: libc/sysdeps/linux/common/utime
+File: libc/sysdeps/linux/common/utimensat
+File: libc/sysdeps/linux/common/utimes
+File: libc/sysdeps/linux/common/vfork
+File: libc/sysdeps/linux/common/vhangup
+File: libc/sysdeps/linux/common/vmsplice
+File: libc/sysdeps/linux/common/wait3
+File: libc/sysdeps/linux/common/wait4
+File: libc/sysdeps/linux/common/waitid
+File: libc/sysdeps/linux/common/waitpid
+File: libc/sysdeps/linux/common/write
+File: libc/sysdeps/linux/common/writev
+File: libc/sysdeps/linux/common/xattr
+File: libc/sysdeps/linux/common/xstatconv
+File: libc/sysdeps/linux/vax/brk
+File: libc/sysdeps/linux/vax/mmap
+File: libc/sysdeps/linux/x86_64/brk
+File: libc/sysdeps/linux/x86_64/mmap
+File: libc/sysdeps/linux/x86_64/sigaction
+File: libc/sysdeps/linux/x86_64/__syscall_error
+File: libc/termios/cfmakeraw
+File: libc/termios/cfsetspeed
+File: libc/termios/isatty
+File: libc/termios/speed
+File: libc/termios/tcdrain
+File: libc/termios/tcflow
+File: libc/termios/tcflush
+File: libc/termios/tcgetattr
+File: libc/termios/tcgetpgrp
+File: libc/termios/tcgetsid
+File: libc/termios/tcsendbrk
+File: libc/termios/tcsetattr
+File: libc/termios/tcsetpgrp
+File: libc/termios/ttyname
+File: libc/unistd/confstr
+File: libc/unistd/daemon
+File: libc/unistd/exec
+File: libc/unistd/__exec_alloc
+File: libc/unistd/execl
+File: libc/unistd/execle
+File: libc/unistd/execlp
+File: libc/unistd/execv
+File: libc/unistd/execvp
+File: libc/unistd/fpathconf
+File: libc/unistd/getlogin
+File: libc/unistd/getopt
+File: libc/unistd/getopt_long-simple
+File: libc/unistd/getopt-susv3
+File: libc/unistd/getpass
+File: libc/unistd/getsubopt
+File: libc/unistd/getsubopt-susv3
+File: libc/unistd/pathconf
+File: libc/unistd/sleep
+File: libc/unistd/swab
+File: libc/unistd/sysconf
+File: libc/unistd/ualarm
+File: libc/unistd/usershell
+File: libc/unistd/usleep
+File: libintl/intl
+File: libm/carg
+File: libm/cexp
+File: libm/e_acos
+File: libm/e_acosh
+File: libm/e_asin
+File: libm/e_atan2
+File: libm/e_atanh
+File: libm/e_cosh
+File: libm/e_exp
+File: libm/e_fmod
+File: libm/e_hypot
+File: libm/e_j0
+File: libm/e_j1
+File: libm/e_jn
+File: libm/e_lgamma_r
+File: libm/e_log
+File: libm/e_log10
+File: libm/e_log2
+File: libm/e_pow
+File: libm/e_remainder
+File: libm/e_rem_pio2
+File: libm/e_scalb
+File: libm/e_sinh
+File: libm/e_sqrt
+File: libm/float_wrappers
+File: libm/k_cos
+File: libm/k_rem_pio2
+File: libm/k_sin
+File: libm/k_standard
+File: libm/k_tan
+File: libm/ldouble_wrappers
+File: libm/nan
+File: libm/s_asinh
+File: libm/s_atan
+File: libm/s_cbrt
+File: libm/s_ceil
+File: libm/s_copysign
+File: libm/s_cos
+File: libm/s_erf
+File: libm/s_expm1
+File: libm/s_fabs
+File: libm/s_fdim
+File: libm/s_finite
+File: libm/s_finitef
+File: libm/s_floor
+File: libm/s_fma
+File: libm/s_fmax
+File: libm/s_fmin
+File: libm/s_fpclassify
+File: libm/s_fpclassifyf
+File: libm/s_frexp
+File: libm/s_ilogb
+File: libm/sincos
+File: libm/s_isinf
+File: libm/s_isinff
+File: libm/s_isnan
+File: libm/s_isnanf
+File: libm/s_ldexp
+File: libm/s_lib_version
+File: libm/s_llrint
+File: libm/s_llround
+File: libm/s_log1p
+File: libm/s_logb
+File: libm/s_lrint
+File: libm/s_lround
+File: libm/s_matherr
+File: libm/s_modf
+File: libm/s_nextafter
+File: libm/s_nextafterf
+File: libm/s_remquo
+File: libm/s_rint
+File: libm/s_round
+File: libm/s_scalbn
+File: libm/s_signbit
+File: libm/s_signbitf
+File: libm/s_signgam
+File: libm/s_significand
+File: libm/s_sin
+File: libm/s_tan
+File: libm/s_tanh
+File: libm/s_trunc
+File: libm/w_cabs
+File: libm/w_exp2
+File: libpthread/linuxthreads/attr
+File: libpthread/linuxthreads/barrier
+File: libpthread/linuxthreads/cancel
+File: libpthread/linuxthreads/condvar
+File: libpthread/linuxthreads_db/td_init
+File: libpthread/linuxthreads_db/td_log
+File: libpthread/linuxthreads_db/td_symbol_list
+File: libpthread/linuxthreads_db/td_ta_clear_event
+File: libpthread/linuxthreads_db/td_ta_delete
+File: libpthread/linuxthreads_db/td_ta_enable_stats
+File: libpthread/linuxthreads_db/td_ta_event_addr
+File: libpthread/linuxthreads_db/td_ta_event_getmsg
+File: libpthread/linuxthreads_db/td_ta_get_nthreads
+File: libpthread/linuxthreads_db/td_ta_get_ph
+File: libpthread/linuxthreads_db/td_ta_get_stats
+File: libpthread/linuxthreads_db/td_ta_map_id2thr
+File: libpthread/linuxthreads_db/td_ta_map_lwp2thr
+File: libpthread/linuxthreads_db/td_ta_new
+File: libpthread/linuxthreads_db/td_ta_reset_stats
+File: libpthread/linuxthreads_db/td_ta_setconcurrency
+File: libpthread/linuxthreads_db/td_ta_set_event
+File: libpthread/linuxthreads_db/td_ta_thr_iter
+File: libpthread/linuxthreads_db/td_ta_tsd_iter
+File: libpthread/linuxthreads_db/td_thr_clear_event
+File: libpthread/linuxthreads_db/td_thr_dbresume
+File: libpthread/linuxthreads_db/td_thr_dbsuspend
+File: libpthread/linuxthreads_db/td_thr_event_enable
+File: libpthread/linuxthreads_db/td_thr_event_getmsg
+File: libpthread/linuxthreads_db/td_thr_getfpregs
+File: libpthread/linuxthreads_db/td_thr_getgregs
+File: libpthread/linuxthreads_db/td_thr_get_info
+File: libpthread/linuxthreads_db/td_thr_getxregs
+File: libpthread/linuxthreads_db/td_thr_getxregsize
+File: libpthread/linuxthreads_db/td_thr_set_event
+File: libpthread/linuxthreads_db/td_thr_setfpregs
+File: libpthread/linuxthreads_db/td_thr_setgregs
+File: libpthread/linuxthreads_db/td_thr_setprio
+File: libpthread/linuxthreads_db/td_thr_setsigpending
+File: libpthread/linuxthreads_db/td_thr_setxregs
+File: libpthread/linuxthreads_db/td_thr_sigsetmask
+File: libpthread/linuxthreads_db/td_thr_tlsbase
+File: libpthread/linuxthreads_db/td_thr_tls_get_addr
+File: libpthread/linuxthreads_db/td_thr_tsd
+File: libpthread/linuxthreads_db/td_thr_validate
+File: libpthread/linuxthreads/errno
+File: libpthread/linuxthreads/events
+File: libpthread/linuxthreads/forward
+File: libpthread/linuxthreads/join
+File: libpthread/linuxthreads/libc-cancellation
+File: libpthread/linuxthreads/libc_pthread_init
+File: libpthread/linuxthreads/lockfile
+File: libpthread/linuxthreads/manager
+File: libpthread/linuxthreads/mutex
+File: libpthread/linuxthreads.old/attr
+File: libpthread/linuxthreads.old/cancel
+File: libpthread/linuxthreads.old/condvar
+File: libpthread/linuxthreads.old_db/td_init
+File: libpthread/linuxthreads.old_db/td_log
+File: libpthread/linuxthreads.old_db/td_symbol_list
+File: libpthread/linuxthreads.old_db/td_ta_clear_event
+File: libpthread/linuxthreads.old_db/td_ta_delete
+File: libpthread/linuxthreads.old_db/td_ta_enable_stats
+File: libpthread/linuxthreads.old_db/td_ta_event_addr
+File: libpthread/linuxthreads.old_db/td_ta_event_getmsg
+File: libpthread/linuxthreads.old_db/td_ta_get_nthreads
+File: libpthread/linuxthreads.old_db/td_ta_get_ph
+File: libpthread/linuxthreads.old_db/td_ta_get_stats
+File: libpthread/linuxthreads.old_db/td_ta_map_id2thr
+File: libpthread/linuxthreads.old_db/td_ta_map_lwp2thr
+File: libpthread/linuxthreads.old_db/td_ta_new
+File: libpthread/linuxthreads.old_db/td_ta_reset_stats
+File: libpthread/linuxthreads.old_db/td_ta_setconcurrency
+File: libpthread/linuxthreads.old_db/td_ta_set_event
+File: libpthread/linuxthreads.old_db/td_ta_thr_iter
+File: libpthread/linuxthreads.old_db/td_ta_tsd_iter
+File: libpthread/linuxthreads.old_db/td_thr_clear_event
+File: libpthread/linuxthreads.old_db/td_thr_dbresume
+File: libpthread/linuxthreads.old_db/td_thr_dbsuspend
+File: libpthread/linuxthreads.old_db/td_thr_event_enable
+File: libpthread/linuxthreads.old_db/td_thr_event_getmsg
+File: libpthread/linuxthreads.old_db/td_thr_getfpregs
+File: libpthread/linuxthreads.old_db/td_thr_getgregs
+File: libpthread/linuxthreads.old_db/td_thr_get_info
+File: libpthread/linuxthreads.old_db/td_thr_getxregs
+File: libpthread/linuxthreads.old_db/td_thr_getxregsize
+File: libpthread/linuxthreads.old_db/td_thr_set_event
+File: libpthread/linuxthreads.old_db/td_thr_setfpregs
+File: libpthread/linuxthreads.old_db/td_thr_setgregs
+File: libpthread/linuxthreads.old_db/td_thr_setprio
+File: libpthread/linuxthreads.old_db/td_thr_setsigpending
+File: libpthread/linuxthreads.old_db/td_thr_setxregs
+File: libpthread/linuxthreads.old_db/td_thr_sigsetmask
+File: libpthread/linuxthreads.old_db/td_thr_tls_get_addr
+File: libpthread/linuxthreads.old_db/td_thr_tsd
+File: libpthread/linuxthreads.old_db/td_thr_validate
+File: libpthread/linuxthreads.old/errno
+File: libpthread/linuxthreads.old/events
+File: libpthread/linuxthreads.old/forward
+File: libpthread/linuxthreads.old/libc_pthread_init
+File: libpthread/linuxthreads.old/locale
+File: libpthread/linuxthreads.old/lockfile
+File: libpthread/linuxthreads.old/manager
+File: libpthread/linuxthreads.old/mutex
+File: libpthread/linuxthreads.old/oldsemaphore
+File: libpthread/linuxthreads.old/ptfork
+File: libpthread/linuxthreads.old/pthread
+File: libpthread/linuxthreads.old/ptlongjmp
+File: libpthread/linuxthreads.old/pt-machine
+File: libpthread/linuxthreads.old/rwlock
+File: libpthread/linuxthreads.old/semaphore
+File: libpthread/linuxthreads.old/signals
+File: libpthread/linuxthreads.old/spinlock
+File: libpthread/linuxthreads.old/sysdeps/sh64/pt-machine
+File: libpthread/linuxthreads.old/wrapsyscall
+File: libpthread/linuxthreads/ptcleanup
+File: libpthread/linuxthreads/ptclock_gettime
+File: libpthread/linuxthreads/ptclock_settime
+File: libpthread/linuxthreads/ptfork
+File: libpthread/linuxthreads/pthandles
+File: libpthread/linuxthreads/pthread
+File: libpthread/linuxthreads/pthread_atfork
+File: libpthread/linuxthreads/pthread_setegid
+File: libpthread/linuxthreads/pthread_seteuid
+File: libpthread/linuxthreads/pthread_setgid
+File: libpthread/linuxthreads/pthread_setregid
+File: libpthread/linuxthreads/pthread_setresgid
+File: libpthread/linuxthreads/pthread_setresuid
+File: libpthread/linuxthreads/pthread_setreuid
+File: libpthread/linuxthreads/pthread_setuid
+File: libpthread/linuxthreads/pt-machine
+File: libpthread/linuxthreads/rwlock
+File: libpthread/linuxthreads/semaphore
+File: libpthread/linuxthreads/sighandler
+File: libpthread/linuxthreads/signals
+File: libpthread/linuxthreads/spinlock
+File: libpthread/linuxthreads/sysdeps/pthread/errno-loc
+File: libpthread/linuxthreads/sysdeps/pthread/herrno-loc
+File: libpthread/linuxthreads/sysdeps/pthread/ptlongjmp
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/execve
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/fork
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/jmp-unwind
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/mq_notify
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/pt-sigsuspend
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/raise
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/register-atfork
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/sigwait
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/unregister-atfork
+File: libpthread/linuxthreads/sysdeps/unix/sysv/linux/x86_64/pt-sigsuspend
+File: libpthread/linuxthreads/sysdeps/x86_64/pspinlock
+File: libpthread/nptl/alloca_cutoff
+File: libpthread/nptl/allocatestack
+File: libpthread/nptl/cancellation
+File: libpthread/nptl/cleanup
+File: libpthread/nptl/cleanup_compat
+File: libpthread/nptl/cleanup_defer
+File: libpthread/nptl/cleanup_defer_compat
+File: libpthread/nptl/cleanup_routine
+File: libpthread/nptl_db/fetch-value
+File: libpthread/nptl_db/td_init
+File: libpthread/nptl_db/td_log
+File: libpthread/nptl_db/td_symbol_list
+File: libpthread/nptl_db/td_ta_clear_event
+File: libpthread/nptl_db/td_ta_delete
+File: libpthread/nptl_db/td_ta_enable_stats
+File: libpthread/nptl_db/td_ta_event_addr
+File: libpthread/nptl_db/td_ta_event_getmsg
+File: libpthread/nptl_db/td_ta_get_nthreads
+File: libpthread/nptl_db/td_ta_get_ph
+File: libpthread/nptl_db/td_ta_get_stats
+File: libpthread/nptl_db/td_ta_map_id2thr
+File: libpthread/nptl_db/td_ta_map_lwp2thr
+File: libpthread/nptl_db/td_ta_new
+File: libpthread/nptl_db/td_ta_reset_stats
+File: libpthread/nptl_db/td_ta_setconcurrency
+File: libpthread/nptl_db/td_ta_set_event
+File: libpthread/nptl_db/td_ta_thr_iter
+File: libpthread/nptl_db/td_ta_tsd_iter
+File: libpthread/nptl_db/td_thr_clear_event
+File: libpthread/nptl_db/td_thr_dbresume
+File: libpthread/nptl_db/td_thr_dbsuspend
+File: libpthread/nptl_db/td_thr_event_enable
+File: libpthread/nptl_db/td_thr_event_getmsg
+File: libpthread/nptl_db/td_thr_getfpregs
+File: libpthread/nptl_db/td_thr_getgregs
+File: libpthread/nptl_db/td_thr_get_info
+File: libpthread/nptl_db/td_thr_getxregs
+File: libpthread/nptl_db/td_thr_getxregsize
+File: libpthread/nptl_db/td_thr_set_event
+File: libpthread/nptl_db/td_thr_setfpregs
+File: libpthread/nptl_db/td_thr_setgregs
+File: libpthread/nptl_db/td_thr_setprio
+File: libpthread/nptl_db/td_thr_setsigpending
+File: libpthread/nptl_db/td_thr_setxregs
+File: libpthread/nptl_db/td_thr_sigsetmask
+File: libpthread/nptl_db/td_thr_tlsbase
+File: libpthread/nptl_db/td_thr_tls_get_addr
+File: libpthread/nptl_db/td_thr_tsd
+File: libpthread/nptl_db/td_thr_validate
+File: libpthread/nptl/errno_location
+File: libpthread/nptl/events
+File: libpthread/nptl/forward
+File: libpthread/nptl/herrno
+File: libpthread/nptl/init
+File: libpthread/nptl/libc-cancellation
+File: libpthread/nptl/pt-cleanup
+File: libpthread/nptl/pthread_atfork
+File: libpthread/nptl/pthread_attr_destroy
+File: libpthread/nptl/pthread_attr_getdetachstate
+File: libpthread/nptl/pthread_attr_getguardsize
+File: libpthread/nptl/pthread_attr_getinheritsched
+File: libpthread/nptl/pthread_attr_getschedparam
+File: libpthread/nptl/pthread_attr_getschedpolicy
+File: libpthread/nptl/pthread_attr_getscope
+File: libpthread/nptl/pthread_attr_getstack
+File: libpthread/nptl/pthread_attr_getstackaddr
+File: libpthread/nptl/pthread_attr_getstacksize
+File: libpthread/nptl/pthread_attr_init
+File: libpthread/nptl/pthread_attr_setdetachstate
+File: libpthread/nptl/pthread_attr_setguardsize
+File: libpthread/nptl/pthread_attr_setinheritsched
+File: libpthread/nptl/pthread_attr_setschedparam
+File: libpthread/nptl/pthread_attr_setschedpolicy
+File: libpthread/nptl/pthread_attr_setscope
+File: libpthread/nptl/pthread_attr_setstack
+File: libpthread/nptl/pthread_attr_setstackaddr
+File: libpthread/nptl/pthread_attr_setstacksize
+File: libpthread/nptl/pthread_barrierattr_destroy
+File: libpthread/nptl/pthread_barrierattr_getpshared
+File: libpthread/nptl/pthread_barrierattr_init
+File: libpthread/nptl/pthread_barrierattr_setpshared
+File: libpthread/nptl/pthread_cancel
+File: libpthread/nptl/pthread_clock_gettime
+File: libpthread/nptl/pthread_clock_settime
+File: libpthread/nptl/pthread_condattr_destroy
+File: libpthread/nptl/pthread_condattr_getclock
+File: libpthread/nptl/pthread_condattr_getpshared
+File: libpthread/nptl/pthread_condattr_init
+File: libpthread/nptl/pthread_condattr_setclock
+File: libpthread/nptl/pthread_condattr_setpshared
+File: libpthread/nptl/pthread_cond_destroy
+File: libpthread/nptl/pthread_cond_init
+File: libpthread/nptl/pthread_create
+File: libpthread/nptl/pthread_detach
+File: libpthread/nptl/pthread_equal
+File: libpthread/nptl/pthread_exit
+File: libpthread/nptl/pthread_getattr_np
+File: libpthread/nptl/pthread_getconcurrency
+File: libpthread/nptl/pthread_getschedparam
+File: libpthread/nptl/pthread_getspecific
+File: libpthread/nptl/pthread_join
+File: libpthread/nptl/pthread_key_create
+File: libpthread/nptl/pthread_key_delete
+File: libpthread/nptl/pthread_mutexattr_destroy
+File: libpthread/nptl/pthread_mutexattr_getprioceiling
+File: libpthread/nptl/pthread_mutexattr_getprotocol
+File: libpthread/nptl/pthread_mutexattr_getpshared
+File: libpthread/nptl/pthread_mutexattr_getrobust
+File: libpthread/nptl/pthread_mutexattr_gettype
+File: libpthread/nptl/pthread_mutexattr_init
+File: libpthread/nptl/pthread_mutexattr_setprioceiling
+File: libpthread/nptl/pthread_mutexattr_setprotocol
+File: libpthread/nptl/pthread_mutexattr_setpshared
+File: libpthread/nptl/pthread_mutexattr_setrobust
+File: libpthread/nptl/pthread_mutexattr_settype
+File: libpthread/nptl/pthread_mutex_consistent
+File: libpthread/nptl/pthread_mutex_destroy
+File: libpthread/nptl/pthread_mutex_getprioceiling
+File: libpthread/nptl/pthread_mutex_init
+File: libpthread/nptl/pthread_mutex_lock
+File: libpthread/nptl/pthread_mutex_setprioceiling
+File: libpthread/nptl/pthread_mutex_timedlock
+File: libpthread/nptl/pthread_mutex_trylock
+File: libpthread/nptl/pthread_mutex_unlock
+File: libpthread/nptl/pthread_rwlockattr_destroy
+File: libpthread/nptl/pthread_rwlockattr_getkind_np
+File: libpthread/nptl/pthread_rwlockattr_getpshared
+File: libpthread/nptl/pthread_rwlockattr_init
+File: libpthread/nptl/pthread_rwlockattr_setkind_np
+File: libpthread/nptl/pthread_rwlockattr_setpshared
+File: libpthread/nptl/pthread_rwlock_destroy
+File: libpthread/nptl/pthread_rwlock_init
+File: libpthread/nptl/pthread_rwlock_tryrdlock
+File: libpthread/nptl/pthread_rwlock_trywrlock
+File: libpthread/nptl/pthread_self
+File: libpthread/nptl/pthread_setcancelstate
+File: libpthread/nptl/pthread_setcanceltype
+File: libpthread/nptl/pthread_setconcurrency
+File: libpthread/nptl/pthread_setegid
+File: libpthread/nptl/pthread_seteuid
+File: libpthread/nptl/pthread_setgid
+File: libpthread/nptl/pthread_setregid
+File: libpthread/nptl/pthread_setresgid
+File: libpthread/nptl/pthread_setresuid
+File: libpthread/nptl/pthread_setreuid
+File: libpthread/nptl/pthread_setschedparam
+File: libpthread/nptl/pthread_setschedprio
+File: libpthread/nptl/pthread_setspecific
+File: libpthread/nptl/pthread_setuid
+File: libpthread/nptl/pthread_testcancel
+File: libpthread/nptl/pthread_timedjoin
+File: libpthread/nptl/pthread_tryjoin
+File: libpthread/nptl/pt-system
+File: libpthread/nptl/res
+File: libpthread/nptl/sem_close
+File: libpthread/nptl/sem_destroy
+File: libpthread/nptl/sem_getvalue
+File: libpthread/nptl/sem_init
+File: libpthread/nptl/sem_open
+File: libpthread/nptl/sem_unlink
+File: libpthread/nptl/sysdeps/generic/dl-tls
+File: libpthread/nptl/sysdeps/generic/libc-tls
+File: libpthread/nptl/sysdeps/pthread/librt-cancellation
+File: libpthread/nptl/sysdeps/pthread/pthread_barrier_destroy
+File: libpthread/nptl/sysdeps/pthread/pthread_barrier_init
+File: libpthread/nptl/sysdeps/pthread/pthread_barrier_wait
+File: libpthread/nptl/sysdeps/pthread/pthread_cond_broadcast
+File: libpthread/nptl/sysdeps/pthread/pthread_cond_signal
+File: libpthread/nptl/sysdeps/pthread/pthread_cond_timedwait
+File: libpthread/nptl/sysdeps/pthread/pthread_cond_wait
+File: libpthread/nptl/sysdeps/pthread/pthread_once
+File: libpthread/nptl/sysdeps/pthread/pthread_rwlock_rdlock
+File: libpthread/nptl/sysdeps/pthread/pthread_rwlock_timedrdlock
+File: libpthread/nptl/sysdeps/pthread/pthread_rwlock_timedwrlock
+File: libpthread/nptl/sysdeps/pthread/pthread_rwlock_unlock
+File: libpthread/nptl/sysdeps/pthread/pthread_rwlock_wrlock
+File: libpthread/nptl/sysdeps/pthread/pthread_sigmask
+File: libpthread/nptl/sysdeps/pthread/pthread_spin_destroy
+File: libpthread/nptl/sysdeps/pthread/pthread_spin_init
+File: libpthread/nptl/sysdeps/pthread/pthread_spin_unlock
+File: libpthread/nptl/sysdeps/pthread/pt-initfini
+File: libpthread/nptl/sysdeps/pthread/pt-longjmp
+File: libpthread/nptl/sysdeps/pthread/pt-sigaction
+File: libpthread/nptl/sysdeps/pthread/rt-unwind-resume
+File: libpthread/nptl/sysdeps/pthread/timer_create
+File: libpthread/nptl/sysdeps/pthread/timer_delete
+File: libpthread/nptl/sysdeps/pthread/timer_getoverr
+File: libpthread/nptl/sysdeps/pthread/timer_gettime
+File: libpthread/nptl/sysdeps/pthread/timer_routines
+File: libpthread/nptl/sysdeps/pthread/timer_settime
+File: libpthread/nptl/sysdeps/pthread/tpp
+File: libpthread/nptl/sysdeps/pthread/unwind-forcedunwind
+File: libpthread/nptl/sysdeps/pthread/unwind-resume
+File: libpthread/nptl/sysdeps/unix/sysv/linux/fork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/getpid
+File: libpthread/nptl/sysdeps/unix/sysv/linux/i386/fork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/i386/pt-__syscall_error
+File: libpthread/nptl/sysdeps/unix/sysv/linux/jmp-unwind
+File: libpthread/nptl/sysdeps/unix/sysv/linux/libc-lowlevellock
+File: libpthread/nptl/sysdeps/unix/sysv/linux/libc_multiple_threads
+File: libpthread/nptl/sysdeps/unix/sysv/linux/libc_pthread_init
+File: libpthread/nptl/sysdeps/unix/sysv/linux/lowlevellock
+File: libpthread/nptl/sysdeps/unix/sysv/linux/lowlevelrobustlock
+File: libpthread/nptl/sysdeps/unix/sysv/linux/mq_notify
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-fcntl
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-fork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-fsync
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_attr_getaffinity
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_attr_setaffinity
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_getaffinity
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_getcpuclockid
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_kill
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_setaffinity
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_sigqueue
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pthread_yield
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-llseek
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-msgrcv
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-msgsnd
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-open64
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-pread_pwrite
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-raise
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-sigwait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-sleep
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-tcdrain
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-tempname
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-wait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/pt-waitpid
+File: libpthread/nptl/sysdeps/unix/sysv/linux/raise
+File: libpthread/nptl/sysdeps/unix/sysv/linux/register-atfork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sem_timedwait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sem_trywait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sem_wait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sigtimedwait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sigwait
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sigwaitinfo
+File: libpthread/nptl/sysdeps/unix/sysv/linux/sleep
+File: libpthread/nptl/sysdeps/unix/sysv/linux/__syscall_error
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_create
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_delete
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_getoverr
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_gettime
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_routines
+File: libpthread/nptl/sysdeps/unix/sysv/linux/timer_settime
+File: libpthread/nptl/sysdeps/unix/sysv/linux/unregister-atfork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/fork
+File: libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_setaffinity
+File: libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pt-__syscall_error
+File: libpthread/nptl/sysdeps/x86_64/pthread_spin_lock
+File: libpthread/nptl/unwind
+File: libpthread/nptl/vars
+File: libpthread/nptl/version
+File: librt/clock_getcpuclockid
+File: librt/clock_gettime
+File: librt/clock_nanosleep
+File: librt/mq_close
+File: librt/mq_getsetattr
+File: librt/mq_notify
+File: librt/mq_open
+File: librt/mq_receive
+File: librt/mq_send
+File: librt/mq_unlink
+File: librt/rt_stubs
+File: librt/shm
+File: librt/timer_create
+File: librt/timer_delete
+File: librt/timer_getoverr
+File: librt/timer_gettime
+File: librt/timer_settime
+File: libubacktrace/backtrace
+File: libubacktrace/backtracesyms
+File: libubacktrace/backtracesymsfd
+File: libutil/forkpty
+File: libutil/login
+File: libutil/login_tty
+File: libutil/logout
+File: libutil/logwtmp
+File: libutil/openpty
+BEFORE: 133
+REMOVING: __LINUXTHREADS_OLD__
+REMOVING: __UCLIBC_HAS_CTYPE_TABLES__
+REMOVING: __UCLIBC_MALLOC_DEBUGGING__
+REMOVING: __UCLIBC_HAS_TM_EXTENSIONS__
+REMOVING: __UCLIBC_HAS_IPV6__
+REMOVING: __ASSUME_DEVPTS__
+REMOVING: __UCLIBC_HAS_CRYPT__
+REMOVING: __UCLIBC_HAS_RPC__
+REMOVING: __UCLIBC_STRICT_HEADERS__
+REMOVING: __UCLIBC_HAS_STDIO_AUTO_RW_TRANSITION__
+REMOVING: __UCLIBC_LINUX_SPECIFIC__
+REMOVING: __UCLIBC_HAS_SHADOW__
+REMOVING: __UCLIBC_HAS_THREADS_NATIVE__
+REMOVING: __UCLIBC_SUSV4_LEGACY__
+REMOVING: __UCLIBC_HAS_FOPEN_CLOSEEXEC_MODE__
+REMOVING: __UCLIBC_NTP_LEGACY__
+REMOVING: __UCLIBC_HAS_REALTIME__
+REMOVING: __UCLIBC_HAS_FTW__
+REMOVING: __UCLIBC_HAS_EXTRA_COMPAT_RES_STATE__
+REMOVING: __UCLIBC_HAS_PROFILING__
+REMOVING: __UCLIBC_HAS_SOCKET__
+REMOVING: __UCLIBC_HAS_STDIO_BUFSIZ_NONE__
+REMOVING: __UCLIBC_HAS_TZ_FILE__
+REMOVING: __UNIX98PTY_ONLY__
+REMOVING: __ARCH_HAS_NO_SHARED__
+REMOVING: __UCLIBC_HAS_IPV4__
+REMOVING: __UCLIBC_HAS_GLIBC_CUSTOM_PRINTF__
+REMOVING: __UCLIBC_HAS_COMPAT_RES_STATE__
+REMOVING: __UCLIBC_HAS_RESOLVER_SUPPORT__
+REMOVING: __UCLIBC_HAS_FLOATS__
+REMOVING: __UCLIBC_HAS_BACKTRACE__
+REMOVING: __UCLIBC_HAS_TZ_CACHING__
+REMOVING: __UCLIBC_SV4_DEPRECATED__
+REMOVING: __UCLIBC_HAS_NFTW__
+REMOVING: __UCLIBC_HAS_XLOCALE__
+REMOVING: __UCLIBC_HAS_BSD_RES_CLOSE__
+REMOVING: __DO_XSI_MATH__
+REMOVING: __UCLIBC_HAS_LOCALE__
+REMOVING: __UCLIBC_HAS_STUBS__
+REMOVING: __UCLIBC_MJN3_ONLY__
+REMOVING: __UCLIBC_HAS_STDIO_SHUTDOWN_ON_ABORT__
+REMOVING: __UCLIBC_HAS_TLS__
+REMOVING: __UCLIBC_HAS_SYS_SIGLIST__
+REMOVING: __UCLIBC_HAS_STDIO_GETC_MACRO__
+REMOVING: __UCLIBC_HAS_HEXADECIMAL_FLOATS__
+REMOVING: __UCLIBC_HAS_GLIBC_CUSTOM_STREAMS__
+REMOVING: __UCLIBC_HAS___PROGNAME__
+REMOVING: __UCLIBC_HAS_WORDEXP__
+REMOVING: __UCLIBC_HAS_XATTR__
+REMOVING: __UCLIBC_HAS_LFS__
+REMOVING: __UCLIBC_HAS_REGEX__
+REMOVING: __UCLIBC_HAS_ARC4RANDOM__
+REMOVING: __MALLOC__
+REMOVING: __UCLIBC_HAS_OBSOLETE_BSD_SIGNAL__
+REMOVING: __UCLIBC_HAS_GNU_ERROR__
+REMOVING: __MALLOC_STANDARD__
+REMOVING: __UCLIBC_HAS_STDIO_PUTC_MACRO__
+REMOVING: __UCLIBC_DYNAMIC_ATEXIT__
+REMOVING: __UCLIBC_HAS_ERRNO_MESSAGES__
+REMOVING: __UCLIBC_HAS_GETPT__
+REMOVING: __UCLIBC_CTOR_DTOR__
+REMOVING: __UCLIBC_HAS_ADVANCED_REALTIME__
+REMOVING: __UCLIBC_HAS_EPOLL__
+REMOVING: __UCLIBC_HAS_BSD_ERR__
+REMOVING: __UCLIBC_HAS_WCHAR__
+REMOVING: __UCLIBC_HAS_PRINTF_M_SPEC__
+REMOVING: __UCLIBC_HAS_UTMPX__
+REMOVING: __UCLIBC_SUSV3_LEGACY__
+REMOVING: __HAVE_SHARED__
+REMOVING: __ARCH_USE_MMU__
+REMOVING: __UCLIBC_HAS_SYS_ERRLIST__
+REMOVING: __UCLIBC_HAS_SSP__
+REMOVING: __UCLIBC_BSD_SPECIFIC__
+REMOVING: __UCLIBC_HAS_SIGNUM_MESSAGES__
+REMOVING: __UCLIBC_HAS_PROGRAM_INVOCATION_NAME__
+REMOVING: __UCLIBC_HAS_SYSLOG__
+REMOVING: __UCLIBC_HAS_THREADS__
+REMOVING: __UCLIBC_HAS_SCANF_LENIENT_DIGIT_GROUPING__
+REMOVING: __UCLIBC_HAS_LIBUTIL__
+REMOVING: __UCLIBC_HAS_GLIBC_DIGIT_GROUPING__
+REMOVING: __UCLIBC_LINUX_MODULE_26__
+REMOVING: __UCLIBC_HAS_OBSOLETE_SYSV_SIGNAL__
+REMOVING: __UCLIBC_LINUX_MODULE_24__
+REMOVING: __USE_OLD_VFPRINTF__
+REMOVING: __ARCH_HAS_NO_LDSO__
+REMOVING: __UCLIBC_HAS_LONG_DOUBLE_MATH__
+REMOVING: __UCLIBC_HAS_FOPEN_EXCLUSIVE_MODE__
+REMOVING: __MALLOC_SIMPLE__
+REMOVING: __UCLIBC_HAS_PTY__
+num of singleton features 89
+__LINUXTHREADS_OLD__
+__UCLIBC_HAS_CTYPE_TABLES__
+__UCLIBC_MALLOC_DEBUGGING__
+__UCLIBC_HAS_TM_EXTENSIONS__
+__UCLIBC_HAS_IPV6__
+__ASSUME_DEVPTS__
+__UCLIBC_HAS_CRYPT__
+__UCLIBC_HAS_RPC__
+__UCLIBC_STRICT_HEADERS__
+__UCLIBC_HAS_STDIO_AUTO_RW_TRANSITION__
+__UCLIBC_LINUX_SPECIFIC__
+__UCLIBC_HAS_SHADOW__
+__UCLIBC_HAS_THREADS_NATIVE__
+__UCLIBC_SUSV4_LEGACY__
+__UCLIBC_HAS_FOPEN_CLOSEEXEC_MODE__
+__UCLIBC_NTP_LEGACY__
+__UCLIBC_HAS_REALTIME__
+__UCLIBC_HAS_FTW__
+__UCLIBC_HAS_EXTRA_COMPAT_RES_STATE__
+__UCLIBC_HAS_PROFILING__
+__UCLIBC_HAS_SOCKET__
+__UCLIBC_HAS_STDIO_BUFSIZ_NONE__
+__UCLIBC_HAS_TZ_FILE__
+__UNIX98PTY_ONLY__
+__ARCH_HAS_NO_SHARED__
+__UCLIBC_HAS_IPV4__
+__UCLIBC_HAS_GLIBC_CUSTOM_PRINTF__
+__UCLIBC_HAS_COMPAT_RES_STATE__
+__UCLIBC_HAS_RESOLVER_SUPPORT__
+__UCLIBC_HAS_FLOATS__
+__UCLIBC_HAS_BACKTRACE__
+__UCLIBC_HAS_TZ_CACHING__
+__UCLIBC_SV4_DEPRECATED__
+__UCLIBC_HAS_NFTW__
+__UCLIBC_HAS_XLOCALE__
+__UCLIBC_HAS_BSD_RES_CLOSE__
+__DO_XSI_MATH__
+__UCLIBC_HAS_LOCALE__
+__UCLIBC_HAS_STUBS__
+__UCLIBC_MJN3_ONLY__
+__UCLIBC_HAS_STDIO_SHUTDOWN_ON_ABORT__
+__UCLIBC_HAS_TLS__
+__UCLIBC_HAS_SYS_SIGLIST__
+__UCLIBC_HAS_STDIO_GETC_MACRO__
+__UCLIBC_HAS_HEXADECIMAL_FLOATS__
+__UCLIBC_HAS_GLIBC_CUSTOM_STREAMS__
+__UCLIBC_HAS___PROGNAME__
+__UCLIBC_HAS_WORDEXP__
+__UCLIBC_HAS_XATTR__
+__UCLIBC_HAS_LFS__
+__UCLIBC_HAS_REGEX__
+__UCLIBC_HAS_ARC4RANDOM__
+__MALLOC__
+__UCLIBC_HAS_OBSOLETE_BSD_SIGNAL__
+__UCLIBC_HAS_GNU_ERROR__
+__MALLOC_STANDARD__
+__UCLIBC_HAS_STDIO_PUTC_MACRO__
+__UCLIBC_DYNAMIC_ATEXIT__
+__UCLIBC_HAS_ERRNO_MESSAGES__
+__UCLIBC_HAS_GETPT__
+__UCLIBC_CTOR_DTOR__
+__UCLIBC_HAS_ADVANCED_REALTIME__
+__UCLIBC_HAS_EPOLL__
+__UCLIBC_HAS_BSD_ERR__
+__UCLIBC_HAS_WCHAR__
+__UCLIBC_HAS_PRINTF_M_SPEC__
+__UCLIBC_HAS_UTMPX__
+__UCLIBC_SUSV3_LEGACY__
+__HAVE_SHARED__
+__ARCH_USE_MMU__
+__UCLIBC_HAS_SYS_ERRLIST__
+__UCLIBC_HAS_SSP__
+__UCLIBC_BSD_SPECIFIC__
+__UCLIBC_HAS_SIGNUM_MESSAGES__
+__UCLIBC_HAS_PROGRAM_INVOCATION_NAME__
+__UCLIBC_HAS_SYSLOG__
+__UCLIBC_HAS_THREADS__
+__UCLIBC_HAS_SCANF_LENIENT_DIGIT_GROUPING__
+__UCLIBC_HAS_LIBUTIL__
+__UCLIBC_HAS_GLIBC_DIGIT_GROUPING__
+__UCLIBC_LINUX_MODULE_26__
+__UCLIBC_HAS_OBSOLETE_SYSV_SIGNAL__
+__UCLIBC_LINUX_MODULE_24__
+__USE_OLD_VFPRINTF__
+__ARCH_HAS_NO_LDSO__
+__UCLIBC_HAS_LONG_DOUBLE_MATH__
+__UCLIBC_HAS_FOPEN_EXCLUSIVE_MODE__
+__MALLOC_SIMPLE__
+__UCLIBC_HAS_PTY__
+AFTER removing singleton: 60
+AFTER removing non-open list: 60
+INFO: got 8699 block pcs
+60 distinct features appear in nested expressions
+----------analyzing feature: 1 : __UCLIBC_HAS_REENTRANT_RPC__ which has 24 related expr 
+Finished disjunction of all related blocks and distinct features: 12
+----------analyzing feature: 2 : __UCLIBC_HAS_CRYPT_STUB__ which has 13 related expr 
+Finished disjunction of all related blocks and distinct features: 13
+----------analyzing feature: 3 : __LDSO_STANDALONE_SUPPORT__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 3
+----------analyzing feature: 4 : __SUPPORT_LD_DEBUG__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 5 : __UCLIBC_HAS_FULL_RPC__ which has 115 related expr 
+Finished disjunction of all related blocks and distinct features: 44
+----------analyzing feature: 6 : __UCLIBC_HAS_FNMATCH__ which has 77 related expr 
+Finished disjunction of all related blocks and distinct features: 0
+----------analyzing feature: 7 : __UCLIBC_HAS_FOPEN_LARGEFILE_MODE__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 3
+----------analyzing feature: 8 : __UCLIBC_UCLINUX_BROKEN_MUNMAP__ which has 87 related expr 
+Finished disjunction of all related blocks and distinct features: 27
+----------analyzing feature: 9 : __LDSO_CACHE_SUPPORT__ which has 5 related expr 
+Finished disjunction of all related blocks and distinct features: 0
+----------analyzing feature: 10 : __TARGET_c6x__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 23
+----------analyzing feature: 11 : __UCLIBC_HAS_STDIO_BUILTIN_BUFFER_8__ which has 103 related expr 
+Finished disjunction of all related blocks and distinct features: 46
+----------analyzing feature: 12 : __UCLIBC_FORMAT_SHARED_FLAT__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 2
+----------analyzing feature: 13 : __UCLIBC_HAS_STRING_GENERIC_OPT__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 18
+----------analyzing feature: 14 : __UCLIBC_HAS_CRYPT_IMPL__ which has 77 related expr 
+Finished disjunction of all related blocks and distinct features: 35
+----------analyzing feature: 15 : __LINUXTHREADS_NEW__ which has 2474 related expr 
+Finished disjunction of all related blocks and distinct features: 91
+----------analyzing feature: 16 : __UCLIBC_HAS_REGEX_OLD__ which has 265 related expr 
+Finished disjunction of all related blocks and distinct features: 44
+----------analyzing feature: 17 : __ARCH_HAS_BWD_MEMCPY__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 2
+----------analyzing feature: 18 : __LDSO_RUNPATH__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 3
+----------analyzing feature: 19 : __UCLIBC_HAS_STDIO_BUFSIZ_8192__ which has 12 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 20 : __UCLIBC_HAS_SHA512_CRYPT_IMPL__ which has 65 related expr 
+Finished disjunction of all related blocks and distinct features: 31
+----------analyzing feature: 21 : __UCLIBC_HAS_TZ_FILE_READ_MANY__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 22 : __UCLIBC_SUSV3_LEGACY_MACROS__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 3
+----------analyzing feature: 23 : __UCLIBC_FALLBACK_TO_ETC_LOCALTIME__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 24 : __UCLIBC_HAS_STDIO_BUFSIZ_4096__ which has 18 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 25 : __UCLIBC_HAS_CTYPE_ENFORCED__ which has 27 related expr 
+Finished disjunction of all related blocks and distinct features: 6
+----------analyzing feature: 26 : __LDSO_SEARCH_INTERP_PATH__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 27 : __UCLIBC_HAS_GNU_GETOPT__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 28 : __LDSO_GNU_HASH_SUPPORT__ which has 10 related expr 
+Finished disjunction of all related blocks and distinct features: 4
+----------analyzing feature: 29 : __UCLIBC_HAS_GETOPT_LONG__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 30 : __UCLIBC_HAS_FORTIFY__ which has 40 related expr 
+Finished disjunction of all related blocks and distinct features: 26
+----------analyzing feature: 31 : __DODEBUG_PT__ which has 5 related expr 
+Finished disjunction of all related blocks and distinct features: 5
+----------analyzing feature: 32 : __TARGET_sparc__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 23
+----------analyzing feature: 33 : __DO_C99_MATH__ which has 70 related expr 
+Finished disjunction of all related blocks and distinct features: 32
+----------analyzing feature: 34 : __UCLIBC_HAS_CTYPE_UNSAFE__ which has 5 related expr 
+Finished disjunction of all related blocks and distinct features: 4
+----------analyzing feature: 35 : __UCLIBC_HAS_STRING_ARCH_OPT__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 18
+----------analyzing feature: 36 : __UCLIBC_HAS_SSP_COMPAT__ which has 3 related expr 
+Finished disjunction of all related blocks and distinct features: 2
+----------analyzing feature: 37 : __SSP_QUICK_CANARY__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 38 : __UCLIBC_HAS_STDIO_BUILTIN_BUFFER_4__ which has 154 related expr 
+Finished disjunction of all related blocks and distinct features: 46
+----------analyzing feature: 39 : __UCLIBC_HAS_FNMATCH_OLD__ which has 77 related expr 
+Finished disjunction of all related blocks and distinct features: 26
+----------analyzing feature: 40 : __UCLIBC_HAS_SHA256_CRYPT_IMPL__ which has 65 related expr 
+Finished disjunction of all related blocks and distinct features: 31
+----------analyzing feature: 41 : __UCLIBC_HAS_GNU_GLOB__ which has 330 related expr 
+Finished disjunction of all related blocks and distinct features: 38
+----------analyzing feature: 42 : __UCLIBC_HAS_STDIO_BUILTIN_BUFFER_NONE__ which has 154 related expr 
+Finished disjunction of all related blocks and distinct features: 46
+----------analyzing feature: 43 : __UCLIBC_HAS_CTYPE_SIGNED__ which has 746 related expr 
+Finished disjunction of all related blocks and distinct features: 70
+----------analyzing feature: 44 : __PROPOLICE_BLOCK_SEGV__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 2
+----------analyzing feature: 45 : __TARGET_sh__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 23
+----------analyzing feature: 46 : __UCLIBC_FORMAT_FLAT_SEP_DATA__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 1
+----------analyzing feature: 47 : __PTHREADS_DEBUG_SUPPORT__ which has 586 related expr 
+Finished disjunction of all related blocks and distinct features: 35
+----------analyzing feature: 48 : __UCLIBC_USE_NETLINK__ which has 10 related expr 
+Finished disjunction of all related blocks and distinct features: 5
+----------analyzing feature: 49 : __UCLIBC_HAS_STDIO_BUFSIZ_1024__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 50 : __UCLIBC_HAS_CTYPE_CHECKED__ which has 13 related expr 
+Finished disjunction of all related blocks and distinct features: 5
+----------analyzing feature: 51 : __MALLOC_GLIBC_COMPAT__ which has 11 related expr 
+Finished disjunction of all related blocks and distinct features: 5
+----------analyzing feature: 52 : __UCLIBC_SUPPORT_AI_ADDRCONFIG__ which has 7 related expr 
+Finished disjunction of all related blocks and distinct features: 3
+----------analyzing feature: 53 : __TARGET_i386__ which has 30 related expr 
+Finished disjunction of all related blocks and distinct features: 23
+----------analyzing feature: 54 : __UCLIBC_HAS_GLOB__ which has 328 related expr 
+Finished disjunction of all related blocks and distinct features: 0
+----------analyzing feature: 55 : __UCLIBC_BUILD_RELRO__ which has 2 related expr 
+Finished disjunction of all related blocks and distinct features: 4
+----------analyzing feature: 56 : __DOASSERTS__ which has 1 related expr 
+Finished disjunction of all related blocks and distinct features: 2
+----------analyzing feature: 57 : __UCLIBC_HAS_STDIO_BUFSIZ_2048__ which has 24 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 58 : __UCLIBC_HAS_STDIO_BUFSIZ_512__ which has 36 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 59 : __UCLIBC_HAS_STDIO_BUFSIZ_256__ which has 43 related expr 
+Finished disjunction of all related blocks and distinct features: 11
+----------analyzing feature: 60 : __LDSO_PRELINK_SUPPORT__ which has 10 related expr 
+Finished disjunction of all related blocks and distinct features: 4
+num of constraints: 57
+printed out formula

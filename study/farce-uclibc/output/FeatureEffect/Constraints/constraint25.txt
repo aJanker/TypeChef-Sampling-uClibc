@@ -1,0 +1,1 @@
+(!definedEx(__LDSO_SEARCH_INTERP_PATH__) || !definedEx(__ARCH_HAS_NO_SHARED__))

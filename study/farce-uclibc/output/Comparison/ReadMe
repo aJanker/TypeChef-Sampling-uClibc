@@ -1,0 +1,9 @@
+- Code Vs Feature Model folder
+	*Compare each constraint extracted from the code to see if it holds in the feature model boolean formula. 
+	*For each source of infor, there is a stats.txt file which has the list of constraitns not found and a summary of the stats
+	* There is also a .csv file which has the constraint and 0 for not found and 1 for found.
+
+- Feature Model vs Code (Single means that each code formula is compared along, and combined means conjunction of all hard constraints)
+	* dimacsVsCode Stats.txt & .csv : compare conjunctive clauses in dimacs file to each code formula	
+	* groupComparison compares xor,or, mutex groups to code
+	* hierarchyComparison compares hierarchy edges & cross-tree (which still need to be modified)

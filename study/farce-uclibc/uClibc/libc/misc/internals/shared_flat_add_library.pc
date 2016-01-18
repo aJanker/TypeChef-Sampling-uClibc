@@ -1,0 +1,1 @@
+(definedEx(__UCLIBC_FORMAT_FLAT_SEP_DATA__) || definedEx(__UCLIBC_FORMAT_SHARED_FLAT__))

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+cat openFeaturesList.txt|while read i; do
+grepResults=`find uClibc -name '*.[ch]' -not -name "uClibc_config.h" -exec grep -w $i {} +`
+if [ ${#grepResults} -eq 0 ]
+then
+	noPreSuf=${i//__/}
+	grepResults=`find uClibc -name 'Kbuild*' -o -name 'Makefile*' -exec grep -w $noPreSuf  {} +`
+	if [ ${#grepResults} -eq 0 ]
+	then
+	       	echo "$i"
+	fi
+fi
+done

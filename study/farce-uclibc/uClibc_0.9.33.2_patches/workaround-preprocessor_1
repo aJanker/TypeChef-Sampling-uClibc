@@ -1,0 +1,15 @@
+--- uClibc/libc/misc/locale/locale.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libc/misc/locale/locale.c	2013-06-14 15:25:43.718522073 -0400
+@@ -1047,7 +1047,12 @@ char *__XL_NPP(nl_langinfo)(nl_item item
+ 
+ 	return (char *) empty;
+ }
++#if (!defined(__UCLIBC_HAS_XLOCALE__) || !defined(__UCLIBC_HAS_LOCALE__))
+ libc_hidden_def(__XL_NPP(nl_langinfo))
++#elif (defined(__UCLIBC_HAS_XLOCALE__) && defined(__UCLIBC_HAS_LOCALE__))
++libc_hidden_def(__XL_NPP(nl_langinfo))
++#endif
++
+ 
+ #endif /* defined(__UCLIBC_HAS_XLOCALE__) && !defined(__UCLIBC_DO_XLOCALE) */
+ 

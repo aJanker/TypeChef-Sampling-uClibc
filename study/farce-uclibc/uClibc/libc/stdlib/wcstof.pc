@@ -1,0 +1,1 @@
+(definedEx(__UCLIBC_HAS_FLOATS__) && definedEx(__UCLIBC_HAS_WCHAR__))

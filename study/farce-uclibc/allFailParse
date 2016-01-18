@@ -1,0 +1,4 @@
+uClibc/libpthread/linuxthreads.old/specific.dbg
+uClibc/libpthread/linuxthreads.old/join.dbg
+uClibc/libpthread/linuxthreads/specific.dbg
+uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/sem_post.dbg

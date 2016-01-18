@@ -1,0 +1,14 @@
+fm True
+features (0)
+	
+imports (8)
+	__xpg_strerror_r: (signed int, char*, unsigned long) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:4205:18
+	hcreate_r: (unsigned long, struct hsearch_data*) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5521:18
+	hdestroy_r: (struct hsearch_data*) => void 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5523:18
+	hsearch_r: (struct entry, unsigned int, struct entry**, struct hsearch_data*) => signed int 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5519:18
+	lfind: (const void*, const void*, unsigned long*, unsigned long, (const void*, const void*) => signed int*) => void* 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5578:18
+	tdestroy: (void*, (void*) => void*) => void 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5572:18
+	tfind: (const void*, void**, (const void*, const void*) => signed int*) => void* 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5549:18
+	tsearch: (const void*, void**, (const void*, const void*) => signed int*) => void* 		if True		at /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/misc/search/remque.pi:5543:18
+exports (1)
+	remque: (void*) => void 		if True		at :-1:-1

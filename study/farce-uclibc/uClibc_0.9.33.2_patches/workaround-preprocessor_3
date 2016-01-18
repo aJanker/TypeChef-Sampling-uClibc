@@ -1,0 +1,28 @@
+--- uClibc/libc/stdlib/stdlib.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libc/stdlib/stdlib.c	2013-06-14 14:31:32.930834839 -0400
+@@ -326,7 +326,12 @@ long __XL_NPP(strtol)(const char * __res
+ {
+ 	return __XL_NPP(_stdlib_strto_l)(str, endptr, base, 1 __LOCALE_ARG);
+ }
++#if (defined(__UCLIBC_HAS_XLOCALE__) && !defined(__UCLIBC_HAS_LOCALE__))
+ libc_hidden_def(__XL_NPP(strtol))
++#elif (defined(__UCLIBC_HAS_XLOCALE__) && defined(__UCLIBC_HAS_LOCALE__))
++libc_hidden_def(__XL_NPP(strtol))
++#endif
++
+ 
+ #if (ULONG_MAX == UINTMAX_MAX) && !defined(L_strtol_l)
+ strong_alias(strtol,strtoimax)
+@@ -382,7 +387,12 @@ unsigned long __XL_NPP(strtoul)(const ch
+ {
+ 	return __XL_NPP(_stdlib_strto_l)(str, endptr, base, 0 __LOCALE_ARG);
+ }
++
++#if  (defined(__UCLIBC_HAS_XLOCALE__) && !defined(__UCLIBC_HAS_LOCALE__))
+ libc_hidden_def(__XL_NPP(strtoul))
++#elif (defined(__UCLIBC_HAS_XLOCALE__) && defined(__UCLIBC_HAS_LOCALE__))
++libc_hidden_def(__XL_NPP(strtoul))
++#endif
+ 
+ #if (ULONG_MAX == UINTMAX_MAX) && !defined(L_strtoul_l)
+ strong_alias(strtoul,strtoumax)

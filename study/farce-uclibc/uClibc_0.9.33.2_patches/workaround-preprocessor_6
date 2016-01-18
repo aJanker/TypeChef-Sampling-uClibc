@@ -1,0 +1,14 @@
+--- uClibc/libc/string/strncasecmp.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libc/string/strncasecmp.c	2013-06-14 15:48:30.394557066 -0400
+@@ -65,7 +65,11 @@ int __XL_NPP(strncasecmp)(register const
+ #endif
+ }
+ #if !defined WANT_WIDE || (defined WANT_WIDE && defined __UCLIBC_DO_XLOCALE)
++#if (!defined(__UCLIBC_HAS_XLOCALE__) || !defined(__UCLIBC_HAS_LOCALE__))
+ libc_hidden_def(__XL_NPP(strncasecmp))
++#elif (defined(__UCLIBC_HAS_XLOCALE__) && defined(__UCLIBC_HAS_LOCALE__))
++libc_hidden_def(__XL_NPP(strncasecmp))
++#endif
+ #endif
+ 
+ #endif /* defined(__UCLIBC_HAS_XLOCALE__) && !defined(__UCLIBC_DO_XLOCALE) */

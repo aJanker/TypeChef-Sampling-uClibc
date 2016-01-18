@@ -1,0 +1,13 @@
+Num. of mutual excl. in feature model mutex graph: 4409
+Num. of implications in feature model: 4409
+Num. of mutual exclusions in Type Errors Model: 179
+Num. of mutual exclusions in Def/Use Model: 237
+Num. of mutual exclusions in Errors Model: 0
+Num. of mutual exclusions in NestedIfDefModel Model: 109
+Num. of mutual exclusions in Parsing Errors Model: 179
+Num. of feature model mutual exclusions found in Type Errors Model mutex graph: 14
+Num. of feature model mutual exclusions found in Def/Use Model mutex graph: 8
+Num. of feature model mutual exclusions found in Errors Model mutex graph: 0
+Num. of feature model mutual exclusions found in NestedIfDefModel Model mutex graph: 40
+Num. of feature model mutual exclusions found in Parsing Errors Model mutex graph: 14
+TOTAL FOUND: 54

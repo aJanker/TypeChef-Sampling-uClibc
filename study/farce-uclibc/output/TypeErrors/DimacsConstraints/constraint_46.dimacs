@@ -1,0 +1,9 @@
+c 4 __UCLIBC_HAS_IPV6__
+c 3 __UCLIBC_HAS_SOCKET__
+c 5 __UCLIBC_HAS_IPV4__
+c 1 __UCLIBC_HAS_XLOCALE__
+c 2 __UCLIBC_HAS_LOCALE__
+p cnf 5 3
+-1 2 -3 1
+-1 2 -4 1
+-1 2 -5 1

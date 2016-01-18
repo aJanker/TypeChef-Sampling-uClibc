@@ -1,0 +1,3256 @@
+timing (loadFM, lexing, parsing)
+271;15895;30437
+timing (loadFM, lexing, parsing)
+688;17481;31152
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+284;297;26319;16565;1121;6828
+timing (loadFM, lexing, parsing)
+808;16094;31088
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+402;189;28007;17246;1195;8138
+timing (loadFM, lexing, parsing)
+369;16901;31363
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+175;149;29823;17838;858;8079
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+877;223;27271;17231;1117;7775
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+390;364;25724;17667;2029;6791
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;388;26877;16679;1159;7436
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+174;157;24923;11301;981;7948
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+543;228;28206;12271;1573;8719
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+774;139;26739;12595;1610;8629
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+739;458;25596;12817;1419;7906
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+459;455;26241;10275;1410;7198
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+174;319;25628;12109;1288;8297
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+525;322;25159;11536;1483;7632
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+634;221;19665;10789;638;5937
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+525;121;21435;10033;686;5683
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+159;505;24830;10524;1456;6967
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+432;82;19531;9988;615;5837
+timing (loadFM, lexing, parsing)
+540;15486;35687
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+584;170;25775;14911;794;10205
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+510;238;24210;12373;1348;8052
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+295;229;23718;11641;1397;7579
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+564;414;24526;12127;1339;10085
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+475;327;22814;11714;1001;8890
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+461;281;25384;12501;961;8520
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+375;336;23953;12929;1168;9310
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+372;417;24286;13846;914;6436
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+352;179;23718;14991;956;7208
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+323;143;26933;13600;797;6687
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+481;161;23443;13665;706;8466
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+379;509;23799;11961;955;7957
+timing (loadFM, lexing, parsing)
+688;11579;29249
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+742;454;23310;12413;665;6460
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+780;746;19842;13186;797;7069
+timing (loadFM, lexing, parsing)
+646;12127;28341
+timing (loadFM, lexing, parsing)
+425;11757;28730
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+741;81;23820;12046;506;4408
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+446;284;17476;8888;1557;5828
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+449;71;24473;9285;434;6536
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+613;177;25903;10637;1491;8870
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+595;62;9012;4581;356;2320
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+538;183;23594;9212;1272;5025
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+455;244;25752;9884;1452;7116
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+588;281;24657;9582;1266;6452
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+386;200;23994;9094;885;4127
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+414;171;14276;4927;610;3819
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+271;123;22398;11159;854;6810
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;393;21662;11374;1102;6052
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+138;378;24046;11215;1118;9447
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+129;187;23990;12366;1067;7066
+timing (loadFM, lexing, parsing)
+217;10386;25936
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+254;281;29014;11736;951;9459
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+248;344;25244;13506;1392;8269
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+287;201;21666;12527;843;8107
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+259;71;10345;5405;187;2630
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+344;144;21356;11163;946;7272
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+317;214;26974;13061;863;7915
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;119;21528;12518;1156;6336
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+615;193;25922;12924;1108;7754
+timing (loadFM, lexing, parsing)
+589;12492;27612
+timing (loadFM, lexing, parsing)
+434;12097;28687
+timing (loadFM, lexing, parsing)
+541;11650;34834
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+425;179;23906;11328;1372;7945
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+434;297;25829;11811;772;7588
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+581;267;29200;11570;1109;6618
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;203;24867;12725;725;7346
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+350;243;23652;12158;1209;8410
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+433;225;21991;12624;1308;8276
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+293;151;20456;8636;1040;5903
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+295;386;23233;13309;1224;5988
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+171;78;16583;9997;824;4965
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;58;12450;6845;413;3998
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;88;21855;9970;978;7461
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+411;181;25918;10261;1111;7337
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+227;102;22377;9289;614;6435
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+207;99;23919;12088;916;8105
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+260;299;24005;11138;758;9017
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+167;187;27731;11736;984;10054
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+217;313;25352;11734;963;8921
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+223;376;23573;9408;1003;7172
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+188;122;23092;9361;727;5558
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+220;503;22462;11320;798;9198
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+289;242;27040;10559;1166;6182
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+156;107;24380;10791;676;7396
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+179;72;19071;9445;1240;3558
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+154;223;19115;9895;1059;3054
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+89;279;19389;12054;1238;7365
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+339;169;21811;12601;801;7234
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+265;336;21195;12888;1141;7491
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+252;132;27945;14012;652;9414
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;176;21295;12797;631;6672
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+190;120;21956;11939;483;7147
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;91;18280;10896;543;6644
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+289;197;18209;11257;1117;6759
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+104;135;20516;10609;614;5394
+timing (loadFM, lexing, parsing)
+89;7555;15854
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;118;24040;11232;1062;9360
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+127;196;24043;12514;1211;8961
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+336;41;12556;6387;212;1394
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+286;407;23156;11829;1393;7102
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+169;287;20073;12809;489;6563
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+288;170;20125;11315;1102;6842
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;178;18744;9514;540;6712
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;181;20686;9213;910;4895
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+232;142;24107;10569;1691;7473
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+253;126;24757;8315;903;7732
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+156;122;21752;8074;911;8356
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;240;24929;10807;903;9749
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+120;177;25599;10115;939;6930
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;123;23573;9528;579;6540
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+253;73;18173;10142;614;6692
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;270;18497;8594;1095;5753
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;348;20974;9112;665;7607
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+214;152;24724;10627;757;9325
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;257;21314;9133;809;7205
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+103;184;17360;8389;878;5930
+timing (loadFM, lexing, parsing)
+436;11926;28465
+timing (loadFM, lexing, parsing)
+391;9479;26687
+timing (loadFM, lexing, parsing)
+766;9453;26564
+timing (loadFM, lexing, parsing)
+303;11692;26133
+timing (loadFM, lexing, parsing)
+500;11579;27209
+timing (loadFM, lexing, parsing)
+505;10467;25529
+timing (loadFM, lexing, parsing)
+581;11035;25831
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;123;19279;11555;600;6569
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+363;196;18052;9292;760;5041
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+305;160;19984;9099;1233;5439
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+733;174;19627;9977;746;7244
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+157;181;21549;10496;1295;5997
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+312;99;16267;9227;583;5333
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+429;195;17843;10714;707;6457
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+654;82;19523;9963;484;5245
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+540;121;16008;10044;491;5330
+timing (loadFM, lexing, parsing)
+305;11009;22351
+timing (loadFM, lexing, parsing)
+337;11644;19030
+timing (loadFM, lexing, parsing)
+187;10780;21126
+timing (loadFM, lexing, parsing)
+317;12678;22353
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+366;207;20951;10941;948;5556
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+325;108;20685;10989;463;7465
+timing (loadFM, lexing, parsing)
+199;11764;19352
+timing (loadFM, lexing, parsing)
+350;10620;20943
+timing (loadFM, lexing, parsing)
+233;11557;25281
+timing (loadFM, lexing, parsing)
+413;9590;18996
+timing (loadFM, lexing, parsing)
+428;8630;19125
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+311;112;20990;10269;580;7793
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+400;114;22747;10038;428;6082
+timing (loadFM, lexing, parsing)
+309;11416;21082
+timing (loadFM, lexing, parsing)
+372;15188;20410
+timing (loadFM, lexing, parsing)
+220;11494;23760
+timing (loadFM, lexing, parsing)
+421;12380;19963
+timing (loadFM, lexing, parsing)
+131;9509;18881
+timing (loadFM, lexing, parsing)
+266;11028;19952
+timing (loadFM, lexing, parsing)
+239;12208;18746
+timing (loadFM, lexing, parsing)
+504;13562;18921
+timing (loadFM, lexing, parsing)
+220;12602;19019
+timing (loadFM, lexing, parsing)
+569;10812;21180
+timing (loadFM, lexing, parsing)
+166;8725;22123
+timing (loadFM, lexing, parsing)
+359;9569;20467
+timing (loadFM, lexing, parsing)
+182;15372;21504
+timing (loadFM, lexing, parsing)
+573;14239;20501
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+564;84;22483;12737;920;4581
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+223;83;21301;12780;917;4548
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;249;22441;13509;743;6318
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+344;282;21539;12627;1019;5695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+394;151;22263;12094;772;7007
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+495;173;23068;10016;719;8230
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+358;127;17352;7840;322;4261
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+657;197;18425;7676;866;3312
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+299;333;17936;8972;968;3754
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+337;123;18003;7648;586;4483
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+345;99;18384;9060;1233;6889
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+236;346;19219;9350;796;5150
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+329;323;17330;8636;810;5406
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;365;15627;9424;1053;6202
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;113;20484;9646;706;5539
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+160;159;18852;10292;870;5276
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+205;77;22036;10385;896;5465
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+367;99;22732;9884;398;4719
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;277;21833;10076;1160;5654
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+158;118;21885;9946;595;3977
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+284;117;18821;8089;402;4103
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+525;143;17303;7320;700;3730
+timing (loadFM, lexing, parsing)
+310;11383;28971
+timing (loadFM, lexing, parsing)
+358;14973;29777
+timing (loadFM, lexing, parsing)
+270;11505;25906
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+430;220;22256;9125;1324;5044
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;115;19528;10599;590;5787
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+390;225;13616;7824;1142;3284
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+735;116;14652;8659;534;2573
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+401;139;22758;9343;455;7481
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+542;65;16896;6741;267;4870
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+229;107;20538;8680;718;4607
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+454;110;15027;7465;1511;4981
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+369;206;15409;5864;1248;4524
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+226;106;16079;8098;385;4990
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+529;111;20188;9501;1921;4172
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+494;255;17348;8555;1155;5335
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+269;411;19378;11456;1465;6930
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+233;68;18118;10205;1010;5092
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+172;107;10036;5963;798;2333
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+123;94;11633;6542;518;3119
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+114;87;11311;6408;308;2699
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+272;205;20116;11291;986;8773
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;34;7913;1615;120;476
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+369;46;6770;1589;106;516
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+226;198;21229;10399;2134;6577
+timing (loadFM, lexing, parsing)
+212;11700;33901
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+402;125;18298;8888;1345;6263
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+439;289;18013;8886;1006;7676
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+439;263;18231;8902;1164;7130
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;337;17366;9402;1187;6694
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+273;256;21300;10202;1044;6560
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+332;264;21611;8596;635;7943
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+387;100;21436;9914;745;4697
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+398;298;19614;9919;1369;7089
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+175;126;21069;8523;1316;6477
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+431;205;19809;9928;1219;5182
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;123;20608;10418;525;7350
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+300;108;19924;9579;876;5747
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+273;456;20821;10699;1052;6424
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+508;15;4597;1020;33;444
+timing (loadFM, lexing, parsing)
+392;17413;54353
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;390;27458;12110;851;10074
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+276;160;17337;9608;1019;4126
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+178;154;22837;8816;672;4847
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;111;6934;1533;163;980
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+129;129;18360;9543;648;5076
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+304;129;16524;10446;679;4748
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;66;6563;2617;125;831
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+302;60;5660;2523;57;606
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+128;120;14657;8925;504;4357
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+259;60;17267;8988;1198;4629
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+269;64;15587;8189;959;4240
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+283;63;5875;3669;132;1028
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+253;45;12169;5492;143;1595
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+114;37;12473;3606;202;2508
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+150;37;9936;4776;170;1792
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+145;85;12117;4031;377;2005
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+117;52;10695;6014;436;1532
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+167;83;11356;3946;289;1610
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+354;32;10731;5857;264;1717
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+112;51;11178;6199;539;2560
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+490;159;11879;5752;781;2839
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;87;11966;4618;405;1569
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+252;42;12785;6565;321;3907
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;47;12170;6808;236;3393
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+245;493;20565;8942;950;6048
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+210;28;5731;4433;93;1223
+timing (loadFM, lexing, parsing)
+125;9365;27641
+timing (loadFM, lexing, parsing)
+220;10398;26971
+timing (loadFM, lexing, parsing)
+407;10659;31494
+timing (loadFM, lexing, parsing)
+200;9277;26252
+timing (loadFM, lexing, parsing)
+244;8059;28033
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+120;37;10144;4810;151;1807
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;39;12370;8005;187;2644
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+118;32;11669;6156;182;2491
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+131;32;9663;6153;155;3181
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+245;34;10249;4779;223;2397
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+197;190;12058;6918;291;2401
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;82;10825;7972;325;1688
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;34;12438;7256;226;2866
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;86;10522;6744;120;2622
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+182;107;10951;7181;190;3104
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+325;17;5250;2169;33;148
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;66;7455;4826;164;1908
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+234;240;26739;9136;1198;9708
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+210;301;29129;12656;1043;9342
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+320;698;24913;11371;1312;7488
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+109;396;23471;10782;1522;9156
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+161;247;26003;10473;819;8428
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+439;347;26867;10798;1398;10143
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+362;428;24514;12107;918;9170
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+232;23;9258;3089;74;1190
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+278;165;27624;10798;998;8093
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+344;192;29731;10895;867;7458
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+361;272;26532;11631;579;8800
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+320;817;31625;11471;1520;5742
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+194;225;27127;9527;567;9069
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+222;525;29204;10510;1000;7868
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+572;294;29762;13425;835;11457
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+236;255;28168;14130;923;10220
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+450;324;25416;13707;1354;8232
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+162;326;25483;12125;1002;7859
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;205;28290;14511;751;7383
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+182;482;26480;15657;788;8258
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;281;24480;15438;665;8453
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;305;26404;17084;1325;8577
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+111;226;25741;17145;1716;8301
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+176;748;28499;16249;1765;6830
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;536;26820;15677;1377;8238
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+1082;219;25423;14093;1147;8165
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+1042;463;26887;10888;1469;6200
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+324;501;26166;13171;1336;8495
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+345;334;25751;13770;871;6419
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+661;44;16827;7579;699;2598
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+175;70;18135;9487;1010;4137
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+342;68;18992;10265;492;4298
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+529;157;22694;8659;1452;4797
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+607;68;17802;10382;476;4223
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+510;303;18875;8677;1144;5750
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+492;75;17845;10900;995;3642
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+436;135;18132;9542;936;5157
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+405;75;18183;11823;813;6337
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;157;16631;8844;570;4626
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+458;199;16908;8849;691;4505
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+569;147;19236;9462;1027;2978
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+436;133;16431;9461;562;4288
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+556;149;17581;9809;956;4075
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+486;70;16185;8293;412;3641
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;125;18984;8428;824;4493
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+353;200;15655;8784;895;5073
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+344;78;16578;10963;600;6208
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+278;59;13744;8013;409;1561
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+421;94;11668;6443;438;1695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+335;217;11457;6598;1086;2214
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+408;148;10620;6772;1100;1991
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+505;145;12447;6243;787;2326
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+402;53;9629;5812;323;1481
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+428;114;12240;5629;620;2443
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+407;150;9833;5255;390;2548
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;136;13439;6809;507;4663
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+490;49;13241;5346;668;2598
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+357;52;13104;6616;878;2641
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+286;104;11803;4516;509;2707
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;75;11320;6795;414;2979
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+314;43;10676;6749;373;2323
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+287;100;12091;4436;1040;3007
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;48;10593;4522;313;1334
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+378;89;12293;7748;985;2240
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+434;73;9697;5889;908;2808
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;63;12896;7654;753;2873
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+324;74;8821;5839;873;2333
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+456;51;13756;6965;808;3067
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+488;80;11835;6169;994;2793
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+517;106;13548;6000;674;3111
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+449;108;12336;6223;618;2599
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+418;126;15151;6336;731;2625
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;123;12137;6698;770;2999
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+538;107;14045;6186;928;2254
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+442;150;14708;6026;745;3149
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+377;123;12395;4879;861;3526
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+419;45;12792;5934;801;2174
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+519;154;16125;4938;609;3119
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+412;46;14309;5003;497;2731
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+455;54;13018;5307;488;2939
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+598;91;13027;5283;724;2815
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+317;50;12324;6571;467;2455
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+151;48;12527;6884;432;2440
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+316;94;11974;6630;598;1716
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+490;157;27445;11529;1596;10695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+81;244;22441;11968;755;6036
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;102;22133;12286;787;6151
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+130;366;18899;11064;1580;5090
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+154;218;21044;12417;794;6735
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+482;307;19641;10592;875;6365
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+858;167;20908;11566;753;6841
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+261;303;19466;12566;1044;7083
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+163;963;24212;10321;961;8375
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+219;188;23632;9170;956;7774
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+229;262;23838;9348;842;7222
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+125;159;24139;8804;703;7124
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+134;483;24361;10190;1381;7307
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+250;106;21424;9961;1407;6869
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+188;114;24942;8946;605;8211
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+212;221;21287;9468;1141;6745
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;197;22264;10212;634;7709
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+209;226;22550;9986;664;7866
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+80;138;23447;9585;797;6638
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+113;218;22663;10474;881;6398
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+106;107;22752;11775;734;6241
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+228;103;22530;11484;521;6138
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+367;373;25831;13218;919;5581
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+359;529;25528;11932;1199;4449
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+327;102;21296;12505;626;6115
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+582;103;24577;10599;863;5200
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+260;176;23301;11108;920;4462
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+571;156;21579;9563;1429;4753
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;271;23824;11490;773;4664
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;206;24256;13502;1217;7848
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+532;213;25505;14033;775;6834
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+219;247;24115;12074;1660;4672
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+353;488;22881;11550;1225;5737
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+463;297;26871;11265;1180;6288
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+331;408;23898;10896;905;6503
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+280;120;24675;9378;1140;6325
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+321;154;25633;9377;587;6636
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+400;243;23425;9692;1156;6292
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+217;232;24484;8297;1060;5881
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+418;45;13616;2950;107;2120
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+315;19;11796;3065;65;1850
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+777;69;18382;9048;71;3570
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+352;136;19376;11139;168;5199
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+354;32;16560;5583;73;5816
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+528;43;16544;13085;142;5579
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+244;29;14455;4602;67;4986
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+501;51;18948;12355;111;4091
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+276;108;11714;8449;178;1295
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+251;122;11591;7019;228;2105
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+573;151;14578;10718;542;2783
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+202;140;11416;8742;445;2967
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;35;15101;9668;310;2096
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+394;82;10071;6802;275;2375
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+425;115;12513;8334;320;2235
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+342;75;12342;6770;553;2374
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;127;12910;6864;442;2829
+timing (loadFM, lexing, parsing)
+302;10805;24017
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;46;8967;5116;117;2284
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+523;31;9202;3303;241;1550
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+453;121;11659;5032;592;2246
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+410;26;9022;4195;142;1750
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+219;42;9294;3909;209;1571
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+237;55;11362;5557;443;2551
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;32;8888;4386;143;1339
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+232;103;12050;5111;550;2608
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+208;58;8776;4252;313;2986
+timing (loadFM, lexing, parsing)
+389;10009;31149
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+484;66;11086;4039;291;2537
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+528;134;13418;4488;417;2173
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+218;39;14200;4418;250;2294
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+182;36;8680;3405;320;2913
+timing (loadFM, lexing, parsing)
+252;9837;38505
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+284;55;13523;5218;436;2421
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+327;350;27573;9698;1064;8342
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+165;210;28137;9400;1339;5846
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+127;274;29874;9347;951;6586
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+141;460;28121;8842;1479;4450
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+104;420;26750;9820;1372;5033
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+161;474;28377;10853;1153;6697
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+125;253;27067;11004;830;6612
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+229;208;27114;11208;1246;8211
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;305;25370;10473;1280;7951
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+239;357;26408;11220;1111;7193
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+132;228;29078;12151;728;6939
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;231;28729;11322;890;8446
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+148;155;25413;12854;1041;7277
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+312;113;25967;11412;888;5895
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+288;189;27927;11878;628;5256
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+138;189;29630;12134;1615;6582
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;362;29203;11614;1028;6196
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;115;24952;14842;991;8373
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+180;468;26717;12052;1440;6840
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;165;25700;13485;861;8181
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+448;134;25343;13227;542;7584
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+237;246;23095;13216;645;8636
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+217;121;23867;14720;975;5863
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+335;144;20938;15409;1034;7954
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+374;176;23625;14828;727;4926
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+552;185;20557;11655;1268;8177
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+464;118;25823;12105;877;7517
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+191;211;25356;12373;846;7746
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;169;23430;12550;936;7582
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+307;176;25234;12317;915;7659
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+283;391;25144;12480;1851;8214
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+245;155;24769;10851;828;6689
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+484;111;22823;12739;1101;7191
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+166;184;22962;11371;1396;6285
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+238;160;23214;11330;724;7066
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+310;489;24792;12819;1287;6830
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+405;215;25976;11542;1176;7059
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;162;25649;12192;1119;7559
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+388;247;28207;12321;551;12156
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+133;168;26150;11800;1037;7787
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;269;23150;11449;1047;6896
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+362;249;22094;11766;1025;7890
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+212;169;26994;12118;948;8309
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+384;298;24025;9257;787;8500
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+227;328;26564;10631;1224;6001
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+274;492;25977;13202;1179;6898
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+304;196;27233;13496;804;8043
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+757;148;24462;13805;882;7371
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+392;95;22492;9738;592;6228
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;245;21646;11051;1732;6686
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;409;24363;10211;1530;6543
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+375;240;23575;11790;1127;6624
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+236;105;23094;14256;867;7828
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+112;189;23592;11680;698;7638
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+320;353;22771;11568;1181;6677
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+317;182;23158;12694;1105;8639
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;307;24119;10425;1075;7328
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;491;24464;10931;2110;8552
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+261;265;24947;13454;1408;11914
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+335;291;26798;12349;1119;10827
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+424;395;24038;13470;2270;9050
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+141;197;23261;8979;1009;7225
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+304;334;25799;13569;828;12547
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+200;331;22023;11297;1896;7659
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+275;398;25252;11651;1734;10570
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+223;703;23609;12464;2262;7427
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+393;710;23561;12303;1087;9495
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+208;328;24516;10931;1125;10721
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+171;520;22389;11425;1369;10565
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;188;27065;10587;642;9835
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+150;119;29810;10885;587;6999
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;105;27950;10939;574;7773
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+623;222;29584;11192;1256;7747
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+205;374;29349;11459;1447;5827
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+220;442;28890;10032;1005;5675
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+212;433;30347;10504;1281;7170
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+266;210;28726;10505;1323;7428
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+291;123;28247;13390;1011;7501
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+230;104;27250;14133;960;6352
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+490;138;26794;12789;754;7595
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+629;135;26695;13805;868;6654
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+254;177;26972;13228;787;7012
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+573;308;30507;13058;1452;8414
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+600;132;28744;12610;1075;6698
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+726;222;27470;14079;1077;7448
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+264;411;23890;14457;1136;6224
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+197;326;24427;10936;1037;8990
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+483;238;25373;12967;915;7288
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+497;114;24921;10955;810;8826
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+574;129;25549;11869;652;5841
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+341;382;25190;12547;1518;5932
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+181;358;24149;11387;1547;9118
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+106;110;26835;13015;951;8180
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+190;99;27340;13493;1026;7874
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+170;576;26427;11483;1294;7126
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;188;25607;11744;1241;5332
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+395;400;25765;11114;1630;5891
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+530;332;24932;12277;1153;8347
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+565;308;22552;12595;1013;7317
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+653;318;25268;11613;1304;7256
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+248;506;30190;12427;2202;8044
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;143;28464;13172;1715;6674
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+159;120;23800;11684;804;6590
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+179;121;24071;12501;636;6305
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;251;26609;11957;1442;5726
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;288;26134;14483;1027;8373
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+237;317;22450;13076;817;7962
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+226;237;24586;12179;791;8608
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;117;24014;12148;687;7008
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+172;299;23414;11837;1004;6684
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+192;127;24323;12955;1111;8355
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;121;25288;11922;657;7834
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+270;286;23480;12745;735;6763
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+269;88;24711;13050;776;4662
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+323;104;22444;13222;1494;8117
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;136;29970;12689;1007;6602
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+272;111;25295;13606;859;6012
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+559;192;20758;12900;733;8017
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+523;343;22989;11369;874;7834
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+469;299;19783;10097;929;6743
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+191;276;20932;10065;616;6607
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+517;303;18845;9884;1089;5540
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+378;67;18395;10786;292;5881
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+141;220;25047;11588;912;7757
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+172;226;25849;11921;754;7279
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;121;24722;12704;1266;10314
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+220;371;25375;13398;1484;6939
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+819;679;22960;10969;1856;7715
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+187;115;24221;8769;1191;8998
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;103;25444;11399;1040;6513
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+377;211;25605;10943;869;8664
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;231;25294;11876;1359;6334
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+460;297;26037;12494;1367;7274
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;186;30778;11805;978;9925
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+332;483;27825;13736;1561;7607
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+359;193;27623;10426;1322;7959
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+410;204;27518;13733;917;9603
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+162;168;24108;13259;1135;6488
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+202;240;24416;14409;1461;8806
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+168;404;22967;13658;1346;7219
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+209;253;23819;12076;1222;8136
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+309;150;23312;13703;729;8434
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+355;188;25193;12981;779;6248
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+174;486;22510;10997;1760;9945
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+539;106;20790;12994;1624;9449
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+774;113;27494;13021;1129;6126
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+438;442;29032;13112;1313;7271
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+552;183;24292;11727;811;9151
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+530;114;22461;11390;858;8958
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+178;278;28363;10587;1503;7118
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+429;304;28843;13563;1036;9544
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;31;13459;6745;154;1686
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;539;24862;10741;1541;7184
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+176;170;17598;10506;583;4877
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+307;186;14773;8307;1425;6227
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;279;20907;10245;1376;3627
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+325;103;19010;10805;1196;4533
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+415;87;17945;10688;593;2345
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;108;19545;8824;1033;2565
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+365;146;18050;9296;763;2478
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+526;154;19662;7555;599;4534
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;229;16951;5688;1044;2886
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+212;86;21133;8679;383;3567
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+133;54;14300;4474;347;1690
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;164;21662;9331;530;4473
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+131;114;21130;9326;397;3776
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+157;34;13943;7707;230;2910
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;62;12426;6274;465;3119
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+192;32;13027;8710;154;2847
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+385;75;12892;11153;218;2384
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+519;37;13185;8054;179;2639
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+524;101;12628;8414;185;2198
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+238;434;16801;11856;1101;5374
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+427;140;17166;12602;818;4926
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+335;312;14868;9299;1251;5608
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+473;78;18279;10358;382;5409
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+295;88;16685;8375;882;4104
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+173;96;14944;7035;633;5594
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+369;111;19643;8945;606;2784
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+299;94;10309;5140;235;2891
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+232;55;10518;4973;520;2719
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+227;170;10203;5439;597;3192
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+277;249;19707;7776;1929;3342
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+297;122;10820;5752;562;3370
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;225;19404;7602;1875;4952
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;55;12089;4931;504;2940
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+329;160;13185;5099;572;2963
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+274;108;11802;4829;434;2974
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+247;82;15585;5363;455;2697
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;819;28813;10256;1273;8391
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;175;20141;5678;944;8429
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+162;124;18864;7960;256;7848
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+81;156;21899;8699;465;6176
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+174;51;21859;6655;471;6673
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+224;584;27620;13224;664;8187
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+172;175;25135;9666;929;5509
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;222;26050;12784;792;8639
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+101;333;25285;10965;1257;7777
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;124;24664;12329;1481;7464
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+259;95;25262;13707;724;6731
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+179;188;26903;14607;996;7469
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+296;122;25793;14901;484;4360
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+378;194;23073;14102;615;6719
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+217;119;24053;12046;658;6597
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+394;155;24087;12759;692;7102
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;165;26864;13734;820;7982
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+307;477;22391;14377;1621;7483
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+233;165;30357;15254;1338;8453
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;364;24414;13883;819;9726
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+235;411;25046;13464;1209;8943
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+102;196;27040;13103;788;8058
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+390;97;15625;12363;783;5071
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;239;15719;12225;595;5064
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+929;232;14932;9102;869;4304
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+396;92;20373;10261;664;6058
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+394;107;17475;10690;748;7079
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+820;192;15653;10313;825;3894
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+503;107;18806;9366;752;7187
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+107;40;12068;5822;193;1563
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+353;74;10156;5439;388;3218
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+257;169;11495;8391;488;2693
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+213;155;11789;6697;512;1625
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+240;297;17869;9927;1449;4220
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+291;115;17195;7625;899;4860
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+222;67;18728;7247;513;2844
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+431;154;20708;11721;1089;4137
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;195;16750;8257;694;2722
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+311;309;16632;7330;903;3015
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+244;66;11188;4764;466;1898
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+310;229;15865;6627;877;4692
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;58;13186;6805;343;2043
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+232;34;9017;6339;171;2979
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;333;21503;11712;682;6798
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;50;12692;6183;290;1731
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;73;9751;6953;603;1368
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+159;308;17113;8284;910;5690
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+320;33;9592;6431;338;1537
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+268;100;9407;6266;269;3008
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+286;92;14242;6699;784;4095
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+477;96;16381;9365;818;4056
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+272;158;15533;6316;677;4909
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+256;217;12054;8101;595;3421
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+519;196;12857;8652;851;4566
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+323;122;14458;8383;1017;3551
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;133;13770;7477;551;4538
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+289;197;14538;8487;1069;4137
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+442;285;14642;7885;878;5563
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+293;95;13883;6125;969;3316
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+852;105;15762;6349;611;4184
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;178;13207;6768;663;3547
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+332;231;14063;7196;598;3296
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+251;114;11368;7132;886;3336
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+326;193;15679;7840;1007;3355
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+262;163;17793;7442;1003;4773
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+258;249;14991;7283;859;4977
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+250;85;15164;6343;748;4069
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+395;137;11690;7358;831;3530
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+204;189;15242;8391;1076;3697
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+248;220;13997;8547;840;3654
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+356;148;13408;9027;710;3688
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+150;186;15782;8342;686;4248
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+140;78;16019;8617;824;4174
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+452;181;12461;7485;877;4310
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+341;130;14487;9648;690;4327
+timing (loadFM, lexing, parsing)
+132;12621;31202
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+263;96;16192;7083;741;6319
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+359;75;10909;4843;397;2285
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;193;19755;8052;705;5588
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+683;244;13394;7021;899;4903
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+373;227;13381;6583;1028;3966
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+368;216;13769;6503;770;4236
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;77;14203;5845;782;3236
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;97;15037;8350;790;4596
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+207;125;14452;5565;903;4644
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;321;16087;8110;832;4346
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+324;189;15305;8707;1023;3494
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+354;100;14175;7878;690;2823
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+710;154;16916;9849;462;3103
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+542;339;15880;9372;732;3038
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+447;139;14522;7852;831;4191
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+425;226;16215;9241;1224;2829
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+504;96;15495;8140;767;2884
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+506;92;15574;6669;1086;3542
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+445;108;15312;6692;805;3997
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+407;97;13577;7386;1009;4837
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+356;151;17368;8010;681;3592
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;80;10855;3508;323;2166
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+197;48;12336;4111;297;1243
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;132;12278;5580;448;1576
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;60;13770;8547;325;3074
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+103;32;12551;4093;235;1658
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;64;11279;6130;310;2940
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+266;40;10530;7040;270;2651
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+229;47;12612;8242;305;1750
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+148;28;10657;5382;193;2683
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;76;12165;4486;461;2947
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+300;36;9636;4069;208;1089
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+189;55;12567;4746;331;3502
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;60;10582;4298;373;2519
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+124;113;14085;5107;585;2627
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+188;81;11471;3486;253;1549
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+101;126;14266;6598;426;3400
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;36;10787;6560;325;1796
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+120;49;13749;6729;243;2810
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+413;68;14211;7652;313;2146
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+149;69;11007;5794;245;2200
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+206;33;10950;5412;150;2269
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+258;30;10309;4410;164;1147
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;58;13372;5443;275;2050
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+258;65;11820;4253;369;2064
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+208;33;11910;4234;212;1787
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+299;78;11837;3604;343;2039
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+136;50;14225;4577;218;1897
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;33;11947;3608;243;1413
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;86;10958;3158;387;1414
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+192;33;11375;4315;195;1303
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+197;45;11962;5171;181;1122
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+141;34;10939;5835;172;1258
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;32;10589;4933;218;1243
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+93;33;9680;5920;166;1365
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+310;69;9847;6281;433;2437
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+118;93;9317;4848;301;2538
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;32;10489;6376;209;1603
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;49;11154;5708;216;1583
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+84;48;9391;5395;310;1660
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;30;9674;5180;188;1465
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+239;32;9602;5688;539;1233
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+207;101;10631;5195;465;2626
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;138;19890;8263;924;5876
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+171;130;9936;4143;279;2528
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+187;101;11071;4637;388;2483
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+124;71;10192;3270;265;1961
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+104;46;12378;5817;283;1997
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;59;15157;4338;393;2079
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+200;102;13973;7380;925;3655
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+93;47;9958;4892;161;2022
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+118;48;10767;5425;222;1368
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+115;29;11243;6383;153;1264
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+156;32;10241;5292;204;1357
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+112;33;11106;5235;177;1017
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+411;33;11430;5162;174;1295
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+311;101;11671;5738;405;2182
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;63;11102;4618;340;1669
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+149;34;4744;1221;78;348
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+157;22;4968;1396;55;177
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+125;33;10505;2964;172;1263
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+180;88;9483;4431;401;2548
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;33;10566;5975;203;1296
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+213;92;13202;7727;373;2860
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+189;75;13691;7833;880;2243
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+209;61;8409;5897;391;1830
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+257;27;11288;5115;155;1642
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+206;41;10315;5490;210;1475
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+136;142;12067;6329;875;2121
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;30;8969;5166;164;1559
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+145;35;10768;4346;197;1131
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;47;9258;3669;311;1489
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;140;10994;4425;543;2235
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;104;12922;5044;541;3463
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+134;81;10561;4002;518;2709
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+76;35;10784;4926;257;1874
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+222;31;8091;4742;222;1605
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+340;83;10316;6746;388;1973
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+289;58;13084;6258;752;2782
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;97;15925;6317;612;5912
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;195;19980;7534;633;4972
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+213;22;5175;2436;45;374
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+200;24;8928;4091;363;1974
+Found 34 type errors: ttiming (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+244;104;14789;4953;759;3015
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;97;14559;5542;615;3265
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+271;69;15132;6704;528;2071
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+428;70;15061;7378;550;1812
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+374;73;13118;5905;395;2844
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;50;14926;5910;398;2281
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;77;12871;5705;546;2483
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+135;117;15158;5810;680;2003
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+92;99;13379;6103;348;2034
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;74;14402;6561;607;3265
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+367;152;12756;7110;673;2841
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+226;90;11630;6389;576;2904
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;146;11990;5749;673;2780
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+251;139;13306;7225;695;2753
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+604;100;13017;7233;738;3617
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+210;133;12628;7306;933;2695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;113;13175;6191;404;3347
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+245;75;13051;6900;425;2556
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;113;11798;7350;479;2605
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+233;96;13417;7303;770;2729
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+217;135;11209;6479;572;2914
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;156;14440;6452;686;2833
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;60;13596;6744;449;2254
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+249;63;12169;5202;425;3064
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+230;289;15750;5868;898;6259
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;126;17897;6208;695;4862
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+149;104;12266;6247;850;3850
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+100;61;11761;5991;511;2779
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+224;86;12258;7100;989;3222
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+85;43;12242;6204;542;2181
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;51;12143;6182;600;2772
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+209;46;10450;6484;372;2988
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;84;11340;5880;309;1791
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+122;35;10259;4993;433;2737
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+275;44;9901;5995;458;1730
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;161;9676;5084;545;2489
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+234;42;6719;3703;128;1489
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+239;89;11742;5592;335;2106
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+335;19;3869;3310;44;376
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+424;44;3377;2603;45;219
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+142;149;11387;5324;697;2285
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+384;36;4584;2663;83;1061
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+470;31;3723;2041;57;516
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+197;145;13332;5545;684;2942
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+286;48;8391;2888;71;1197
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+138;45;11794;5109;397;2630
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+170;132;13800;6560;1165;2377
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;81;11336;6039;549;1997
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+302;28;9805;3942;128;1237
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+417;79;9475;5204;140;1710
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+204;114;11176;5818;666;1683
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+165;49;8234;4706;93;1365
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+325;54;7332;4282;105;1762
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+462;31;8593;4000;128;1045
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+506;303;10237;6427;1263;5151
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+340;25;4936;2459;72;732
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+202;68;12512;6213;608;3573
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+218;53;11411;5353;767;4292
+timing (loadFM, lexing, parsing)
+269;9162;27469
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+478;27;5452;3205;58;614
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+257;83;17099;6684;402;2444
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;51;14931;5939;350;2207
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+320;90;13586;5731;418;2429
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+162;75;13670;5048;640;2271
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+252;40;8766;3828;310;2191
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;68;8992;4233;234;2671
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;105;13781;5352;817;2720
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+251;53;14771;5670;335;2671
+timing (loadFM, lexing, parsing)
+427;7780;28790
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+236;36;11613;3564;308;2330
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;56;14632;4490;412;1947
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;65;16090;3774;571;1765
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+412;99;4679;1884;115;590
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+153;50;11631;2389;97;1931
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+294;41;12013;3058;108;1305
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+206;37;12002;2574;135;1705
+timing (loadFM, lexing, parsing)
+190;14530;25862
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+175;90;10465;10159;543;2574
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+769;185;11053;9867;743;2742
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+317;25;9764;8254;111;1487
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+272;43;7260;5092;70;1034
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+319;77;12771;9312;527;2958
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+284;79;14255;8356;667;3525
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+401;327;14341;7737;1037;2914
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+374;65;14283;7252;425;1999
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+579;96;13503;6860;477;2024
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+221;169;13181;6719;1155;3054
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+323;51;12358;5166;295;1649
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+244;85;12054;4351;377;2137
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+263;63;12442;3650;380;1317
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+104;112;12639;6862;686;3620
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+103;126;13653;6959;723;2458
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+152;26;9581;3252;118;1166
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+389;32;6218;3089;101;897
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+227;181;9063;6234;799;2024
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+139;45;10170;6203;591;2361
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+418;99;11064;7492;746;1922
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+190;80;12469;7870;386;2162
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;59;9892;5875;559;2189
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;23;7318;3962;54;950
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+304;40;10995;6639;275;1544
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+235;61;10018;6602;368;1833
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+169;120;10689;6687;292;1431
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+684;51;6045;3362;127;1350
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+148;81;12631;6725;534;3112
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+143;181;10469;5925;747;2723
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+108;26;8494;2082;59;875
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;101;10880;5757;896;2184
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+277;19;6323;2729;48;496
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+640;50;6357;3389;163;1860
+timing (loadFM, lexing, parsing)
+393;7992;24038
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+500;16;4101;2570;53;396
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+624;18;3766;2487;47;442
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;54;10305;4463;131;1647
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+235;72;13038;5154;274;2120
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;51;11711;5676;501;1481
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+399;44;11179;4992;289;2088
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;49;11474;5258;309;1612
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+520;53;12336;5032;320;1596
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+341;78;7889;2745;216;1351
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;47;11952;4117;302;1671
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+111;54;10129;5968;488;1438
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;41;5588;1843;85;225
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+114;176;9378;5729;288;1827
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+365;30;7683;3734;52;883
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+314;123;11972;7496;899;2448
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;25;7800;4546;76;707
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;26;7857;4840;96;799
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+454;27;6466;4838;92;793
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+305;28;6327;3559;87;852
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;106;7119;3899;161;1199
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+218;33;6338;4239;141;1319
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+385;35;6646;3808;61;795
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+742;37;7127;4476;128;1221
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+218;88;10877;5712;394;2350
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+462;181;11704;6702;684;2942
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+364;34;4195;2279;43;770
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+219;39;4798;2934;85;736
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+130;34;8600;2892;106;1135
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+151;56;13592;5094;415;1744
+timing (loadFM, lexing, parsing)
+290;9240;23540
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+277;42;10150;2714;101;1328
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+271;38;11052;3704;77;1074
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;61;11183;6484;351;1425
+timing (loadFM, lexing, parsing)
+468;9474;31897
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;62;11075;6956;368;1780
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+277;45;4455;1549;89;307
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+408;32;8821;4209;74;1326
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+168;53;10291;6788;517;1820
+timing (loadFM, lexing, parsing)
+563;10863;24234
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+199;28;10717;5098;122;1092
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+433;34;9592;5136;133;1075
+timing (loadFM, lexing, parsing)
+306;10973;25900
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+592;45;6288;2913;79;392
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+198;46;11227;6333;388;2547
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+297;130;11737;7158;382;2319
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+275;17;5178;3541;41;499
+timing (loadFM, lexing, parsing)
+225;9523;26568
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+416;199;8859;4884;373;1380
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+597;82;11018;6402;622;2260
+timing (loadFM, lexing, parsing)
+387;10178;25322
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+299;18;6344;2739;56;482
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+271;126;10453;6361;691;2312
+timing (loadFM, lexing, parsing)
+256;9598;24444
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;24;7495;4567;58;1269
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+391;106;4707;2888;189;795
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+231;21;8599;4366;60;1388
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+254;86;12973;4191;570;2691
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+363;46;10195;3278;164;1692
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+151;57;14643;5498;437;1375
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+138;47;12489;6579;822;1840
+timing (loadFM, lexing, parsing)
+98;8994;24291
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+276;29;5813;1933;46;914
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+195;56;8168;3075;88;1070
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+136;180;17582;9007;979;6303
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;110;16969;10584;423;5474
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;47;13160;6562;388;1393
+timing (loadFM, lexing, parsing)
+388;10284;28806
+timing (loadFM, lexing, parsing)
+302;11591;30576
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;49;10919;6949;338;2478
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+328;17;7672;3109;94;1190
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+346;127;10915;5928;447;1729
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+397;71;11042;6643;244;2898
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+647;22;7945;4905;48;795
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+382;17;7972;4036;36;592
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+471;46;7215;4390;92;891
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+476;22;7188;4972;96;1203
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+369;55;6740;3879;158;1986
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+757;136;13570;8116;578;2640
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+497;83;6815;4985;89;1293
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;54;8300;4478;115;1245
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+84;17;6626;3396;39;976
+timing (loadFM, lexing, parsing)
+147;9261;22179
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+287;140;11786;6038;569;3146
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+350;74;9232;5854;947;1449
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+226;131;13697;6155;805;2169
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;100;16773;10604;641;5154
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+175;244;16722;9906;701;5591
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+437;37;7803;4711;217;965
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+357;42;7829;3771;59;1340
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+221;45;11684;6641;246;1767
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+190;58;13037;6679;418;2103
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;45;10085;6546;418;2169
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+209;33;7866;3875;124;1184
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+178;118;8641;6876;644;2210
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+355;54;9614;6730;302;2125
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;22;6497;3187;75;723
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;45;10580;5913;269;1448
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+205;45;10525;5898;414;1302
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+439;49;10043;5969;395;1389
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+169;127;10849;4927;752;1805
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+140;189;10673;4861;719;1993
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+626;19;9289;2993;48;735
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+234;88;10176;4427;432;1448
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+119;23;7397;2719;52;778
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+164;224;9482;5488;679;2534
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+170;102;7582;4667;179;1731
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+560;28;6903;6036;124;2038
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+230;43;10055;3615;146;1870
+timing (loadFM, lexing, parsing)
+128;7336;24798
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+400;60;13242;6423;720;2997
+timing (loadFM, lexing, parsing)
+280;8257;25093
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+174;17;2787;2352;37;129
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+409;40;7984;3317;188;1250
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+559;74;12122;5346;539;3779
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+100;48;5558;1342;88;361
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+140;49;11341;5828;441;1711
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+621;25;7384;4369;85;813
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;38;11387;6142;199;1859
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+240;35;9247;4696;127;1684
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+189;20;5509;3081;41;390
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+473;19;5050;2696;53;410
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+399;21;5240;2986;44;444
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+251;126;9753;7105;652;2638
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+222;291;10313;5773;526;1970
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+135;180;11522;5826;870;3580
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+394;29;7161;4545;119;1594
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+230;35;4232;3288;83;637
+timing (loadFM, lexing, parsing)
+167;9719;26448
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+519;64;7604;4684;224;1183
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+167;43;8738;4345;179;1679
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+129;61;3220;2301;102;570
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+340;20;5014;1993;64;531
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+177;21;4303;789;65;16
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+547;19;4936;1510;51;428
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+265;27;9555;4227;245;1697
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+143;50;10911;4441;247;1528
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+337;88;11048;5047;189;2909
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+307;18;6699;3649;101;1516
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;85;12311;5339;685;1876
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+661;178;11436;6150;1017;2054
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+402;48;11990;7239;299;3503
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+421;25;9626;3501;81;1037
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+253;22;6395;3874;57;440
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+348;23;6433;2858;59;649
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+254;18;5210;2614;80;692
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+243;172;11921;6021;828;2095
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;75;12910;6439;420;3172
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+467;37;9082;4890;90;1953
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+274;48;4206;1239;34;23
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+376;50;8141;4149;121;1054
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+450;99;7367;3790;247;1030
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;99;9324;4557;96;1053
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+187;28;8925;3774;103;1434
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+440;66;13088;6260;539;2626
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+407;91;12028;4699;867;2208
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+916;31;9330;4245;152;2002
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+131;139;10149;5106;245;2748
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+250;85;10520;4411;359;1577
+timing (loadFM, lexing, parsing)
+238;10358;31421
+timing (loadFM, lexing, parsing)
+101;10831;31531
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;130;10681;7178;365;3666
+timing (loadFM, lexing, parsing)
+319;9800;27442
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+553;100;15026;6067;667;3878
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+266;76;10549;6508;327;3284
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+240;47;13922;5430;838;1783
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+194;52;13061;7681;612;3452
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+116;125;12667;7101;775;3370
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+328;104;12420;6976;416;4071
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+142;44;13835;7442;719;2847
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+214;19;4325;1902;42;226
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+158;59;9125;3773;87;940
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+250;21;9701;3950;54;1203
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+296;50;11772;6342;334;1844
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+131;40;8798;3492;146;839
+timing (loadFM, lexing, parsing)
+172;10810;28915
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+150;22;7939;3081;67;816
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+95;49;10647;3899;224;1180
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+136;60;13565;8826;579;3351
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+443;143;12847;7045;795;2092
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+176;198;14754;7002;461;3457
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+149;22;8772;4207;61;696
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+149;70;14160;7156;501;2971
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;49;13169;7124;311;1564
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+178;130;15709;8237;972;4091
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+264;169;12655;8257;1040;3805
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+141;296;23974;11110;759;7634
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+147;317;22639;10950;648;6281
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+176;149;21288;10631;843;5255
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+300;287;22292;11540;1241;6441
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+293;235;22902;12045;709;6378
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+211;261;21098;9883;1027;5840
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+137;255;21587;10467;1016;8018
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+181;241;23016;13367;752;6695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+277;76;15409;7857;424;3128
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+172;263;18938;11056;1131;6510
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+253;103;20932;11497;685;6562
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+134;193;18664;9156;804;5988
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+108;83;17094;8913;889;5114
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;109;23839;9942;919;4850
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+213;140;14560;7208;823;1950
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;197;14268;7107;801;1540
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+712;125;14124;6498;506;3284
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+378;257;15024;6792;1181;2675
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;163;13749;7580;938;2338
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;120;20616;12794;553;5864
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+201;122;13213;8185;771;3679
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+378;141;20559;10963;585;5154
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;144;13863;6879;682;2817
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+248;39;13381;6213;41;3312
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+203;83;11913;7258;513;2042
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;125;11769;7955;556;2955
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+765;69;11077;6863;207;2178
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+510;77;12728;6907;413;2203
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+395;39;12082;7697;218;1904
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+515;45;10352;7776;387;3062
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+567;54;10837;6886;239;1904
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;32;9758;6446;203;1686
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+408;31;10966;6695;207;1871
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+360;29;9214;6227;247;1494
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+541;40;9023;5916;318;1552
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+446;114;9762;6373;443;2433
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+370;116;9152;5925;328;2228
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+295;110;9111;6396;457;2133
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+328;32;10387;5307;216;2380
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+466;43;9576;5539;321;2092
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+481;48;9987;5931;304;1406
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+402;44;8261;6092;223;2164
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+447;65;10245;5832;280;2108
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+339;39;9967;7242;353;1757
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+410;57;9266;6519;378;1844
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+403;29;9708;7448;229;1997
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+421;68;8821;6374;250;1834
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+444;33;9837;6524;211;2001
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+291;44;9817;6437;212;1312
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+437;38;9831;5137;171;1359
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+599;28;9127;5501;155;2407
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+511;39;9620;5991;200;1718
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+393;27;10140;5835;163;1197
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+609;25;10114;4763;183;1428
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+173;55;7957;4786;204;1015
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+182;31;15136;6627;186;4767
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+373;40;8675;5891;286;1496
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+526;92;9471;5955;326;2248
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+439;71;8927;5724;432;2626
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+551;40;9110;5596;215;2648
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+516;35;10252;5543;192;1835
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+357;31;9291;4895;201;2043
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+407;27;11687;5016;227;1726
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+396;40;11088;5072;183;1502
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+464;43;10177;4325;203;1400
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+248;69;10819;4220;433;1570
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;29;9053;5061;348;1526
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+294;49;10885;4046;328;2213
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+373;40;9290;6100;386;2498
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+355;47;7785;4439;220;843
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;77;8575;5354;276;2451
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+228;90;8442;5788;314;2466
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+331;43;8709;7120;177;1685
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+305;78;9349;6723;318;1626
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+261;41;9389;6529;229;2440
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+644;31;9951;7642;234;2123
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+346;44;6640;6853;238;1497
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+225;43;8416;6594;305;2019
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+541;28;7986;7216;253;1364
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+591;32;8825;5971;229;1652
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+661;39;8446;6140;244;1699
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+586;31;9422;6836;215;1521
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+418;55;8483;5875;263;1758
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+338;29;10083;5359;214;1485
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+452;114;10156;4554;478;1897
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+417;38;9607;4384;214;1281
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+246;59;8993;6187;551;2668
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+326;57;9334;5889;659;2455
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+237;42;9025;6358;228;2796
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+704;51;9204;6122;196;2289
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+458;31;11198;5795;203;1991
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+447;29;10685;5846;388;1277
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+361;57;10714;5250;520;1544
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+305;29;9864;4751;234;1457
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+543;29;11125;4986;346;3006
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+395;43;11047;4512;235;2803
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+336;42;11838;5403;224;2069
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+436;108;10498;5523;316;2198
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+186;30;10307;5446;229;1359
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;62;10397;5585;334;2530
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+304;32;10969;5875;297;2040
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+276;27;10372;7098;181;1507
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+311;31;9752;6822;177;1699
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+292;74;10472;6478;758;1712
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+142;26;10746;6990;143;2375
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+301;67;9753;7334;734;1280
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;67;10554;5732;631;1586
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+504;33;4603;2213;146;291
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+170;58;11389;5754;194;3895
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+146;49;15409;7476;119;5043
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+412;30;25779;11261;157;8266
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;121;17858;6300;183;4480
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+498;33;17362;9399;112;6242
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+600;47;18074;8593;153;5795
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+542;35;19949;8354;115;7454
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+445;35;21447;7468;160;7018
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+278;59;17202;7050;87;6176
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+630;21;21613;7503;127;5177
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+646;56;20892;7631;106;7850
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+501;70;22075;7125;84;6994
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+358;44;19443;7484;101;7244
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+389;31;20151;8688;136;6436
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+620;17;19410;8075;82;5331
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+282;22;20085;10454;62;6337
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+193;21;21182;9714;56;5136
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+297;33;18364;9422;147;5537
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+176;16;17123;10227;38;5296
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+350;20;19731;10112;60;4317
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+630;20;19800;10517;50;3387
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+686;39;20174;11893;112;7287
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+442;20;21331;8937;65;6569
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+458;74;17462;9301;227;4493
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+509;23;18543;10268;52;6480
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+537;23;17131;9522;51;6109
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+452;36;17547;9324;98;6336
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+666;20;17333;10165;68;5864
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+569;23;16965;8182;59;5915
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+491;43;17675;7305;188;8406
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+628;34;18180;7106;83;3539
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+492;35;19725;5961;89;7512
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;21;16968;8003;65;7441
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+230;20;17036;8144;49;7480
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+252;74;21122;8389;160;7411
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;36;19468;8415;114;5779
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+694;47;22203;9107;114;7187
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+614;19;20949;8567;155;7182
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+764;111;18010;7588;88;4366
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+495;101;19566;7925;158;6884
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+317;30;18101;8080;130;6554
+timing (loadFM, lexing, parsing)
+283;11356;28856
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+322;22;23368;9168;59;4485
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+365;20;21511;8872;74;6328
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+265;70;22539;9430;297;6229
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+252;20;18272;9525;54;8019
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+190;231;20677;10427;734;7695
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+383;25;21224;11543;101;7906
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+181;66;18607;6666;335;6095
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+245;36;21454;8741;59;7411
+timing (loadFM, lexing, parsing)
+610;13787;28821
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+182;40;13460;6722;166;5747
+timing (loadFM, lexing, parsing)
+278;13063;29845
+timing (loadFM, lexing, parsing)
+167;5671;13032
+timing (loadFM, lexing, parsing)
+172;6881;22099
+timing (loadFM, lexing, parsing)
+306;6440;13929
+timing (loadFM, lexing, parsing)
+221;8646;17264
+timing (loadFM, lexing, parsing)
+308;7785;16866
+timing (loadFM, lexing, parsing)
+360;7348;15038
+timing (loadFM, lexing, parsing)
+365;7038;12480
+timing (loadFM, lexing, parsing)
+167;4971;15096
+timing (loadFM, lexing, parsing)
+303;6119;12062
+timing (loadFM, lexing, parsing)
+359;7843;15263
+timing (loadFM, lexing, parsing)
+174;6096;20632
+timing (loadFM, lexing, parsing)
+341;6637;17031
+timing (loadFM, lexing, parsing)
+309;8606;16436
+timing (loadFM, lexing, parsing)
+222;8952;14757
+timing (loadFM, lexing, parsing)
+294;5633;19550
+timing (loadFM, lexing, parsing)
+164;5992;15153
+timing (loadFM, lexing, parsing)
+148;7887;21964
+timing (loadFM, lexing, parsing)
+311;8414;20642
+timing (loadFM, lexing, parsing)
+192;4985;12140
+timing (loadFM, lexing, parsing)
+155;7125;18005
+timing (loadFM, lexing, parsing)
+242;5305;11940
+timing (loadFM, lexing, parsing)
+203;6348;11813
+timing (loadFM, lexing, parsing)
+346;7151;12761
+timing (loadFM, lexing, parsing)
+174;6677;13801
+timing (loadFM, lexing, parsing)
+166;6046;14274
+timing (loadFM, lexing, parsing)
+200;8137;18258
+timing (loadFM, lexing, parsing)
+174;5942;16344
+timing (loadFM, lexing, parsing)
+224;5885;12206
+timing (loadFM, lexing, parsing)
+178;5855;16283
+timing (loadFM, lexing, parsing)
+328;10268;19386
+timing (loadFM, lexing, parsing)
+331;5873;13344
+timing (loadFM, lexing, parsing)
+202;8877;14159
+timing (loadFM, lexing, parsing)
+368;6934;16493
+timing (loadFM, lexing, parsing)
+317;10218;12200
+timing (loadFM, lexing, parsing)
+188;5801;17490
+timing (loadFM, lexing, parsing)
+208;8803;12723
+timing (loadFM, lexing, parsing)
+249;5748;12740
+timing (loadFM, lexing, parsing)
+149;6870;16661
+timing (loadFM, lexing, parsing)
+284;8324;12745
+timing (loadFM, lexing, parsing)
+259;12155;21557
+timing (loadFM, lexing, parsing)
+228;8615;16196
+timing (loadFM, lexing, parsing)
+229;5634;18743
+timing (loadFM, lexing, parsing)
+250;6031;17259
+timing (loadFM, lexing, parsing)
+179;6505;16185
+timing (loadFM, lexing, parsing)
+187;5016;14387
+timing (loadFM, lexing, parsing)
+248;4950;19008
+timing (loadFM, lexing, parsing)
+250;6580;15005
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+330;29;20768;7841;66;4406
+timing (loadFM, lexing, parsing)
+251;7620;17106
+timing (loadFM, lexing, parsing)
+183;7747;18106
+timing (loadFM, lexing, parsing)
+166;5979;18023
+timing (loadFM, lexing, parsing)
+307;8976;18603
+timing (loadFM, lexing, parsing)
+311;7349;16569
+timing (loadFM, lexing, parsing)
+156;6553;18200
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+568;111;13021;5499;26;2515
+timing (loadFM, lexing, parsing)
+152;8905;19407
+timing (loadFM, lexing, parsing)
+337;6585;17151
+timing (loadFM, lexing, parsing)
+146;7469;17671
+timing (loadFM, lexing, parsing)
+251;9401;19122
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+213;36;5131;1373;219;293
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+474;93;21193;14017;350;5168
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+430;19;22330;13426;75;6225
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+434;22;22450;12003;62;4876
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+840;74;20061;10495;75;5676
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+183;159;15875;6684;906;5245
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+553;100;20781;12028;133;5961
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+369;98;24180;11761;424;8155
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+310;65;16863;6790;457;5687
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+655;41;13267;9607;98;5017
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+644;35;15325;9674;71;3488
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+866;20;13918;8470;29;2905
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+367;16;14806;7364;78;2929
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+517;20;13850;8449;34;2467
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+728;46;12933;9387;95;3957
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+882;18;13694;8759;45;5031
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+434;84;12459;8904;125;3870
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+803;55;14468;7502;104;3568
+timing (loadFM, lexing, parsing)
+464;12661;32899
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+411;103;22238;10181;334;7518
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+355;28;21270;9200;118;5078
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+298;27;20906;9457;281;6574
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+594;72;20812;7398;245;7043
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+106;75;20938;9137;390;7566
+timing (loadFM, lexing, parsing)
+319;11422;30332
+timing (loadFM, lexing, parsing)
+91;7280;18934
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+122;50;11013;4595;83;2739
+timing (loadFM, lexing, parsing)
+164;9227;26226
+timing (loadFM, lexing, parsing)
+101;10415;25462
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+144;379;22076;9279;594;7097
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+236;62;22408;9824;104;5537
+timing (loadFM, lexing, parsing)
+281;13092;27134
+timing (loadFM, lexing, parsing)
+217;11514;24671
+timing (loadFM, lexing, parsing)
+211;12197;30440
+timing (loadFM, lexing, parsing)
+224;10695;25319
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+165;26;22102;11435;66;6713
+timing (loadFM, lexing, parsing)
+95;8744;18721
+timing (loadFM, lexing, parsing)
+511;9116;23965
+timing (loadFM, lexing, parsing)
+565;9273;27497
+timing (loadFM, lexing, parsing)
+606;8514;19528
+timing (loadFM, lexing, parsing)
+320;8514;23259
+timing (loadFM, lexing, parsing)
+811;7601;22761
+timing (loadFM, lexing, parsing)
+570;8163;21905
+timing (loadFM, lexing, parsing)
+234;7525;21608
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+475;17;11081;4752;25;2127
+timing (loadFM, lexing, parsing)
+200;12013;32025
+timing (loadFM, lexing, parsing)
+657;9124;21681
+timing (loadFM, lexing, parsing)
+581;9756;21554
+timing (loadFM, lexing, parsing)
+333;8167;23478
+timing (loadFM, lexing, parsing)
+356;8505;22791
+timing (loadFM, lexing, parsing)
+443;7781;23931
+timing (loadFM, lexing, parsing)
+270;8406;22376
+timing (loadFM, lexing, parsing)
+372;8439;23863
+timing (loadFM, lexing, parsing)
+431;8655;22415
+timing (loadFM, lexing, parsing)
+592;9206;24734
+timing (loadFM, lexing, parsing)
+483;8162;24125
+timing (loadFM, lexing, parsing)
+492;8406;22333
+timing (loadFM, lexing, parsing)
+399;9652;23943
+timing (loadFM, lexing, parsing)
+454;8639;26793
+timing (loadFM, lexing, parsing)
+390;8425;23937
+timing (loadFM, lexing, parsing)
+312;9743;23687
+timing (loadFM, lexing, parsing)
+568;9270;23351
+timing (loadFM, lexing, parsing)
+284;9271;23557
+timing (loadFM, lexing, parsing)
+417;8368;22314
+timing (loadFM, lexing, parsing)
+518;9390;22365
+timing (loadFM, lexing, parsing)
+682;9537;24025
+timing (loadFM, lexing, parsing)
+570;9191;21806
+timing (loadFM, lexing, parsing)
+378;8711;22919
+timing (loadFM, lexing, parsing)
+568;8454;22207
+timing (loadFM, lexing, parsing)
+564;11686;22979
+timing (loadFM, lexing, parsing)
+526;9307;21272
+timing (loadFM, lexing, parsing)
+371;10960;21350
+timing (loadFM, lexing, parsing)
+386;10049;26152
+timing (loadFM, lexing, parsing)
+590;9022;23839
+timing (loadFM, lexing, parsing)
+243;8728;23924
+timing (loadFM, lexing, parsing)
+285;8253;23358
+timing (loadFM, lexing, parsing)
+446;9747;23366
+timing (loadFM, lexing, parsing)
+345;9952;21955
+timing (loadFM, lexing, parsing)
+439;10878;26041
+timing (loadFM, lexing, parsing)
+317;8212;24049
+timing (loadFM, lexing, parsing)
+264;8750;21922
+timing (loadFM, lexing, parsing)
+271;8642;22775
+timing (loadFM, lexing, parsing)
+594;7085;21994
+timing (loadFM, lexing, parsing)
+424;11909;31709
+timing (loadFM, lexing, parsing)
+407;8047;23915
+timing (loadFM, lexing, parsing)
+499;9575;23262
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+279;22;9017;5614;57;1950
+timing (loadFM, lexing, parsing)
+273;9009;20151
+timing (loadFM, lexing, parsing)
+283;8890;23182
+timing (loadFM, lexing, parsing)
+511;8351;20961
+timing (loadFM, lexing, parsing)
+678;12853;21129
+timing (loadFM, lexing, parsing)
+470;8658;21384
+timing (loadFM, lexing, parsing)
+509;9292;20123
+timing (loadFM, lexing, parsing)
+435;9248;19430
+timing (loadFM, lexing, parsing)
+261;10992;20573
+timing (loadFM, lexing, parsing)
+774;9751;20000
+timing (loadFM, lexing, parsing)
+975;10706;18880
+timing (loadFM, lexing, parsing)
+508;11423;19573
+timing (loadFM, lexing, parsing)
+707;9000;21944
+timing (loadFM, lexing, parsing)
+528;7735;19817
+timing (loadFM, lexing, parsing)
+427;5980;20661
+timing (loadFM, lexing, parsing)
+555;10135;21383
+timing (loadFM, lexing, parsing)
+475;6928;19879
+timing (loadFM, lexing, parsing)
+370;9362;20178
+timing (loadFM, lexing, parsing)
+429;9403;21647
+timing (loadFM, lexing, parsing)
+236;7730;21514
+timing (loadFM, lexing, parsing)
+577;7434;21318
+timing (loadFM, lexing, parsing)
+327;7380;24024
+timing (loadFM, lexing, parsing)
+302;6019;21062
+timing (loadFM, lexing, parsing)
+338;6322;23895
+timing (loadFM, lexing, parsing)
+284;7255;21130
+timing (loadFM, lexing, parsing)
+341;9611;22306
+timing (loadFM, lexing, parsing)
+288;6638;21568
+timing (loadFM, lexing, parsing)
+233;9328;21903
+timing (loadFM, lexing, parsing)
+268;8789;20747
+timing (loadFM, lexing, parsing)
+653;8848;23758
+timing (loadFM, lexing, parsing)
+480;8105;19050
+timing (loadFM, lexing, parsing)
+569;7281;19951
+timing (loadFM, lexing, parsing)
+480;8821;22643
+timing (loadFM, lexing, parsing)
+344;9041;19838
+timing (loadFM, lexing, parsing)
+340;9098;20755
+timing (loadFM, lexing, parsing)
+397;9593;21061
+timing (loadFM, lexing, parsing)
+510;9165;19211
+timing (loadFM, lexing, parsing)
+459;9901;20665
+timing (loadFM, lexing, parsing)
+402;9386;20326
+timing (loadFM, lexing, parsing)
+211;9387;20965
+timing (loadFM, lexing, parsing)
+268;7770;20996
+timing (loadFM, lexing, parsing)
+467;8947;20476
+timing (loadFM, lexing, parsing)
+600;9128;18894
+timing (loadFM, lexing, parsing)
+284;10208;24801
+timing (loadFM, lexing, parsing)
+262;6503;20528
+timing (loadFM, lexing, parsing)
+682;8471;19435
+timing (loadFM, lexing, parsing)
+834;7787;18599
+timing (loadFM, lexing, parsing)
+660;8936;20715
+timing (loadFM, lexing, parsing)
+333;7432;21058
+timing (loadFM, lexing, parsing)
+268;7305;21835
+timing (loadFM, lexing, parsing)
+218;7964;22191
+timing (loadFM, lexing, parsing)
+497;6309;19745
+timing (loadFM, lexing, parsing)
+425;6642;20679
+timing (loadFM, lexing, parsing)
+283;6761;19963
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+365;92;2520;720;108;38
+timing (loadFM, lexing, parsing)
+372;8315;20310
+timing (loadFM, lexing, parsing)
+227;8286;17526
+timing (loadFM, lexing, parsing)
+333;9295;18285
+timing (loadFM, lexing, parsing)
+657;9987;21369
+timing (loadFM, lexing, parsing)
+629;8862;19201
+timing (loadFM, lexing, parsing)
+400;9376;22721
+timing (loadFM, lexing, parsing)
+264;9227;21700
+timing (loadFM, lexing, parsing)
+531;7670;19888
+timing (loadFM, lexing, parsing)
+337;8986;22967
+timing (loadFM, lexing, parsing)
+559;8267;21971
+timing (loadFM, lexing, parsing)
+366;8441;19800
+timing (loadFM, lexing, parsing)
+482;8222;20813
+timing (loadFM, lexing, parsing)
+496;8071;19537
+timing (loadFM, lexing, parsing)
+581;7432;19514
+timing (loadFM, lexing, parsing)
+406;7449;20508
+timing (loadFM, lexing, parsing)
+340;8296;21916
+timing (loadFM, lexing, parsing)
+486;8751;27928
+timing (loadFM, lexing, parsing)
+431;8582;23797
+timing (loadFM, lexing, parsing)
+508;7485;27097
+timing (loadFM, lexing, parsing)
+290;7956;26485
+timing (loadFM, lexing, parsing)
+308;8453;25402
+timing (loadFM, lexing, parsing)
+791;9208;22783
+timing (loadFM, lexing, parsing)
+383;8263;24363
+timing (loadFM, lexing, parsing)
+324;7438;22454
+timing (loadFM, lexing, parsing)
+524;8305;25074
+timing (loadFM, lexing, parsing)
+353;7188;24184
+timing (loadFM, lexing, parsing)
+406;8582;25361
+timing (loadFM, lexing, parsing)
+370;8759;25755
+timing (loadFM, lexing, parsing)
+782;8621;23289
+timing (loadFM, lexing, parsing)
+278;8217;23767
+timing (loadFM, lexing, parsing)
+613;7788;25752
+timing (loadFM, lexing, parsing)
+287;9362;23816
+timing (loadFM, lexing, parsing)
+262;7768;23808
+timing (loadFM, lexing, parsing)
+448;9854;22712
+timing (loadFM, lexing, parsing)
+301;8953;23831
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+358;21;15894;9455;42;3370
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+472;20;14020;10033;88;2746
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+534;41;12813;5596;89;1638
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+331;20;12794;6561;34;1738
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+221;38;11922;6521;45;2583
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+291;19;12698;8460;48;1505
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+595;26;10167;8778;46;1723
+timing (loadFM, lexing, parsing)
+531;11345;20255
+timing (loadFM, lexing, parsing)
+865;11144;23610
+timing (loadFM, lexing, parsing)
+519;8737;20013
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+772;21;10166;5207;34;1654
+timing (loadFM, lexing, parsing)
+247;8017;23473
+timing (loadFM, lexing, parsing)
+272;7535;23334
+timing (loadFM, lexing, parsing)
+418;8083;22864
+timing (loadFM, lexing, parsing)
+196;10106;23123
+timing (loadFM, lexing, parsing)
+283;9411;21380
+timing (loadFM, lexing, parsing)
+433;7391;22541
+timing (loadFM, lexing, parsing)
+442;7526;24188
+timing (loadFM, lexing, parsing)
+317;8846;23572
+timing (loadFM, lexing, parsing)
+558;8112;21708
+timing (loadFM, lexing, parsing)
+431;10278;26156
+timing (loadFM, lexing, parsing)
+486;8977;21570
+timing (loadFM, lexing, parsing)
+385;12675;25205
+timing (loadFM, lexing, parsing)
+663;9278;22896
+timing (loadFM, lexing, parsing)
+351;8802;24113
+timing (loadFM, lexing, parsing)
+291;9129;22447
+timing (loadFM, lexing, parsing)
+267;9520;19937
+timing (loadFM, lexing, parsing)
+380;10482;20877
+timing (loadFM, lexing, parsing)
+643;10168;21813
+timing (loadFM, lexing, parsing)
+703;10273;23496
+timing (loadFM, lexing, parsing)
+425;7972;23187
+timing (loadFM, lexing, parsing)
+367;9430;20203
+timing (loadFM, lexing, parsing)
+680;10937;20210
+timing (loadFM, lexing, parsing)
+311;7345;18984
+timing (loadFM, lexing, parsing)
+253;8653;22007
+timing (loadFM, lexing, parsing)
+546;8775;19876
+timing (loadFM, lexing, parsing)
+363;9714;16827
+timing (loadFM, lexing, parsing)
+363;10035;17788
+timing (loadFM, lexing, parsing)
+402;7773;17534
+timing (loadFM, lexing, parsing)
+412;5562;16865
+timing (loadFM, lexing, parsing)
+290;7684;16060
+timing (loadFM, lexing, parsing)
+314;7614;17170
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+417;28;7700;5450;52;1322
+timing (loadFM, lexing, parsing)
+286;6158;17089
+timing (loadFM, lexing, parsing)
+506;6943;20193
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+499;30;12005;5390;44;1975
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+310;26;12174;4821;126;2239
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+436;29;10761;3909;100;2323
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+509;23;11786;3786;105;1902
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+239;52;11232;3428;119;1904
+timing (loadFM, lexing, parsing)
+229;6509;19197
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+257;27;11012;3844;152;1947
+timing (loadFM, lexing, parsing)
+243;6927;17956
+timing (loadFM, lexing, parsing)
+210;7620;18333
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+218;22;9528;5968;149;3356
+timing (loadFM, lexing, parsing)
+365;8185;18084
+timing (loadFM, lexing, parsing)
+208;8018;16911
+timing (loadFM, lexing, parsing)
+539;9541;20274
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+316;50;4758;1175;74;24
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+353;122;3653;2055;194;192
+timing (loadFM, lexing, parsing)
+423;7287;19373
+timing (loadFM, lexing, parsing)
+305;6511;17179
+timing (loadFM, lexing, parsing)
+250;7279;20717
+timing (loadFM, lexing, parsing)
+362;10123;30287
+timing (loadFM, lexing, parsing)
+431;5658;20467
+timing (loadFM, lexing, parsing)
+435;6320;19334
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+404;192;14430;7110;368;5916
+timing (loadFM, lexing, parsing)
+309;8481;20883
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;18;8751;4616;25;2032
+timing (loadFM, lexing, parsing)
+215;7793;20791
+timing (loadFM, lexing, parsing)
+648;7248;22725
+timing (loadFM, lexing, parsing)
+603;6350;18565
+timing (loadFM, lexing, parsing)
+329;6720;20397
+timing (loadFM, lexing, parsing)
+250;6507;19481
+timing (loadFM, lexing, parsing)
+235;8019;19580
+timing (loadFM, lexing, parsing)
+179;4561;10325
+timing (loadFM, lexing, parsing)
+219;10103;21455
+timing (loadFM, lexing, parsing)
+440;9068;18052
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+349;49;10091;5743;70;1431
+timing (loadFM, lexing, parsing)
+562;8553;19843
+timing (loadFM, lexing, parsing)
+436;8887;19766
+timing (loadFM, lexing, parsing)
+570;9332;20197
+timing (loadFM, lexing, parsing)
+405;8700;19204
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+425;39;9535;4913;140;1548
+timing (loadFM, lexing, parsing)
+301;6018;18814
+timing (loadFM, lexing, parsing)
+261;8970;19161
+timing (loadFM, lexing, parsing)
+317;8307;19816
+timing (loadFM, lexing, parsing)
+411;7904;19689
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+336;26;14782;6312;80;2694
+timing (loadFM, lexing, parsing)
+282;8217;18362
+timing (loadFM, lexing, parsing)
+234;8143;19939
+timing (loadFM, lexing, parsing)
+214;7431;20026
+timing (loadFM, lexing, parsing)
+734;6541;18009
+timing (loadFM, lexing, parsing)
+194;7066;18365
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+288;30;8508;4929;37;1228
+timing (loadFM, lexing, parsing)
+223;7175;18347
+timing (loadFM, lexing, parsing)
+365;8891;19741
+timing (loadFM, lexing, parsing)
+670;9416;18545
+timing (loadFM, lexing, parsing)
+685;8290;20315
+timing (loadFM, lexing, parsing)
+479;7373;18013
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+341;16;5176;1816;93;1477
+timing (loadFM, lexing, parsing)
+414;6471;19912
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+422;22;12732;3955;89;2184
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+274;17;12589;3750;45;1658
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+242;51;13434;5239;127;2200
+timing (loadFM, lexing, parsing)
+335;7626;21106
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;19;10476;7179;53;4226
+timing (loadFM, lexing, parsing)
+201;7383;17790
+timing (loadFM, lexing, parsing)
+639;8810;19481
+timing (loadFM, lexing, parsing)
+602;8273;18707
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+294;53;4306;996;38;27
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+330;19;4299;1502;52;212
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+375;23;3536;852;34;14
+timing (loadFM, lexing, parsing)
+379;8251;21008
+timing (loadFM, lexing, parsing)
+321;7941;21350
+timing (loadFM, lexing, parsing)
+365;7310;21048
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+377;33;10250;4493;58;2530
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+239;40;3282;1300;104;504
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+306;19;10477;4221;44;1786
+timing (loadFM, lexing, parsing)
+250;7060;18513
+timing (loadFM, lexing, parsing)
+326;9373;18476
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+308;21;11936;6588;50;3349
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+334;29;8710;4256;129;1426
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+276;18;10562;4770;45;1000
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+267;18;9546;5530;48;1255
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+255;64;9608;5973;178;1461
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+215;64;10203;5429;171;2023
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+405;22;9504;5406;49;2694
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+513;29;5422;2698;89;381
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+517;17;13181;8862;34;3212
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+355;16;11771;6833;36;1667
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+448;57;11261;7307;169;1957
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+455;21;10872;6089;110;1539
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+628;35;9803;5296;69;2914
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+731;18;10361;5636;108;2375
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+368;16;10996;6177;31;2145
+timing (loadFM, lexing, parsing)
+400;9558;14932
+timing (loadFM, lexing, parsing)
+281;9455;16061
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+377;36;6947;5498;42;1903
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+184;17;8885;5764;37;2010
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+158;20;7780;5728;35;1175
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+216;15;7624;5460;39;1537
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+241;14;8397;6042;38;2333
+timing (loadFM, interfaces, parsing, lexing, writeInterfaces, typechecking)
+453;23;7817;5190;46;1280

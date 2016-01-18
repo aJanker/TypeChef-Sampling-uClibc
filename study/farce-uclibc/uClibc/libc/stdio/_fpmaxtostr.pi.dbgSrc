@@ -1,0 +1,617 @@
+push file platform-redhat.h -- True (True)
+pop file platform-redhat.h
+push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/header.h -- True (True)
+pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/header.h
+push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/builtin.h -- True (True)
+pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/builtin.h
+push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/libc-symbols.h -- True (True)
+	push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_arch_features.h -- True (True)
+	pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_arch_features.h
+pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/libc-symbols.h
+push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/stdio/_fpmaxtostr.c -- True (True)
+	push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/stdio/_stdio.h -- True (True)
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_config.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_config.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/cdefs.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/cdefs.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/libc-internal.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/cdefs.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/cdefs.h
+				push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+				pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/libc-internal.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/assert.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/assert.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/errno.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/errno.h -- True (True)
+				push file ../systems/redhat/usr/include/linux/errno.h -- True (True)
+					push file ../systems/redhat/usr/include/asm/errno.h -- True (True)
+						push file ../systems/redhat/usr/include/asm-generic/errno.h -- True (True)
+							push file ../systems/redhat/usr/include/asm-generic/errno-base.h -- True (True)
+							pop file ../systems/redhat/usr/include/asm-generic/errno-base.h
+						pop file ../systems/redhat/usr/include/asm-generic/errno.h
+					pop file ../systems/redhat/usr/include/asm/errno.h
+				pop file ../systems/redhat/usr/include/linux/errno.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/errno.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/errno.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/fcntl.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/fcntl.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h -- True (True)
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+						push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+						pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/kernel_types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/kernel_types.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/typesizes.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/typesizes.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_OLD__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_OLD__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__LINUXTHREADS_OLD__)) ((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_NEW__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_NEW__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__LINUXTHREADS_OLD__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True (True)
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+					push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+					pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h -- True (True)
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/endian.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/endian.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/byteswap.h -- True (True)
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/byteswap.h -- True (True)
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/byteswap-common.h -- True (True)
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/byteswap-common.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/byteswap.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/byteswap.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/select.h -- True (True)
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/select.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/select.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigset.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigset.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True (True)
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h -- True (True)
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/select.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/sysmacros.h -- True (True)
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/sysmacros.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_OLD__)))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_NEW__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_NEW__)))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uio.h -- True (True)
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h -- True (True)
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uio.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/fcntl.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/stat.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stat.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stat.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/stat.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/fcntl.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/limits.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed/limits.h -- True (True)
+			pop file /usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed/limits.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix1_lim.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/local_lim.h -- True (True)
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/bits/local_lim.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) (def(__UCLIBC_HAS_THREADS_NATIVE__))
+						push file ../systems/redhat/usr/include/linux/limits.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) (def(__UCLIBC_HAS_THREADS_NATIVE__))
+						pop file ../systems/redhat/usr/include/linux/limits.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/bits/local_lim.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/sysdeps/linux/common/bits/local_lim.h -- !def(__UCLIBC_HAS_THREADS_NATIVE__) (!def(__UCLIBC_HAS_THREADS_NATIVE__))
+						push file ../systems/redhat/usr/include/linux/limits.h -- !def(__UCLIBC_HAS_THREADS_NATIVE__) (!def(__UCLIBC_HAS_THREADS_NATIVE__))
+						pop file ../systems/redhat/usr/include/linux/limits.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/sysdeps/linux/common/bits/local_lim.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/local_lim.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_local_lim.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_local_lim.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix1_lim.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix2_lim.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix2_lim.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/xopen_lim.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stdio_lim.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stdio_lim.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/xopen_lim.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/limits.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigset.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigset.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/signum.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/signum.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/siginfo.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/siginfo.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigaction.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigaction.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigcontext.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigcontext.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigstack.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigstack.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/ucontext.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigcontext.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigcontext.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/ucontext.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_OLD__)))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_NEW__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_NEW__)))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_stdio.h -- True (True)
+				push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+				pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/wchar.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+					push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (def(__UCLIBC_HAS_WCHAR__))
+					pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h -- True (def(__UCLIBC_HAS_WCHAR__))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/wchar.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_mutex.h -- True (True)
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/pthread.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/pthread/pthread.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h -- (def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- True ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_THREADS__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h -- True ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_THREADS__)))
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_THREADS__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+										push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_THREADS__)))
+										pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h -- True ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_THREADS__)))
+											push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+											pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_NEW__) ((def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/setjmp.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/setjmp.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_pthread.h -- True ((def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_THREADS_NATIVE__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_pthread.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/pthread/pthread.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/pthread.h -- def(__LINUXTHREADS_NEW__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_NEW__)))
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (def(__UCLIBC_HAS_THREADS__)&(def(__UCLIBC_HAS_THREADS_NATIVE__)|def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h -- (def(__UCLIBC_HAS_THREADS__)&(def(__UCLIBC_HAS_THREADS_NATIVE__)|def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- True ((def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h -- True ((def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_THREADS_NATIVE__)|!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_THREADS__)) ((def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+										push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (!def(__UCLIBC_HAS_THREADS_NATIVE__)|!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_THREADS__)) ((def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+										pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h -- (!def(__UCLIBC_HAS_THREADS_NATIVE__)|!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_THREADS__)) ((def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_THREADS__)))
+											push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+											pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- True ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- (!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h -- True ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_LOCALE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__UCLIBC_HAS_XLOCALE__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_NEW__) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/initspin.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/initspin.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h -- (!def(__UCLIBC_HAS_THREADS__)|!def(__UCLIBC_HAS_THREADS_NATIVE__)) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads/sysdeps/pthread/pthread.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/pthread.h -- def(__LINUXTHREADS_OLD__) ((def(__UCLIBC_HAS_THREADS__)&def(__LINUXTHREADS_OLD__)))
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sched.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sched.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+								push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- (def(__UCLIBC_HAS_THREADS__)&(def(__UCLIBC_HAS_THREADS_NATIVE__)|def(__LINUXTHREADS_NEW__)|def(__LINUXTHREADS_OLD__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h -- (def(__UCLIBC_HAS_THREADS__)&(def(__UCLIBC_HAS_THREADS_NATIVE__)|def(__LINUXTHREADS_NEW__)|def(__LINUXTHREADS_OLD__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_clk_tck.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/time.h
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+									push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- ((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+										push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- ((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+										pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h -- ((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+											push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+											pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- ((def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__LINUXTHREADS_NEW__)))|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+												push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- ((def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__LINUXTHREADS_NEW__)))|!def(__UCLIBC_HAS_THREADS__)) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+												pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+											push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h -- True ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+											pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h
+										push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__)&def(__LINUXTHREADS_OLD__)))
+										pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+									pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/time.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/signal.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h -- def(__LINUXTHREADS_OLD__) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+								pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/pthreadtypes.h
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/pthreadtypes.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/initspin.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/initspin.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h -- (!def(__UCLIBC_HAS_THREADS__)|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__))) ((!def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__LINUXTHREADS_NEW__)&def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_THREADS__)))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/sigthread.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/linuxthreads.old/sysdeps/pthread/pthread.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/pthread.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_pthread.h -- def(__UCLIBC_HAS_THREADS__) (def(__UCLIBC_HAS_THREADS__))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_pthread.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_mutex.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_stdio.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h -- True (True)
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stdio_lim.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stdio_lim.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdlib.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/waitflags.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/waitflags.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/waitstatus.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/waitstatus.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) (def(__UCLIBC_HAS_XLOCALE__))
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h -- True (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(!def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_XLOCALE__))))
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- ((def(__LINUXTHREADS_OLD__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__LINUXTHREADS_OLD__)&((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))))|!def(__UCLIBC_HAS_THREADS__)) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(!def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_XLOCALE__))))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+					push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- ((def(__LINUXTHREADS_OLD__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__LINUXTHREADS_OLD__)&((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))))|!def(__UCLIBC_HAS_THREADS__)) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(!def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_XLOCALE__))))
+					pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h -- ((def(__LINUXTHREADS_OLD__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__LINUXTHREADS_OLD__)&((def(__UCLIBC_HAS_THREADS_NATIVE__)&!def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__LINUXTHREADS_NEW__)|!def(__UCLIBC_HAS_XLOCALE__)))))|!def(__UCLIBC_HAS_THREADS__)) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(!def(__UCLIBC_HAS_THREADS__)&def(__UCLIBC_HAS_XLOCALE__))))
+						push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+						pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- True (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- ((def(__LINUXTHREADS_OLD__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__LINUXTHREADS_OLD__)&((def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__LINUXTHREADS_NEW__)))))|!def(__UCLIBC_HAS_THREADS__)) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+							push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- ((def(__LINUXTHREADS_OLD__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__LINUXTHREADS_OLD__)&((def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)))|(!def(__UCLIBC_HAS_THREADS_NATIVE__)&(!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)|!def(__LINUXTHREADS_NEW__)))))|!def(__UCLIBC_HAS_THREADS__)) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+							pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h -- True (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) (((!def(__LINUXTHREADS_OLD__)&def(__UCLIBC_HAS_XLOCALE__)&!def(__LINUXTHREADS_NEW__)&def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_THREADS__)&!def(__UCLIBC_HAS_THREADS_NATIVE__))|(def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_THREADS__))))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/sys/types.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/alloca.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+				pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stackinfo.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/stackinfo.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/alloca.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- def(__UCLIBC_HAS_ARC4RANDOM__) (def(__UCLIBC_HAS_ARC4RANDOM__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdlib.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/string.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) (def(__UCLIBC_HAS_XLOCALE__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/string.h
+		push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h -- True (True)
+		pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/unistd.h -- True (True)
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix_opt.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/bits/posix_opt.h -- def(__UCLIBC_HAS_THREADS_NATIVE__) (def(__UCLIBC_HAS_THREADS_NATIVE__))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libpthread/nptl/sysdeps/unix/sysv/linux/bits/posix_opt.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/sysdeps/linux/common/bits/posix_opt.h -- !def(__UCLIBC_HAS_THREADS_NATIVE__) (!def(__UCLIBC_HAS_THREADS_NATIVE__))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/sysdeps/linux/common/bits/posix_opt.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/posix_opt.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/environments.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wordsize.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/environments.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/confname.h -- True (True)
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/confname.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/getopt.h -- True (True)
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/ctype.h -- True (True)
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- True (True)
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_ctype.h -- !def(__UCLIBC_HAS_CTYPE_TABLES__) (!def(__UCLIBC_HAS_CTYPE_TABLES__))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_ctype.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- def(__UCLIBC_HAS_CTYPE_TABLES__) (def(__UCLIBC_HAS_CTYPE_TABLES__))
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- (!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)) (((!def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_CTYPE_TABLES__)&def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_CTYPE_TABLES__))))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+						push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- (!def(__UCLIBC_HAS_XLOCALE__)|!def(__UCLIBC_HAS_LOCALE__)) (((!def(__UCLIBC_HAS_LOCALE__)&def(__UCLIBC_HAS_CTYPE_TABLES__)&def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_CTYPE_TABLES__))))
+						pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+					push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_CTYPE_TABLES__)))
+					pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/ctype.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/getopt.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/unistd.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/wchar.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (def(__UCLIBC_HAS_WCHAR__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h -- def(__UCLIBC_HAS_WCHAR__) (def(__UCLIBC_HAS_WCHAR__))
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (def(__UCLIBC_HAS_WCHAR__))
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h -- True (def(__UCLIBC_HAS_WCHAR__))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/wchar.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_WCHAR__)&def(__UCLIBC_HAS_XLOCALE__)))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_WCHAR__)&def(__UCLIBC_HAS_XLOCALE__)))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h -- def(__UCLIBC_HAS_XLOCALE__) ((def(__UCLIBC_HAS_WCHAR__)&def(__UCLIBC_HAS_XLOCALE__)))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/xlocale.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/wchar.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_mutex.h -- True (True)
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_mutex.h
+	pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/stdio/_stdio.h
+	push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/printf.h -- True (True)
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h -- True (True)
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdio.h
+		push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True (True)
+		pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h -- True (True)
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/endian.h
+	pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/printf.h
+	push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/float.h -- True (True)
+	pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/float.h
+	push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h -- True (True)
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- !def(__UCLIBC_HAS_XLOCALE__) (!def(__UCLIBC_HAS_XLOCALE__))
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+		push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- !def(__UCLIBC_HAS_XLOCALE__) (!def(__UCLIBC_HAS_XLOCALE__))
+		pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h -- !def(__UCLIBC_HAS_XLOCALE__) (!def(__UCLIBC_HAS_XLOCALE__))
+			push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h -- True ((!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)))
+			pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h -- True ((!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/stdint.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h -- True ((!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)))
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- ((!def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__)&def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__))) ((def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__)&!def(__UCLIBC_HAS_XLOCALE__)))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+				push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h -- ((!def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__)&def(__UCLIBC_HAS_XLOCALE__))|(!def(__UCLIBC_HAS_XLOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__))) ((def(__UCLIBC_HAS_LOCALE__)&!def(__UCLIBC_HAS_CTYPE_TABLES__)&!def(__UCLIBC_HAS_XLOCALE__)))
+				pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/types.h
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_touplow.h
+			push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h -- True ((!def(__UCLIBC_HAS_XLOCALE__)&def(__UCLIBC_HAS_LOCALE__)))
+			pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale_data.h
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_locale.h
+	pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/locale.h
+	push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_fpmax.h -- True (True)
+		push file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h -- True (True)
+		pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/features.h
+		push file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/float.h -- True (True)
+		pop file ../systems/redhat/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/float.h
+	pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/include/bits/uClibc_fpmax.h
+pop file /home/snadi/FeatureDependency/Code/CaseStudies/farce-uclibc/uClibc/libc/stdio/_fpmaxtostr.c
+
+
+
+Statistics (max_nesting,header_count,distinct files):
+13;306;103

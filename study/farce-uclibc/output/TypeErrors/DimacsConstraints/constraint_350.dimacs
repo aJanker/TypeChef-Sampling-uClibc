@@ -1,0 +1,12 @@
+c 2 __UCLIBC_HAS_CTYPE_TABLES__
+c 4 __TARGET_i386__
+c 3 __UCLIBC_HAS_XLOCALE__
+c 1 __UCLIBC_HAS_LOCALE__
+c 5 __TARGET_sparc__
+c 6 __TARGET_sh__
+c 7 __TARGET_c6x__
+p cnf 7 4
+1 -2 -3 -4 1
+1 -2 -3 -5 1
+1 -2 -3 -6 1
+1 -2 -3 -7 1

@@ -1,0 +1,9 @@
+c 6 __UCLIBC_HAS_FTW__
+c 4 __UCLIBC_HAS_FLOATS__
+c 2 __UCLIBC_HAS_NFTW__
+c 1 __UCLIBC_HAS_XLOCALE__
+c 5 __UCLIBC_HAS_LOCALE__
+c 3 __UCLIBC_HAS_LFS__
+p cnf 6 2
+-4 -3 -2 -1 5 1
+-4 -3 -6 -1 5 1

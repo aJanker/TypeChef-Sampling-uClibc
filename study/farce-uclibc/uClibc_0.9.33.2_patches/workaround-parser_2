@@ -1,0 +1,38 @@
+--- uClibc/libcrypt/sha512.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libcrypt/sha512.c	2013-06-21 15:52:37.898299252 -0400
+@@ -150,18 +150,18 @@ sha512_process_block (const void *buffer
+       /* It is unfortunate that C does not provide an operator for
+ 	 cyclic rotation.  Hope the C compiler is smart enough.  */
+ #define CYCLIC(w, s) ((w >> s) | (w << (64 - s)))
+-
++	unsigned int t;
+       /* Compute the message schedule according to FIPS 180-2:6.3.2 step 2.  */
+-      for (unsigned int t = 0; t < 16; ++t)
++      for (t = 0; t < 16; ++t)
+ 	{
+ 	  W[t] = SWAP (*words);
+ 	  ++words;
+ 	}
+-      for (unsigned int t = 16; t < 80; ++t)
++      for (t = 16; t < 80; ++t)
+ 	W[t] = R1 (W[t - 2]) + W[t - 7] + R0 (W[t - 15]) + W[t - 16];
+ 
+       /* The actual computation according to FIPS 180-2:6.3.2 step 3.  */
+-      for (unsigned int t = 0; t < 80; ++t)
++      for (t = 0; t < 80; ++t)
+ 	{
+ 	  uint64_t T1 = h + S1 (e) + Ch (e, f, g) + K[t] + W[t];
+ 	  uint64_t T2 = S0 (a) + Maj (a, b, c);
+@@ -248,9 +248,10 @@ __sha512_finish_ctx (struct sha512_ctx *
+ 
+   /* Process last bytes.  */
+   sha512_process_block (ctx->buffer, bytes + pad + 16, ctx);
+-
++   
++  unsigned int i;
+   /* Put result from CTX in first 64 bytes following RESBUF.  */
+-  for (unsigned int i = 0; i < 8; ++i)
++  for (i = 0; i < 8; ++i)
+     ((uint64_t *) resbuf)[i] = SWAP (ctx->H[i]);
+ 
+   return resbuf;

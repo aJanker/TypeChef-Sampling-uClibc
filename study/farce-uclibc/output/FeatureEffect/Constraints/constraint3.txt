@@ -1,0 +1,1 @@
+(!definedEx(__ARCH_HAS_NO_SHARED__) || (definedEx(__UCLIBC_HAS_THREADS__) && definedEx(__UCLIBC_HAS_THREADS_NATIVE__)) || !definedEx(__LDSO_STANDALONE_SUPPORT__))

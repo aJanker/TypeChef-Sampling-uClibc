@@ -1,0 +1,11 @@
+--- uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/libc-tsd.h.orig	2013-07-12 11:34:02.472461380 -0400
++++ uClibc/libpthread/linuxthreads.old/sysdeps/pthread/bits/libc-tsd.h	2013-07-03 04:21:49.821772902 -0400
+@@ -40,7 +40,7 @@ enum __libc_tsd_key_t { _LIBC_TSD_KEY_MA
+ #if defined(USE_TLS) && USE_TLS && HAVE___THREAD
+ 
+ /* When __thread works, the generic definition is what we want.  */
+-# include <sysdeps/generic/bits/libc-tsd.h>
++//# include <sysdeps/generic/bits/libc-tsd.h>
+ 
+ #else
+ 

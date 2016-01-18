@@ -1,0 +1,54 @@
+--- uClibc/libc/string/_collate.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libc/string/_collate.c	2013-06-14 14:33:32.850837910 -0400
+@@ -55,7 +55,11 @@ int wcscoll (const Wchar *s0, const Wcha
+ {
+ 	return wcscoll_l(s0, s1, __UCLIBC_CURLOCALE );
+ }
++#if defined(__UCLIBC_HAS_XLOCALE__)
++libc_hidden_def(wcscoll)
++#elif !defined(__UCLIBC_HAS_XLOCALE__)
+ libc_hidden_def(wcscoll)
++#endif
+ 
+ 
+ size_t wcsxfrm(Wchar *__restrict ws1, const Wchar *__restrict ws2, size_t n)
+@@ -532,7 +536,13 @@ int __XL_NPP(wcscoll) (const Wchar *s0,
+ 
+ 	return 0;
+ }
+-libc_hidden_def(__XL_NPP(wcscoll))
++
++#if defined(__UCLIBC_HAS_XLOCALE__)
++libc_hidden_def(__XL_NPP(wcscoll))
++#elif !defined(__UCLIBC_HAS_XLOCALE__)
++libc_hidden_def(__XL_NPP(wcscoll))
++#endif
++
+ 
+ #ifdef WANT_WIDE
+ 
+@@ -574,8 +584,12 @@ size_t __XL_NPP(wcsxfrm)(wchar_t *__rest
+ 	return count-1;
+ }
+ #if defined L_strxfrm_l || defined L_wcsxfrm_l
++#if defined(__UCLIBC_HAS_XLOCALE__)
++libc_hidden_def(__XL_NPP(wcsxfrm))
++#elif !defined(__UCLIBC_HAS_XLOCALE__)
+ libc_hidden_def(__XL_NPP(wcsxfrm))
+ #endif
++#endif
+ 
+ #else  /* WANT_WIDE */
+ 
+@@ -657,7 +671,11 @@ size_t __XL_NPP(strxfrm)(char *__restric
+ 	return count-1;
+ }
+ #ifdef L_strxfrm_l
++#if (!definedEx(__UCLIBC_HAS_XLOCALE__) || !definedEx(__UCLIBC_HAS_LOCALE__))
+ libc_hidden_def(__XL_NPP(strxfrm))
++#elif (definedEx(__UCLIBC_HAS_XLOCALE__) && definedEx(__UCLIBC_HAS_LOCALE__))
++libc_hidden_def(__XL_NPP(strxfrm))
++#endif
+ #endif
+ 
+ #endif /* WANT_WIDE */

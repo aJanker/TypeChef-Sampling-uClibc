@@ -1,0 +1,53 @@
+--- uClibc/libc/stdio/_fpmaxtostr.c.orig	2012-05-15 03:20:09.000000000 -0400
++++ uClibc/libc/stdio/_fpmaxtostr.c	2013-09-06 14:47:15.862467798 -0400
+@@ -159,30 +159,30 @@ static const __fpmax_t exp10_table[] =
+ #endif
+ 
+ static const __fpmax_t exp16_table[] = {
+-	0x1.0p4L, 0x1.0p8L, 0x1.0p16L, 0x1.0p32L, 0x1.0p64L,
++	1e1L, 1e1L, 1e1L, 1e1L,1e1L,
+ #if FPMAX_MAX_EXP >= 128
+-	0x1.0p128L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 256
+-	0x1.0p256L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 512
+-	0x1.0p512L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 1024
+-	0x1.0p1024L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 2048
+-	0x1.0p2048L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 4096
+-	0x1.0p4096L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 8192
+-	0x1.0p8192L,
++	1e1L,
+ #endif
+ #if FPMAX_MAX_EXP >= 16384
+-	0x1.0p16384L
++	1e1L
+ #endif
+ #if FPMAX_MAX_EXP >= 32768
+ #error unsupported FPMAX_MAX_EXP.  please increase table
+@@ -314,8 +314,8 @@ ssize_t _fpmaxtostr(FILE * fp, __fpmax_t
+ #ifdef __UCLIBC_HAS_HEXADECIMAL_FLOATS__
+ 
+ 		if ((mode|0x20) == 'a') {
+-			lower_bnd = 0x1.0p31L;
+-			upper_bnd = 0x1.0p32L;
++			lower_bnd = 1e256L;
++			upper_bnd = 1e256L;
+ 			power_table = exp16_table;
+ 			exp = HEX_DIGITS_PER_BLOCK - 1;
+ 			i = EXP16_TABLE_SIZE;

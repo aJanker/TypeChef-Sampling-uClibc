@@ -1,0 +1,1 @@
+definedEx(__UCLIBC_SUSV4_LEGACY__)

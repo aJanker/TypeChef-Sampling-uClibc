@@ -1,0 +1,5 @@
+c 2 __UCLIBC_HAS_LOCALE__
+c 3 __UCLIBC_HAS_REALTIME__
+c 1 __UCLIBC_HAS_XLOCALE__
+p cnf 3 1
+-1 2 -3 1

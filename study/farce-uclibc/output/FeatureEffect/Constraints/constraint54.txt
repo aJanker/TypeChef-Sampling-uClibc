@@ -1,0 +1,1 @@
+(!definedEx(__DOASSERTS__) || (definedEx(__MALLOC_STANDARD__) && definedEx(__UCLIBC_MALLOC_DEBUGGING__)))

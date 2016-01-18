@@ -1,0 +1,5 @@
+LINE: 1
+TrueITS A TAUTOLOGY!!
+Num. of unique implications extracted: 61
+Num. of unique implications found in Feature Model formula: 61
+Num. of unique implications not found in Feature Model formula: 0

@@ -1,0 +1,2 @@
+Read all lines and parsed 
+created formula

@@ -1,0 +1,1 @@
+(definedEx(__UCLIBC_HAS_IPV4__) || definedEx(__UCLIBC_HAS_IPV6__) || definedEx(__UCLIBC_HAS_CRYPT_IMPL__))

@@ -1,0 +1,6 @@
+False
+True
+def(__UCLIBC_HAS_PROGRAM_INVOCATION_NAME__)
+!def(__UCLIBC_HAS_THREADS__)
+def(__UCLIBC_HAS_TLS__)
+!def(__UCLIBC_HAS_TLS__)

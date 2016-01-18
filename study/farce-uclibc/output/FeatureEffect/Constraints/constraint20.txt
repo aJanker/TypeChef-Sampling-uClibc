@@ -1,0 +1,1 @@
+(!definedEx(__UCLIBC_HAS_TZ_FILE_READ_MANY__) || definedEx(__UCLIBC_HAS_TZ_FILE__))

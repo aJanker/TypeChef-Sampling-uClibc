@@ -1,0 +1,6 @@
+
+
+./uClibc/libc/string/wcscasecmp_l.err:SEVERE: de.fosd.typechef.lexer.InternalException: Bad token, type: 35, token: [#@1,5]:"#"@True, source: string literal: __EI_#if definedEx(__UCLIBC_HAS_XLOCALE__)
+./uClibc/libc/string/wcscasecmp_l.err:de.fosd.typechef.lexer.InternalException: Bad token, type: 35, token: [#@1,5]:"#"@True, source: string literal: __EI_#if definedEx(__UCLIBC_HAS_XLOCALE__)
+./uClibc/libc/string/strcasecmp_l.err:SEVERE: de.fosd.typechef.lexer.InternalException: Bad token, type: 35, token: [#@1,5]:"#"@True, source: string literal: __EI_#if (!definedEx(__UCLIBC_HAS_XLOCALE__) || !definedEx(__UCLIBC_HAS_LOCALE__))
+./uClibc/libc/string/strcasecmp_l.err:de.fosd.typechef.lexer.InternalException: Bad token, type: 35, token: [#@1,5]:"#"@True, source: string literal: __EI_#if (!definedEx(__UCLIBC_HAS_XLOCALE__) || !definedEx(__UCLIBC_HAS_LOCALE__))

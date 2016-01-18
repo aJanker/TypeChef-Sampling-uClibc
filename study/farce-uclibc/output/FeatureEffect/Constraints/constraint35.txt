@@ -1,0 +1,1 @@
+(!definedEx(__SSP_QUICK_CANARY__) || definedEx(__UCLIBC_HAS_SSP__))

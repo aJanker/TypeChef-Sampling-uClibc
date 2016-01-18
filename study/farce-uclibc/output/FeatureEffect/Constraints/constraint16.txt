@@ -1,0 +1,1 @@
+(!definedEx(__ARCH_HAS_BWD_MEMCPY__) || (!definedEx(__UCLIBC_HAS_STRING_ARCH_OPT__) && definedEx(__UCLIBC_HAS_STRING_GENERIC_OPT__)))

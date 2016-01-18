@@ -1,0 +1,5 @@
+Num. of implications in feature model impl. graph: 1647
+Num. of implications in feature model: 1647
+Num. of implications in All Code Model: 1026
+Num. of feature model implications found in All Code Model impl. graph: 8
+TOTAL FOUND: 8

@@ -1,0 +1,5 @@
+c 1 __UCLIBC_HAS_THREADS__
+c 2 __LINUXTHREADS_NEW__
+c 3 __LINUXTHREADS_OLD__
+p cnf 3 1
+-1 -2 3 1

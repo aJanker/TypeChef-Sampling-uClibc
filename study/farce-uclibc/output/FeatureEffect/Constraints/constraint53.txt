@@ -1,0 +1,1 @@
+((!definedEx(__UCLIBC_HAS_THREADS_NATIVE__) && definedEx(__UCLIBC_HAS_SSP__) && definedEx(__UCLIBC_HAS_TLS__)) || (!definedEx(__UCLIBC_HAS_TLS__) && definedEx(__UCLIBC_HAS_SSP__)) || (definedEx(__UCLIBC_HAS_SSP__) && definedEx(__UCLIBC_HAS_SSP_COMPAT__)) || !definedEx(__UCLIBC_BUILD_RELRO__))

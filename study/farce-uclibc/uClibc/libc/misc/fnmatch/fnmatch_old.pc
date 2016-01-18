@@ -1,0 +1,1 @@
+(definedEx(__UCLIBC_HAS_FNMATCH_OLD__) && definedEx(__UCLIBC_HAS_FNMATCH__))

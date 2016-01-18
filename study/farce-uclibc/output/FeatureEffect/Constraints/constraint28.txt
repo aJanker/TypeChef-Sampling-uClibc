@@ -1,0 +1,1 @@
+(!definedEx(__UCLIBC_HAS_GNU_GETOPT__) || !definedEx(__UCLIBC_HAS_GETOPT_LONG__))

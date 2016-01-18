@@ -1,0 +1,4 @@
+c 2 __UCLIBC_HAS_XLOCALE__
+c 1 __UCLIBC_HAS_CTYPE_TABLES__
+p cnf 2 1
+1 -2 1

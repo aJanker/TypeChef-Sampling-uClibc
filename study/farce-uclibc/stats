@@ -1,0 +1,32 @@
+uClibc
+------
+
+
+Total fm load time: 535.1310000000002s
+Total lexing time: 13347.702000000005s
+Total parsing time: 28303.879999999994s
+Total type checking time: 5257.85s
+Total interface creation time: 167.90499999999963s
+Total interface write time: 751.6929999999995s
+
+Avg. lexing time: 8.198834s
+Avg. parsing time: 17.385675s
+Avg. type checking time: 4.189522s
+Avg. interface creation time: 0.13378884s
+
+Stddev lexing time: 3.0831353404898048s
+Stddev parsing time: 6.726684090657279s
+Stddev  type checking time: 2.6327355405380715s
+Stddev  interface creation time: 0.12308814269284224s
+
+
+Extracting file pc constraints: 0.0009hr
+Extracting linker constraints: 130.013s --> 0.036hr
+Extracting type constraints: 14.594s --> 0.004hr
+Extracting parsing constraints: 16.092 --> 0.00447
+Extracting preprocessor constraints: 3.737 --> 0.001
+Extracting nesting constraints: 19.692 --> 0.00547
+
+1,628 source files processed
+211,794 LOC
+297 features

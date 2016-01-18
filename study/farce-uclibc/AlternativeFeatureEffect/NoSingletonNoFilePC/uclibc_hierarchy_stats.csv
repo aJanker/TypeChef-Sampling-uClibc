@@ -1,0 +1,15 @@
+numOfConstraints,54,100
+numOfTaut,0,0.0
+numOfContr,0,0.0
+preprocessor,0, 0.0
+parser,0,0.0
+type,0,0.0
+linker,0,0.0
+spec1Added,0,0.0
+feffect,8,15.0
+feffect_build,4,7.0
+spec2Added,12,22.0
+codeAdded,12,22.0
+spec1Combined, 0,0.0
+spec2Combined, 0,0.0
+codeCombined, 0,0.0

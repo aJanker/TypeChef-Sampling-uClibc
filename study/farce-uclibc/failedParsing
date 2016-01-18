@@ -1,0 +1,2 @@
+./uClibc/libpthread/linuxthreads/specific.dbg:True	failed: found "if", but expected "}" at /home/snadi/Documents/Academic/Papers/FeatureDependency/Code/CaseStudies/farce-uClibc/uClibc/libpthread/linuxthreads/specific.pi:98605:2 (List())
+./uClibc/libpthread/linuxthreads/specific.dbg:True	failed: found "if", but expected "}" at /home/snadi/Documents/Academic/Papers/FeatureDependency/Code/CaseStudies/farce-uClibc/uClibc/libpthread/linuxthreads/specific.pi:98605:2 (List())

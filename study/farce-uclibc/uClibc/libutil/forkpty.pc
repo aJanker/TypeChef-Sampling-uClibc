@@ -1,0 +1,1 @@
+(definedEx(__ARCH_USE_MMU__) && definedEx(__UCLIBC_HAS_LIBUTIL__))

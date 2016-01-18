@@ -1,0 +1,5 @@
+Num. of mutual excl. in feature model mutex graph: 4622
+Num. of implications in feature model: 4622
+Num. of mutual exclusions in All Code Model: 556
+Num. of feature model mutual exclusions found in All Code Model mutex graph: 22
+TOTAL FOUND: 22

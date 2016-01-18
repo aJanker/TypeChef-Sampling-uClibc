@@ -1,0 +1,1 @@
+(!definedEx(__UCLIBC_FALLBACK_TO_ETC_LOCALTIME__) || definedEx(__UCLIBC_HAS_TZ_FILE__))

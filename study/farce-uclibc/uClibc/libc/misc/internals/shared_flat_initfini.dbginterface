@@ -1,0 +1,8 @@
+fm True
+features (0)
+	
+imports (0)
+
+exports (2)
+	__shared_flat_fini: () => void 		if (def(__UCLIBC_FORMAT_FLAT_SEP_DATA__)|def(__UCLIBC_FORMAT_SHARED_FLAT__))		at :-1:-1
+	__shared_flat_init: () => void 		if (def(__UCLIBC_FORMAT_FLAT_SEP_DATA__)|def(__UCLIBC_FORMAT_SHARED_FLAT__))		at :-1:-1
