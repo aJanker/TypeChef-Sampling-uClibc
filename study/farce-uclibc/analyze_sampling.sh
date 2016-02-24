@@ -1,19 +1,39 @@
 #!/bin/bash -e
 #!/bin/bash -vxe
 
+#SBATCH -D /scratch/janker/uclibc/study/farce-uclibc
+#SBATCH --job-name=uclibc-typechef-sampling
+#SBATCH -p idle
+#SBATCH -A idle
+#SBATCH --qos=idle
+#SBATCH --get-user-env
+#SBATCH -n 1
+#SBATCH -c 2
+#SBATCH --mail-type=FAIL
+#SBATCH --mail-user=janker@fim.uni-passau.de
+#SBATCH --mem_bind=local
+#SBATCH --output=/dev/null
+#SBATCH --error=/dev/null
+#SBATCH --time=20:00:00
+#SBATCH --array=0-1623
+#SBATCH --mem=5120
+#SBATCH --exclude=zmiy[01-18],hydra,sphinx
+
 filesToProcess() {
   local listFile=filelist
   cat $listFile
   #awk -F: '$1 ~ /.c$/ {print gensub(/\.c$/, "", "", $1)}' < linux_2.6.33.3_pcs.txt
 }
 
+configId=${SLURM_ARRAY_TASK_ID}
+i=`cat filelist | head -n $((configId + 1)) | tail -n1`
+
 flags=""
 srcPath=$PWD/uClibc
-srcPath=$(echo $srcPath | sed s/scratch/local/g)
 target=x86_64
 
 #--openFeat $srcPath/openFeaturesList.txt
-export partialPreprocFlags="--bdd --reuseAST --no-warnings --openFeat $srcPath/openFeaturesList.txt --featureModelDimacs $srcPath/uclibc.dimacs --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-pc-linux-gnu/4.8.4/include   --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
+export partialPreprocFlags="--bdd --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include  -A cfginnonvoidfunction -A doublefree -A xfree -A uninitializedmemory -A casetermination -A danglingswitchcode -A checkstdlibfuncreturn -A deadstore -A interactiondegree --reuseAST  --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
 
 flags() {
   	name="$1"
@@ -117,10 +137,18 @@ flags() {
 }
 
 #cat filelist | parallel -j 30 ./jcpp.sh $srcPath/{}.c $extraFlags
-## Reset output
-filesToProcess|while read i; do
-  extraFlags="$(flags "$i")"
-    #touch $srcPath/$i.dbg
-    sbatch -p chimaira  -A spl -n 1 -c 2 --time=06:00:00  --mem_bind=local --output=/dev/null --error=/dev/null  /home/janker/clusterScripts/uclibc_sampling.sh  $srcPath/$i.c $partialPreprocFlags $extraFlags
-done
 
+## Reset output
+outDbg="$srcPath/$i.dbg"
+outErr="$srcPath/$i.err"
+extraFlags="$(flags "$i")"
+echo " $srcPath/$i.c $partialPreprocFlags $extraFlags"
+/scratch/janker/TypeChef/typechef.sh $srcPath/$i.c $partialPreprocFlags $extraFlags 2> $outErr |tee $outDbg
+
+cat $outErr 1>&2
+
+ gzip -c ${outErr} > ${outErr}.gz
+ gzip -c ${outDbg} > ${outDbg}.gz
+
+ rm ${outErr}
+ rm ${outDbg}
