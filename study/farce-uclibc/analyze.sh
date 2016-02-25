@@ -5,6 +5,7 @@
 #SBATCH --job-name=uclibc-typechef-vaa
 #SBATCH -p chimaira
 #SBATCH -A spl
+#SBATCH --qos=lopri
 #SBATCH --get-user-env
 #SBATCH -n 1
 #SBATCH -c 2
@@ -15,6 +16,7 @@
 #SBATCH --error=/dev/null
 #SBATCH --time=10:00:00
 #SBATCH --array=0-1623
+#SBATCH --exclude=chimaira17
 
 filesToProcess() {
   local listFile=filelist

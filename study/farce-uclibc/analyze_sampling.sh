@@ -3,9 +3,9 @@
 
 #SBATCH -D /scratch/janker/uclibc/study/farce-uclibc
 #SBATCH --job-name=uclibc-typechef-sampling
-#SBATCH -p idle
-#SBATCH -A idle
-#SBATCH --qos=idle
+#SBATCH -p chimaira
+#SBATCH -A spl
+#SBATCH --qos=lopri
 #SBATCH --get-user-env
 #SBATCH -n 1
 #SBATCH -c 2
@@ -17,7 +17,7 @@
 #SBATCH --time=20:00:00
 #SBATCH --array=0-1623
 #SBATCH --mem=5120
-#SBATCH --exclude=zmiy[01-18],hydra,sphinx
+#SBATCH --exclude=chimaira17
 
 filesToProcess() {
   local listFile=filelist
