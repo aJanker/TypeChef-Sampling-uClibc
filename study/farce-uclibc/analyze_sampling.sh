@@ -12,11 +12,9 @@
 #SBATCH --mail-type=FAIL
 #SBATCH --mail-user=janker@fim.uni-passau.de
 #SBATCH --mem_bind=local
-#SBATCH --output=/dev/null
-#SBATCH --error=/dev/null
-#SBATCH --time=20:00:00
-#SBATCH --array=0-1623
-#SBATCH --mem=5120
+#SBATCH --output=/home/janker/chimaira_update/run-%j 
+#SBATCH --time=10:00:00
+#SBATCH --array=0-10
 #SBATCH --exclude=chimaira17
 
 filesToProcess() {
@@ -33,7 +31,7 @@ srcPath=$PWD/uClibc
 target=x86_64
 
 #--openFeat $srcPath/openFeaturesList.txt
-export partialPreprocFlags="--bdd --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include  -A cfginnonvoidfunction -A doublefree -A xfree -A uninitializedmemory -A casetermination -A danglingswitchcode -A checkstdlibfuncreturn -A deadstore -A interactiondegree --reuseAST  --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
+export partialPreprocFlags="--bdd --openFeat $srcPath/../openFeaturesList.txt --featureModelDimacs $srcPath/../uclibc.dimacs  --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include  --reuseAST --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
 
 flags() {
   	name="$1"
@@ -143,7 +141,7 @@ outDbg="$srcPath/$i.dbg"
 outErr="$srcPath/$i.err"
 extraFlags="$(flags "$i")"
 echo " $srcPath/$i.c $partialPreprocFlags $extraFlags"
-/scratch/janker/TypeChef/typechef.sh $srcPath/$i.c $partialPreprocFlags $extraFlags 2> $outErr |tee $outDbg
+./sampling.sh $srcPath/$i.c $partialPreprocFlags $extraFlags 2> $outErr |tee $outDbg
 
 cat $outErr 1>&2
 

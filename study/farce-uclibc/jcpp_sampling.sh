@@ -28,7 +28,7 @@ if [ -z "$inp" ]; then
   exit 1
 fi
 
-cd $(dirname $inp)
+#cd $(dirname $inp)
 
 outBase="$(dirname $inp)/$(basename $inp .c)"
 outDbg="$outBase.dbg"
