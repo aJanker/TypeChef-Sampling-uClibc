@@ -16,7 +16,6 @@
 #SBATCH --error=/dev/null
 #SBATCH --time=10:00:00
 #SBATCH --array=0-1623
-#SBATCH --exclude=chimaira17
 
 filesToProcess() {
   local listFile=filelist

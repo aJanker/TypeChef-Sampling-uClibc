@@ -12,10 +12,11 @@
 #SBATCH --mail-type=FAIL
 #SBATCH --mail-user=janker@fim.uni-passau.de
 #SBATCH --mem_bind=local
-#SBATCH --output=/home/janker/chimaira_update/run-%j 
+#SBATCH --output=/dev/null 
+#SBATCH --error=/dev/null
 #SBATCH --time=10:00:00
-#SBATCH --array=0-10
-#SBATCH --exclude=chimaira17
+#SBATCH --array=0-1623
+
 
 filesToProcess() {
   local listFile=filelist
