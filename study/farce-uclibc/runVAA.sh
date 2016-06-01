@@ -13,14 +13,14 @@ srcPath=$PWD/uClibc
 target=x86_64
 
 #--openFeat $srcPath/openFeaturesList.txt
-export partialPreprocFlags="--bdd --openFeat $srcPath/../openFeaturesList.txt --featureModelDimacs $srcPath/../uclibc.dimacs  --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I /usr/include/ -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include-fixed -I /usr/lib/gcc/x86_64-linux-gnu/4.8.4/include  -A cfginnonvoidfunction -A doublefree -A xfree -A uninitializedmemory -A casetermination -A danglingswitchcode -A checkstdlibfuncreturn -A deadstore -A interactiondegree --serializeAST  --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
+export partialPreprocFlags="--bdd --openFeat $srcPath/../openFeaturesList.txt --featureModelDimacs $srcPath/../uclibc.dimacs  --include header.h --include builtin.h --include $srcPath/include/libc-symbols.h  -I $srcPath -I $srcPath/include -I $srcPath/include/sys -I $srcPath/../../../../TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include-fixed  -I $srcPath/../../../../TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include -I $srcPath/../../../../TypeChef-GNUCHeader/usr_include/x86_64-linux-gnu -I $srcPath/../../../../TypeChef-GNUCHeader/usr_include   -A cfginnonvoidfunction -A doublefree -A xfree -A uninitializedmemory -A casetermination -A danglingswitchcode -A checkstdlibfuncreturn -A deadstore -A interactiondegree --serializeAST  --recordTiming --parserstatistics  --openFeat=openFeaturesList.txt --adjustLines"
 
 flags() {
   	name="$1"
   	base="$(basename "$1")"
 
 
-	extraFlag="-I $srcPath/libc/sysdeps/linux -I $srcPath/libc/sysdeps/linux/common -I $srcPath/libc/sysdeps/linux/common/bits"	
+	#extraFlag="-I $srcPath/libc/sysdeps/linux -I $srcPath/libc/sysdeps/linux/common -I $srcPath/libc/sysdeps/linux/common/bits"	
 	#define __SSP__ in general then undefine it for specific files
 	extraFlag="$extraFlag -I $srcPath/libc/sysdeps/linux/$target -I $srcPath/libc/sysdeps/linux/$target/bits -D__SSP__"
 	
@@ -40,7 +40,7 @@ flags() {
 
 	elif grep -q "librt/" <<< "$name"; then	
 		extraFlag="$extraFlag  -DNOT_IN_libc -DIS_IN_librt -I $srcPath/ldso/include -I $srcPath/libpthread"	
-		#extraFlag="$extraFlag  -I $srcPath/ldso/ldso/$target -I $srcPath/ldso/include -I $srcPath/libpthread/nptl/sysdeps/$target -I $srcPath/libpthread/nptl -I $srcPath/libpthread/nptl/sysdeps/pthread -I $srcPath/libpthread/nptl/sysdeps/unix/sysv/linux/$target -I $srcPath/libpthread/nptl/sysdeps/unix/sysv/linux -DNOT_IN_libc -DIS_IN_librt"
+		extraFlag="$extraFlag  -I $srcPath/ldso/ldso/$target -I $srcPath/ldso/include -I $srcPath/libpthread/nptl/sysdeps/$target -I $srcPath/libpthread/nptl -I $srcPath/libpthread/nptl/sysdeps/pthread -I $srcPath/libpthread/nptl/sysdeps/unix/sysv/linux/$target -I $srcPath/libpthread/nptl/sysdeps/unix/sysv/linux -DNOT_IN_libc -DIS_IN_librt"
 	elif grep -q "libintl/" <<< "$name"; then
 		extraFlag="$extraFlag  -DNOT_IN_libc -DIS_IN_libintl"
 	elif grep -q "libm/" <<< "$name"; then
@@ -124,7 +124,7 @@ outDbg="$srcPath/$i.dbg"
 outErr="$srcPath/$i.err"
 extraFlags="$(flags "$i")"
 echo " $srcPath/$i.c $partialPreprocFlags $extraFlags"
-../../TypeChef/typechef.sh $srcPath/$i.c $partialPreprocFlags $extraFlags 2> $outErr |tee $outDbg
+$srcPath/../../../../TypeChef-VAA/typechef.sh $srcPath/$i.c $partialPreprocFlags $extraFlags 2> $outErr |tee $outDbg
 
 cat $outErr 1>&2
 
