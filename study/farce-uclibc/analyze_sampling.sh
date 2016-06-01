@@ -5,7 +5,6 @@
 #SBATCH --job-name=uclibc-typechef-sampling
 #SBATCH -p chimaira
 #SBATCH -A spl
-#SBATCH --qos=lopri
 #SBATCH --get-user-env
 #SBATCH -n 1
 #SBATCH -c 2
